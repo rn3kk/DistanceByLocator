@@ -1,0 +1,37 @@
+Callsign: UA3GKT
+QTH Locator: KO92DQ
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      15            2    0            0
+  435 MHz       4            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               19            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0405 432MHZ     CW   RW3PX         599 001    599 080    0                                 @  KO83RJ
+  2015-07-05 0413 432MHZ     CW   RX3A          599 002    599 042    0                                 @  KO95DI
+  2015-07-05 0428 432MHZ     CW   R2EA          599 003    599 073    0                                 @  KO82JI
+  2015-07-05 0442 432MHZ     CW   R3RW          599 004    599 040    0                                 @  LO03NG
+  2015-07-05 0403 144MHZ     CW   RW3PX         599 001    599 122    0                                 @  KO83RJ
+  2015-07-05 0408 144MHZ     CW   R3DX          599 002    599 082    0                                 @  KO85OG
+  2015-07-05 0410 144MHZ     CW   RX3A          599 003    599 060    0                                 @  KO95DI
+  2015-07-05 0420 144MHZ     CW   RW3WP         599 004    599 097    0                                 @  KO91CT
+  2015-07-05 0422 144MHZ     CW   RV3AQ         599 005    599 098    0                                 @  KO95VN
+  2015-07-05 0424 144MHZ     CW   RN3ZQ         599 006    599 009    0                                 @  KO81WH
+
+  2015-07-05 0426 144MHZ     CW   R2EA          599 007    599 145    0                                 @  KO82JI
+  2015-07-05 0432 144MHZ     CW   RC3P          599 008    599 115    0                                 @  KO93CA
+  2015-07-05 0434 144MHZ     CW   RW3SK         599 009    599 031    0                                 @  KO94XU
+X 2015-07-05 0436 144MHZ     CW   UA3QHF        599 010    599 058    0                                 @  KO91TQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  04:36:00  GMT 145 MHz CW UA3QHF 59(9) 58#KO91OP UA3GKT 59(9) 10#KO92DQ)
+  2015-07-05 0438 144MHZ     CW   UF3D          599 011    599 087    0                                 @  KO95AJ
+  2015-07-05 0439 144MHZ     CW   R3RW          599 012    599 079    0                                 @  LO03NG
+  2015-07-05 0444 144MHZ     CW   RK3MWC        599 013    599 058    0                                 @  LO07BR
+X 2015-07-05 0447 144MHZ     CW   R3ZD          599 014    599 031    0                                 @  KO81OG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  04:47:00  GMT 145 MHz CW R3ZD 59(9) 31#KO81VG UA3GKT 59(9) 14#KO92DQ)
+  2015-07-05 0518 144MHZ     CW   RT2M          599 015    599 116    0                                 @  KO97GC

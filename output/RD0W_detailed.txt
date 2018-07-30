@@ -1,0 +1,57 @@
+Callsign: RD0W
+QTH Locator: NO53OU
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      18            0    0         3081
+  435 MHz      11            0    0         2188
+  1.3 GHz       8            0    0          912
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               37            0    0         6181
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1701 1.3GHZ     SSB  RA0WKQ        59  001    59  002    380                               @  NO53KA
+  2015-07-04 1702 1.3GHZ     SSB  UA0WG         59  002    59  001    100                               @  NO53SR
+  2015-07-04 1703 1.3GHZ     SSB  RA0WMJ        59  003    59  001    100                               @  NO53SR
+  2015-07-04 1704 1.3GHZ     SSB  RA0WU         59  004    59  001    100                               @  NO53SR
+  2015-07-04 1705 1.3GHZ     SSB  UF0W          59  005    59  001    100                               @  NO53SR
+  2015-07-04 1706 1.3GHZ     SSB  RW0W          59  006    59  001    100                               @  NO53SR
+  2015-07-04 1714 1.3GHZ     SSB  RK0WWN        59  007    59  001    16                                @  NO53OT
+  2015-07-04 1715 1.3GHZ     SSB  RA0WGN        59  008    59  001    16                                @  NO53OT
+  2015-07-04 1405 432MHZ     SSB  UA0WY         59  001    59  003    186                               @  NO53IB
+  2015-07-04 1558 432MHZ     SSB  RV9UP         59  002    59  017    600                               @  NO33HU
+
+  2015-07-04 1619 432MHZ     SSB  UA0WG         59  003    59  011    50                                @  NO53SR
+  2015-07-04 1620 432MHZ     SSB  RA0WMJ        59  004    59  009    50                                @  NO53SR
+  2015-07-04 1621 432MHZ     SSB  RA0WU         59  005    59  009    50                                @  NO53SR
+  2015-07-04 1622 432MHZ     SSB  UF0W          59  006    59  009    50                                @  NO53SR
+  2015-07-04 1623 432MHZ     SSB  RW0W          59  007    59  011    50                                @  NO53SR
+  2015-07-04 1624 432MHZ     SSB  RA0WGN        59  008    59  007    8                                 @  NO53OT
+  2015-07-04 1714 432MHZ     SSB  RK0WWN        59  009    59  008    8                                 @  NO53OT
+  2015-07-04 2311 432MHZ     SSB  UA0ALA        59  010    59  006    568                               @  NO66ME
+  2015-07-04 2312 432MHZ     SSB  RU0AOZ        59  011    59  006    568                               @  NO66ME
+  2015-07-04 1407 144MHZ     SSB  RW9USA        59  001    59  004    300                               @  NO33HU
+
+  2015-07-04 1410 144MHZ     SSB  UA0WY         59  002    59  004    93                                @  NO53IB
+  2015-07-04 1453 144MHZ     SSB  RV9UV         59  003    59  011    305                                  NO34GA
+  2015-07-04 1456 144MHZ     SSB  RW9UZZ        59  004    59  020    219                               @  NO33WQ
+  2015-07-04 1540 144MHZ     SSB  UA0WBR        59  005    59  021    186                               @  NO44IQ
+  2015-07-04 1545 144MHZ     SSB  R9UTW         59  006    59  016    253                               @  NO33QO
+  2015-07-04 1547 144MHZ     SSB  RA0WU         59  007    59  009    25                                @  NO53SR
+  2015-07-04 1548 144MHZ     SSB  UF0W          59  008    59  003    25                                @  NO53SR
+  2015-07-04 1549 144MHZ     SSB  RW0W          59  009    59  009    25                                @  NO53SR
+  2015-07-04 1550 144MHZ     SSB  RA0WMJ        59  010    59  004    25                                @  NO53SR
+  2015-07-04 1551 144MHZ     SSB  UA0WG         59  011    59  009    25                                @  NO53SR
+
+  2015-07-04 1552 144MHZ     SSB  RA0WKQ        59  012    59  007    95                                @  NO53KA
+  2015-07-04 1553 144MHZ     SSB  RA9YHK        59  013    59  027    347                               @  NO33AG
+  2015-07-04 1554 144MHZ     SSB  UB9YAK        59  014    59  026    347                               @  NO33AG
+  2015-07-04 1555 144MHZ     SSB  RA9UKW        59  015    59  019    329                               @  NO34DN
+  2015-07-04 1741 144MHZ     SSB  RK0WWN        59  016    59  020    4                                 @  NO53OT
+  2015-07-04 1742 144MHZ     SSB  UA0YDB        59  017    59  011    239                               @  NO62UH
+  2015-07-04 1743 144MHZ     SSB  R0YAA         59  018    59  008    239                               @  NO62UH

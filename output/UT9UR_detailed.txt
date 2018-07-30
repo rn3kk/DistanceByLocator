@@ -1,0 +1,42 @@
+Callsign: UT9UR
+QTH Locator: KO40XD
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      23            3    0         4063
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               23            3    0         4063
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1412 145MHZ     CW   UY5UZ         599 001    599 005    38                                @  KN59BT
+  2015-07-04 1427 145MHZ     SSB  UR5BFX        59  002    59  006    317                               @  KN29TN
+  2015-07-04 1429 145MHZ     SSB  UR5UI         59  003    59  008    43                                @  KN59BS
+  2015-07-04 1444 145MHZ     SSB  UT2UB         59  004    59  013    47                                @  KO50HC
+  2015-07-04 1504 145MHZ     SSB  UT5UUV        59  005    59  009    42                                   KO50GF
+  2015-07-04 1515 145MHZ     CW   UT5UCP        599 006    599 010    53                                @  KO40UO
+  2015-07-04 1517 145MHZ     CW   UW1N          599 007    599 019    201                                  KN39TD
+  2015-07-04 1525 145MHZ     SSB  UT4UEI        59  008    59  006    42                                   KO50GF
+X 2015-07-04 1912 145MHZ     SSB  US5UES        59  009    59  002    0                                 @  KO50PA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  19:13:00  GMT 145 MHz SSB US5UES 59(9) 2#KO50PI UT9UR 59(9) 9#KO40XD)
+  2015-07-04 1919 145MHZ     SSB  UT9UU         59  010    59  004    42                                   KO50GF
+
+  2015-07-04 1928 145MHZ     SSB  RW3WR         59  011    59  116    366                               @  KO71IM
+  2015-07-04 1935 145MHZ     CW   UT8AL         599 012    599 020    321                               @  KO61WP
+  2015-07-04 2019 145MHZ     SSB  UR5NHL/P      59  013    59  016    42                                   KO50GF
+  2015-07-05 0308 145MHZ     CW   UR5LX         599 014    599 037    421                               @  KO70WK
+  2015-07-05 0351 145MHZ     CW   US7SB/P       064 015    599 064    358                               @  KN28QV
+  2015-07-05 0354 145MHZ     CW   UY1HY         599 016    599 050    220                               @  KO60MA
+X 2015-07-05 0429 145MHZ     SSB  UR3YAF        59  017    59  008    0                                 @  KN39DF ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  04:29:00  GMT 145 MHz SSB UR5YAF 59(9) 8#KN39DF UT9UR 59(9) 17#KO40XD)
+  2015-07-05 0433 145MHZ     SSB  UR4XXM/P      59  018    59  034    120                               @  KN49ES
+X 2015-07-05 0450 145MHZ     CW   US5WU         599 019    599 035    0                                 @  KO20DI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:50:00  GMT 145 MHz CW US5WU 59(9) 35#KO20DI UT9UR 59(9) 29#KO40XD)
+  2015-07-05 0624 145MHZ     CW   UW3E/P        599 020    599 056    245                               @  KO31LG
+
+  2015-07-05 0725 145MHZ     CW   UT4NA         599 021    599 044    152                                  KN49EF
+  2015-07-05 1345 145MHZ     CW   UR5W          599 022    599 295    539                               @  KN18IW
+  2015-07-05 1358 145MHZ     CW   UT2SW         599 023    599 043    454                               @  KN19WB

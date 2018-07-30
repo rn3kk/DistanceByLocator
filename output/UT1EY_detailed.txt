@@ -1,0 +1,33 @@
+Callsign: UT1EY
+QTH Locator: KN67RX
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      15            5    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               15            5    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1544 144MHZ     CW   UR6EA         599 001    599 004    0                                    KN68RA
+X 2015-07-04 1547 144MHZ     CW   UT1E          599 002    599 018    0                                 @  KN67RW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:47:00  GMT 145 MHz CW UT1E 59(9) 28#KN67RW UT1EY 59(9) 2#KN67RX)
+  2015-07-04 1603 144MHZ     CW   UR4EWP/P      599 003    599 066    0                                 @  KN78XU
+X 2015-07-04 1611 144MHZ     CW   UT7EL         599 004    599 038    0                                 @  KN77EN ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  16:10:00  GMT 145 MHz CW UT7EL 59(9) 38#KN77EN UT1EYM 59(9) 4#KN67RX)
+  2015-07-04 1612 144MHZ     CW   UT0EK         599 005    599 036    0                                 @  KN67RW
+X 2015-07-04 1849 144MHZ     CW   R6KW          599 006    599 048    0                                 @  KN75CC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:49:00  GMT 145 MHz CW R6KW 59(9) 48#KN75GC UT1EY 59(9) 6#KN67RX)
+  2015-07-04 1853 144MHZ     CW   UW1G          599 007    599 070    0                                 @  KN67UA
+  2015-07-04 2033 144MHZ     CW   UT4LA         599 008    599 052    0                                 @  KN89CW
+X 2015-07-04 2039 144MHZ     CW   UT7EJ         599 009    599 030    0                                 @  KN78AS ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:40:00  GMT 145 MHz CW UT7EJ 59(9) 30#KN78AS UT1EY 59(9) 8#KN67RX)
+X 2015-07-04 2227 144MHZ     CW   UR4VWN        599 010    599 074    0                                 @  KN69OA ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+
+  2015-07-04 2231 144MHZ     CW   UR4QZM        599 011    599 031    0                                 @  KN77UG
+  2015-07-04 2245 144MHZ     CW   UX2HB         599 012    599 034    0                                 @  KN79LK
+  2015-07-04 2250 144MHZ     CW   UT2HC         599 013    599 054    0                                    KN79GN
+  2015-07-04 2258 144MHZ     CW   UR1E/P        599 014    599 095    0                                 @  KN68OA
+  2015-07-05 0217 144MHZ     CW   R7KR          599 015    599 066    0                                 @  KN85FI

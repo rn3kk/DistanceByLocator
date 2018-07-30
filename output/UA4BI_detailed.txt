@@ -1,0 +1,37 @@
+Callsign: UA4BI
+QTH Locator: LN28GQ
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      11            0    0         2336
+  435 MHz       5            0    0         1630
+  1.3 GHz       2            0    0          216
+  5.7 GHz       1            0    0          282
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               19            0    0         4464
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 1337 5.7GHZ     CW   RN4AT         599 001    599 004    282                               @  LN29LA
+  2015-07-04 1620 1.3GHZ     SSB  UA4AGM        59  001    59  001    28                                @  LN28FR
+  2015-07-04 1843 1.3GHZ     SSB  RN4AT         59  002    59  003    188                               @  LN29LA
+  2015-07-04 1403 432MHZ     SSB  RA4APQ        59  001    59  001    8                                 @  LN28GR
+  2015-07-04 1413 432MHZ     SSB  RN4AT         59  002    59  002    94                                @  LN29LA
+  2015-07-04 1607 432MHZ     SSB  UA4AGM        59  003    59  002    14                                @  LN28FR
+  2015-07-04 1649 432MHZ     CW   RN6MA         599 004    599 011    614                               @  LN06UQ
+  2015-07-05 0614 432MHZ     CW   RT7G          599 005    599 034    900                               @  LN05WB
+  2015-07-04 1400 144MHZ     SSB  RN4AT         59  001    59  001    47                                @  LN29LA
+  2015-07-04 1402 144MHZ     SSB  RA4APQ        59  002    59  002    4                                 @  LN28GR
+
+  2015-07-04 1531 144MHZ     CW   R6DZ          599 003    599 056    523                               @  KN96CQ
+  2015-07-04 1536 144MHZ     CW   RA4AR         599 004    599 002    23                                @  LN28HV
+  2015-07-04 1607 144MHZ     SSB  UA4AGM        59  005    59  002    7                                 @  LN28FR
+  2015-07-04 1652 144MHZ     CW   RN6MA         599 006    599 017    307                               @  LN06UQ
+  2015-07-04 1704 144MHZ     SSB  R7LB          59  007    59  026    212                               @  LN08VC
+  2015-07-05 0312 144MHZ     CW   RA4A          599 008    599 031    168                               @  LO20QC
+  2015-07-05 0320 144MHZ     CW   RW6HP         599 009    599 013    431                               @  LN24BT
+  2015-07-05 0532 144MHZ     CW   UA4AQL        599 010    599 025    164                               @  LO20QB
+  2015-07-05 0542 144MHZ     CW   RT7G          599 011    599 069    450                               @  LN05WB

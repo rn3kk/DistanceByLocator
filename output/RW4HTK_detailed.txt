@@ -1,0 +1,22 @@
+Callsign: RW4HTK/P
+QTH Locator: LO43SH
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       5            2    0          798
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            2    0          798
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1746 144MHZ     SSB  RT4D          59  001    59  008    331                               @  LO21TM
+  2015-07-04 1826 144MHZ     SSB  RA9SOA        59  002    59  016    350                               @  LO72DA
+  2015-07-04 1850 144MHZ     SSB  RC4I          59  003    59  036    117                               @  LO54KA
+X 2015-07-04 1911 144MHZ     SSB  R4HF          59  004    59  003    0                                    LO53CH ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 1921 144MHZ     SSB  RX4CQ         59  005    59  013    0                                 @  LO30LW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  19:21:00  GMT 145 MHz SSB RX4CQ 59(9) 13#LO30LW RW4HTK 59(9) 5#LO43SH)

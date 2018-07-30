@@ -1,0 +1,41 @@
+Callsign: UR7D
+QTH Locator: KN18JT
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz      10            2    0            0
+   10 GHz       9            0    0            0
+   24 GHz       3            2    0            0
+------------------------------------------------
+               22            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1402 5.7GHZ     CW   UR5W          599 001    599 001    0                                 @  KN18IW
+  2015-07-04 1534 5.7GHZ     CW   OL9W          599 002    599 006    0                                 @  JN99CL
+  2015-07-04 1548 5.7GHZ     CW   OE3A          599 003    599 007    0                                    JN77XX
+X 2015-07-04 1551 5.7GHZ     CW   OE3KEU/3      599 004    599 007    0                                    JN77XX ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1634 5.7GHZ     CW   HG7F          599 005    599 004    0                                 @  JN97KR
+  2015-07-04 1722 5.7GHZ     CW   HA8V          599 006    599 001    0                                 @  KN06HT
+  2015-07-05 0515 5.7GHZ     CW   OE5VRL/5      599 007    599 013    0                                    JN78DK
+  2015-07-05 0539 5.7GHZ     CW   9A6K          599 008    599 011    0                                 @  JN95HN
+  2015-07-05 0656 5.7GHZ     CW   HA5S          599 009    599 010    0                                 @  JN97FQ
+X 2015-07-05 0916 5.7GHZ     CW   OK1YA         559 010    599 559    0                                 @  JN79IO ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE, QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  09:20:00  GMT 5.7 GHz CW OK1YA 59(9) 16#JN79IO UR7D 59(9) 10#KN18JT)
+
+X 2015-07-04 1531 24GHZ      CW   HA/UR5DDA/P   529 001    449 001    0                                    KN07RV ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 1541 24GHZ      CW   HA/UZ5DA/P    519 002    449 001    0                                    KN07RV ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0733 24GHZ      SSB  HG5ED/P       59  003    59  003    0                                 @  KN07AU
+  2015-07-04 1400 10GHZ      CW   OM6A          599 001    599 001    0                                 @  JN99JC
+  2015-07-04 1559 10GHZ      CW   OE3A          599 002    599 007    0                                    JN77XX
+  2015-07-04 1601 10GHZ      CW   OE3KEU/3      599 003    599 007    0                                    JN77XX
+  2015-07-04 1642 10GHZ      CW   HG7F          599 004    599 007    0                                 @  JN97KR
+  2015-07-04 1724 10GHZ      CW   HA8V          599 005    599 001    0                                 @  KN06HT
+  2015-07-05 0538 10GHZ      CW   HA5UA/P       599 006    599 006    0                                    KN07AU
+  2015-07-05 0542 10GHZ      CW   9A6K          599 007    599 008    0                                 @  JN95HN
+
+  2015-07-05 0653 10GHZ      CW   HA5S          599 008    599 017    0                                 @  JN97FQ
+  2015-07-05 0827 10GHZ      CW   US5WU         599 009    599 001    0                                 @  KO20DI

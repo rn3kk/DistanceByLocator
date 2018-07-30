@@ -1,0 +1,25 @@
+Callsign: UA2CZ
+QTH Locator: KO04OO
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            3    0          432
+  435 MHz       1            0    0          172
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                8            3    0          604
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1921 432MHZ     CW   UA2F          599 001    599 008    172                                  JO94XV
+X 2015-07-04 1456 145MHZ     CW   UA2FL         599 001    599 011    0                                 @  KO04FQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:56:00  GMT 145 MHz CW UA2FL 59(9) 11#KO04FQ UA2CZ 59(9) 1#KO04FQ)
+  2015-07-04 1557 145MHZ     CW   UA2F          599 002    599 013    86                                   JO94XV
+X 2015-07-04 1957 145MHZ     CW   UA2FT         599 003    599 014    0                                 @  KO04LT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  19:56:00  GMT 145 MHz CW UA2FT 59(9) 14#KO04LT UA2CZ 59(9) 3#KO04FQ)
+X 2015-07-04 2059 145MHZ     CW   LY1CR         599 004    599 011    0                                 @  KO15CL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:59:00  GMT 145 MHz CW LY1CR 59(9) 11#KO15CL UA2CZ 59(9) 4#KO04FQ)
+  2015-07-04 2118 145MHZ     CW   RA2FAC        599 005    599 008    88                                   JO94XW
+  2015-07-04 2125 145MHZ     CW   SP4TKR        599 006    599 004    81                                   KO04FA
+  2015-07-05 0933 145MHZ     CW   SP2WPY        599 007    599 018    177                                  JO94FL

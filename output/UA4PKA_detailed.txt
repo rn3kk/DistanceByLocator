@@ -1,0 +1,76 @@
+Callsign: UA4PKA
+QTH Locator: LO64GO
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      54           10    0        18009
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               54           10    0        18009
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1406 144MHZ     SSB  R9WDD         59  001    59  001    61                                @  LO64RK
+  2015-07-04 1408 144MHZ     SSB  RW4WP         59  002    59  001    264                               @  LO66CX
+X 2015-07-04 1408 144MHZ     SSB  UA9WFN        59  003    59  001    0                                 @  LO66CK ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  14:08:00  GMT 145 MHz SSB UA4WFN 59(9) 1#LO66CK UA4PKA 59(9) 3#LO64GO)
+X 2015-07-04 1415 144MHZ     SSB  RT4S          59  004    59  002    0                                 @  LO46MO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:15:00  GMT 145 MHz SSB RT4S 59(9) 2#LO46MQ UA4PKA 59(9) 4#LO64GO)
+  2015-07-04 1417 144MHZ     SSB  UA4NDX        59  005    59  006    296                               @  LO56EX
+  2015-07-04 1418 144MHZ     SSB  RW4WE         59  006    59  003    254                               @  LO66PU
+  2015-07-04 1420 144MHZ     SSB  RZ9WU/P       59  007    59  005    134                               @  LO74GG
+  2015-07-04 1425 144MHZ     SSB  RA4NCQ        59  008    59  004    475                               @  LO58CQ
+  2015-07-04 1430 144MHZ     SSB  RC4Q          59  009    59  002    120                               @  LO65IQ
+  2015-07-04 1431 144MHZ     SSB  R4HKI         59  010    59  003    52                                @  LO54XG
+
+  2015-07-04 1441 144MHZ     SSB  UA9FY         59  011    59  011    547                               @  LO88WN
+X 2015-07-04 1459 144MHZ     SSB  RA9SOA        59  012    59  012    0                                 @  LO72DA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:59:00  GMT 145 MHz SSB RA9SOA 59(9) 5#LO72DA UA4PKA 59(9) 12#LO64GO)
+  2015-07-04 1507 144MHZ     SSB  R9TA          59  013    59  001    123                               @  LO63TQ
+X 2015-07-04 1516 144MHZ     SSB  RX4CQ         59  014    59  007    0                                 @  LO30LW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:16:00  GMT 145 MHz SSB RX4CQ 59(9) 7#LO30LW RA4PKA 59(9) 14#LO64GO)
+  2015-07-04 1521 144MHZ     SSB  RZ4PU         59  015    59  009    264                               @  LO45NX
+  2015-07-04 1534 144MHZ     SSB  RA4NCX        59  016    59  012    591                               @  LO49JM
+  2015-07-04 1538 144MHZ     SSB  RZ9WWB        59  017    59  007    252                               @  LO84FL
+  2015-07-04 1549 144MHZ     SSB  RC4I          59  018    59  019    125                               @  LO54KA
+  2015-07-04 1622 144MHZ     SSB  UA9FE         59  019    59  020    384                               @  LO87CJ
+  2015-07-04 1626 144MHZ     SSB  RW9FWR        59  020    59  005    609                               @  LO98JV
+
+  2015-07-04 1627 144MHZ     SSB  RU9FT         59  021    59  018    561                               @  LO88SU
+  2015-07-04 1638 144MHZ     SSB  RA9CGR        59  022    59  003    404                               @  LO86VR
+  2015-07-04 1640 144MHZ     SSB  R8AZ          59  023    59  016    407                               @  LO94KW
+  2015-07-04 1648 144MHZ     SSB  RA4W          59  024    59  008    268                               @  LO66PX
+  2015-07-04 1655 144MHZ     SSB  RA9FAM        59  025    59  007    417                                  LO87DR
+X 2015-07-04 1657 144MHZ     SSB  UA9FAI        59  026    59  012    0                                 @  LO88VC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  16:57:00  GMT 145 MHz SSB UA9FAI 59(9) 12#LO88VC UA4PKA 59(9) 25#LO64GO)
+X 2015-07-04 1723 144MHZ     SSB  RA4M          59  027    59  007    0                                    LO44EE ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RA4W(33), RA4A(6))
+X 2015-07-04 1740 144MHZ     SSB  RA4PZ         59  028    59  011    0                                 @  LO45MO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-04 1802 144MHZ     SSB  UA9WTF        59  029    59  008    220                               @  LO74XS
+  2015-07-04 1808 144MHZ     SSB  UA9CFH        59  030    59  023    653                               @  MO07RS
+
+  2015-07-04 1812 144MHZ     SSB  RM9CM         59  031    59  026    620                               @  MO07NL
+  2015-07-04 1838 144MHZ     SSB  RA8AA         59  032    59  020    583                               @  MO05TA
+  2015-07-04 1846 144MHZ     SSB  UB4PMC/4      59  033    59  028    230                               @  LO56WP
+  2015-07-04 1902 144MHZ     SSB  RA4SD         59  034    59  015    370                               @  LO36WP
+  2015-07-04 1914 144MHZ     SSB  UA4HQI        59  035    59  008    200                               @  LO53CK
+  2015-07-04 2036 144MHZ     SSB  R4YM          59  036    59  025    377                               @  LO36OD
+  2015-07-04 2100 144MHZ     SSB  R4HV/4        59  037    59  023    415                               @  LO32LU
+  2015-07-04 2111 144MHZ     SSB  UA4WP         59  038    59  022    230                               @  LO56WP
+  2015-07-04 2152 144MHZ     SSB  RC8CA         59  039    59  027    431                               @  LO96JE
+  2015-07-04 2208 144MHZ     SSB  UA9ACA        59  040    59  031    468                               @  LO94VI
+
+  2015-07-04 2210 144MHZ     SSB  R9CCC         59  041    59  035    395                               @  LO86QV
+  2015-07-04 2221 144MHZ     SSB  RM8A          59  042    59  047    492                               @  MO04CT
+  2015-07-04 2344 144MHZ     SSB  RK8T          59  043    59  037    545                               @  LO91PT
+X 2015-07-04 2349 144MHZ     SSB  RZ9AY         59  044    59  050    0                                 @  MO03FX ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  23:49:00  GMT 145 MHz SSB RK9AY 59(9) 50#MO03FX UA4PKA 59(9) 44#LO64GO)
+  2015-07-04 2354 144MHZ     SSB  RZ9AWJ        59  045    59  059    675                               @  MO14MN
+X 2015-07-05 0111 144MHZ     SSB  RZ9AJA        59  046    59  050    0                                 @  LO94QD ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  01:11:00  GMT 145 MHz SSB RZ9AYA 59(9) 50#LO94QD UA4PKA 59(9) 46#LO64GO)
+  2015-07-05 0302 144MHZ     SSB  UA9ARK        59  047    59  037    405                               @  LO95JG
+  2015-07-05 0308 144MHZ     SSB  RA9AAA        59  048    59  043    551                               @  MO05NA
+  2015-07-05 0309 144MHZ     SSB  R8ACC         59  049    59  055    567                               @  MO04QW
+  2015-07-05 0334 144MHZ     SSB  R9FAO         59  050    59  025    459                               @  LO78WH
+
+  2015-07-05 0452 144MHZ     SSB  R9FX/4        59  051    59  045    463                               @  LO32DQ
+  2015-07-05 0608 144MHZ     SSB  R9FBH         59  052    59  022    459                               @  LO78WH
+X 2015-07-05 0611 144MHZ     SSB  UB4WAG        59  053    59  017    0                                 @  LO66PW ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0833 144MHZ     SSB  RA9J          59  054    59  005    1593                              @  MP80KX

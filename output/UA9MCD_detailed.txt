@@ -1,0 +1,31 @@
+Callsign: UA9MCD
+QTH Locator: MO64RV
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz      13            0    0          468
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               13            0    0          468
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1459 432MHZ     SSB  RC9M          59  001    59  012    18                                @  MO64RX
+  2015-07-04 1501 432MHZ     SSB  R9MAO         59  002    59  006    22                                   MO64PH ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-04 1502 432MHZ     SSB  UA9MBQ        59  003    59  001    14                                @  MO64QW
+  2015-07-04 1504 432MHZ     SSB  RO9N          59  004    59  006    8                                 @  MO64RW
+  2015-07-04 1505 432MHZ     SSB  RK9M          59  005    59  012    28                                   MO64QS
+  2015-07-04 1507 432MHZ     SSB  R9MM          59  006    59  012    90                                @  MO65MF
+  2015-07-04 1518 432MHZ     SSB  RY9MAA        59  007    59  014    28                                @  MO65QA
+  2015-07-04 1521 432MHZ     SSB  RU9MC         59  008    59  006    34                                @  MO65PA
+  2015-07-04 1553 432MHZ     SSB  RA9MKH        59  009    59  010    98                                @  MO74AO
+  2015-07-04 1558 432MHZ     SSB  RV9MA         59  010    59  015    28                                @  MO65SA
+
+  2015-07-04 1625 432MHZ     SSB  RL9M          59  011    59  014    22                                @  MO64TW
+  2015-07-04 1644 432MHZ     SSB  R8MZ          59  012    59  012    50                                @  MO65TC
+  2015-07-05 0123 432MHZ     SSB  UA9MJH        59  013    59  010    28                                @  MO65QA

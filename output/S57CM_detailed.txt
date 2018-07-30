@@ -1,0 +1,43 @@
+Callsign: 9A/S57CM
+QTH Locator: JN75GE
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      24            4    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               24            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1610 144MHZ     SSB  S59R          59  001    59  142    0                                 @  JN76OM
+  2015-07-04 1612 144MHZ     SSB  I5MZY/4       59  002    59  055    0                                    JN54OL
+  2015-07-04 1614 144MHZ     SSB  I5PVA/6       59  003    59  150    0                                    JN63GN
+  2015-07-04 1618 144MHZ     SSB  IZ1POA        59  004    59  134    0                                    JN44OQ
+  2015-07-04 1621 144MHZ     SSB  S59P          59  005    59  170    0                                 @  JN86AO
+  2015-07-04 1626 144MHZ     SSB  S57Q          59  006    59  137    0                                 @  JN76PB
+  2015-07-04 1629 144MHZ     SSB  S59DEM        59  007    59  173    0                                 @  JN75DS
+  2015-07-04 1631 144MHZ     SSB  S58M          59  008    59  122    0                                 @  JN76JC
+  2015-07-04 1727 144MHZ     SSB  S56K          59  009    59  116    0                                 @  JN76KI
+X 2015-07-04 1739 144MHZ     SSB  S57M          59  010    59  157    0                                 @  JN76PO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:39:00  GMT 145 MHz SSB S57M 59(9) 157#JN76PO S57CM/9A 59(9) 10#JN75GE)
+
+  2015-07-04 1744 144MHZ     SSB  IQ4AX         59  011    59  139    0                                    JN54KK
+  2015-07-04 1748 144MHZ     SSB  IK3UNA        59  012    59  142    0                                    JN55NO
+  2015-07-04 1750 144MHZ     SSB  9A5G          59  013    59  041    0                                 @  JN75GK
+X 2015-07-04 1809 144MHZ     SSB  9A1BJK/P      59  014    59  039    0                                 @  JN75CH ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1812 144MHZ     SSB  9A5IG         59  015    59  014    0                                 @  JN75DH
+  2015-07-04 1823 144MHZ     SSB  IW2CTQ        48  016    59  086    0                                    JN44PS
+  2015-07-04 2139 144MHZ     SSB  9A2KO         59  017    59  026    0                                 @  JN75IE
+  2015-07-04 2144 144MHZ     SSB  S57CN         59  018    59  122    0                                 @  JN75PS
+  2015-07-05 0755 144MHZ     SSB  IW1ANL        59  019    59  032    0                                    JN35VM
+  2015-07-05 0831 144MHZ     SSB  F1NSR/P       59  020    59  140    0                                    JN34UB
+
+  2015-07-05 1035 144MHZ     SSB  OM3W          59  021    59  673    0                                 @  JN99CH
+X 2015-07-05 1043 144MHZ     SSB  OM7M          59  022    59  567    0                                 @  JN98HP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  10:43:00  GMT 145 MHz SSB OM7M 59(9) 567#JN98HP S57CM 59(9) 22#JN75GE)
+  2015-07-05 1049 144MHZ     SSB  IZ6SAC        59  023    59  080    0                                    JN63MP
+X 2015-07-05 1122 144MHZ     SSB  HA6W          59  024    59  495    0                                 @  KN08FB ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

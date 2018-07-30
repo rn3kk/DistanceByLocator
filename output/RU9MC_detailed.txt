@@ -1,0 +1,33 @@
+Callsign: RU9MC
+QTH Locator: MO65PA
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz      14            1    0          572
+  1.3 GHz       1            1    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               15            2    0          572
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1518 432MHZ     SSB  RU9MB         59  001    59  011    30                                @  MO65SA
+  2015-07-04 1519 432MHZ     SSB  RV9MA         59  002    59  014    30                                @  MO65SA
+  2015-07-04 1519 432MHZ     SSB  R9MM          59  003    59  016    56                                @  MO65MF
+  2015-07-04 1520 432MHZ     SSB  RY9MAA        59  004    59  015    10                                @  MO65QA
+  2015-07-04 1521 432MHZ     SSB  UA9MBQ        59  005    59  009    20                                @  MO64QW
+  2015-07-04 1521 432MHZ     SSB  UA9MCD        59  006    59  008    34                                @  MO64RV
+X 2015-07-04 1526 432MHZ     SSB  R9MDO         59  007    59  010    0                                    MO64PW ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(R9MAO(16))
+  2015-07-04 1600 432MHZ     SSB  RO9N          59  008    59  010    28                                @  MO64RW
+  2015-07-04 1601 432MHZ     SSB  RA9MKH        59  009    59  011    132                               @  MO74AO
+  2015-07-04 1606 432MHZ     SSB  UA9MQC        59  010    59  005    76                                @  MO65NI
+
+  2015-07-04 1620 432MHZ     SSB  UA9MCY        59  011    59  003    32                                @  MO64MX
+  2015-07-04 1621 432MHZ     SSB  RA9MA         59  012    59  012    32                                @  MO64MX
+  2015-07-04 1626 432MHZ     SSB  RL9M          59  013    59  015    46                                @  MO64TW
+  2015-07-04 1640 432MHZ     SSB  R8MZ          59  014    59  009    46                                @  MO65TC
+X 2015-07-04 1647 1.3GHZ     SSB  RC9M          59  001    59  009    0                                 @  MO64RZ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  16:47:00  GMT 1.3 GHz SSB RC9M 59(9) 9#MO64RX RU9MC 59(9) 1#MO65PA)

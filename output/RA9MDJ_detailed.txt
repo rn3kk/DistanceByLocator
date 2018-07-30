@@ -1,0 +1,43 @@
+Callsign: RA9MDJ
+QTH Locator: MO64SX
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      23            5    0          504
+  435 MHz       1            0    0           22
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               24            5    0          526
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0921 432MHZ     SSB  RY9MAA        59  001    59  022    22                                @  MO65QA
+  2015-07-04 1412 144MHZ     SSB  RU9MB         59  001    59  008    4                                 @  MO65SA
+  2015-07-04 1416 144MHZ     SSB  RL9M          59  002    59  012    7                                 @  MO64TW
+  2015-07-04 1419 144MHZ     SSB  RK9M          59  003    59  014    25                                   MO64QS
+  2015-07-04 1433 144MHZ     SSB  RC9MAA        59  004    59  007    49                                @  MO65JC
+  2015-07-04 1438 144MHZ     SSB  RA9MX         59  005    59  018    11                                @  MO65QA
+X 2015-07-04 1447 144MHZ     SSB  UA9MQAQ       59  006    59  015    0                                    MO74ZU ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(UA9MQA(26))
+  2015-07-04 1448 144MHZ     SSB  RO9N          59  007    59  010    7                                 @  MO64RW
+  2015-07-04 1449 144MHZ     SSB  RC9M          59  008    59  016    5                                 @  MO64RX
+  2015-07-04 1450 144MHZ     SSB  RY9MAA        59  009    59  016    11                                @  MO65QA
+
+X 2015-07-04 1451 144MHZ     SSB  UA9MB         59  010    59  015    0                                 @  MO54WT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:51:00  GMT 145 MHz SSB UA9MB 59(9) 5#MO54WT RA9MDJ 59(9) 10#MO64SX)
+  2015-07-04 1452 144MHZ     SSB  RT9M          59  011    59  012    64                                @  MO75GB
+  2015-07-04 1454 144MHZ     SSB  R9MAO         59  012    59  013    16                                   MO64PW
+  2015-07-04 1514 144MHZ     SSB  RA9MKR        59  013    59  011    69                                @  MO65RO
+  2015-07-04 1515 144MHZ     SSB  UA9MQC        59  014    59  014    49                                @  MO65NI
+  2015-07-04 1530 144MHZ     SSB  RU9MR         59  015    59  019    7                                 @  MO65RA
+  2015-07-04 1531 144MHZ     SSB  R9MM          59  016    59  027    42                                @  MO65MF
+X 2015-07-04 1532 144MHZ     SSB  UA9ML         59  017    59  017    0                                 @  MO64SX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:32:00  GMT 145 MHz SSB UA9ML 59(9) 18#MO64SX RA9MDJ 59(9) 17#MO64SX)
+  2015-07-04 1534 144MHZ     SSB  R8MZ          59  018    59  014    14                                @  MO65TC
+X 2015-07-04 1539 144MHZ     SSB  UA9MJW        59  019    59  015    0                                 @  MO74BX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:39:00  GMT 145 MHz SSB UA9MJW 59(9) 15#MO74BH RA9MDJ 59(9) 19#MO64SX)
+
+  2015-07-04 1554 144MHZ     SSB  RK9MXW        59  020    59  003    76                                @  MO74AI
+X 2015-07-04 1610 144MHZ     SSB  UA9MCY        59  021    59  013    0                                 @  MO64MX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  16:10:00  GMT 145 MHz SSB UA9MCY 59(9) 13#MO64MX R9MDJ 59(9) 21#MO64SX)
+  2015-07-04 1614 144MHZ     SSB  RK9MWO        59  022    59  013    38                                @  MO74BV
+  2015-07-05 0123 144MHZ     SSB  UB9MBD        59  023    59  014    10                                   MO64QX

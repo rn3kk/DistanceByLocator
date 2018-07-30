@@ -1,0 +1,23 @@
+Callsign: UA9OVM
+QTH Locator: NO14KX
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       6            3    0           51
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                6            3    0           51
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1406 144MHZ     SSB  UA9OBA        59  001    59  007    0                                 @  NO14KX ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1433 144MHZ     SSB  RW9OWA        59  002    59  003    0                                 @  NO14KX ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  14:33:00  GMT 145 MHz SSB RW9OWM 59(9) 3#NO14KX UA9OVM 59(9) 2#NO14KX)
+  2015-07-04 1444 144MHZ     SSB  R9OBF         59  003    59  011    9                                 @  NO15KB
+  2015-07-04 1449 144MHZ     SSB  UA9OWA        59  004    59  011    38                                @  NO15IH
+X 2015-07-04 1511 144MHZ     SSB  RA9OD         59  005    59  010    0                                 @  NO15FE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:11:00  GMT 145 MHz SSB RA9OD 59(9) 10#NO15FE UA9OVM 59(9) 5#NO15KX)
+  2015-07-04 1518 144MHZ     SSB  R9OBO         59  006    59  018    4                                    NO14KW

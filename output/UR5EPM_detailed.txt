@@ -1,0 +1,40 @@
+Callsign: UR5EPM
+QTH Locator: KN68PA
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      21            5    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               21            5    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1442 144MHZ     SSB  UT5EPP        59  001    59  012    0                                 @  KN67QV
+  2015-07-04 1446 144MHZ     SSB  UV5ELH        59  002    59  014    0                                 @  KN67QV
+  2015-07-04 1451 144MHZ     SSB  UT2EO         59  003    59  001    0                                 @  KN67OX
+  2015-07-04 1500 144MHZ     SSB  UT2EC         59  004    59  015    0                                 @  KN67RW
+  2015-07-04 1523 144MHZ     SSB  UR1E/P        59  005    59  030    0                                 @  KN68OA
+  2015-07-04 1905 144MHZ     SSB  UR5EDK        59  006    59  017    0                                 @  KN67OV
+  2015-07-04 1907 144MHZ     SSB  US5EGP        59  007    59  020    0                                 @  KN67RX
+  2015-07-04 1908 144MHZ     SSB  UW5EFF        59  008    59  032    0                                    KN68TD
+  2015-07-04 1909 144MHZ     SSB  UV5EIF        59  009    59  023    0                                 @  KN67RV
+  2015-07-04 1910 144MHZ     SSB  UY5SI         59  010    59  019    0                                 @  KN67QW
+
+X 2015-07-04 1918 144MHZ     SSB  UT1EE         59  011    59  011    0                                 @  KN67PW ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE, QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  19:25:00  GMT 145 MHz SSB UT1EE 59(9) 32#KN67PW UR5EPM 59(9) 11#KN68PA)
+  2015-07-05 0510 144MHZ     SSB  UT0EK         59  012    59  071    0                                 @  KN67RW
+  2015-07-05 0511 144MHZ     SSB  UT5ETV        59  013    59  034    0                                 @  KN67NX
+X 2015-07-05 0513 144MHZ     SSB  UT5EE         59  014    59  030    0                                 @  KN67TR ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  05:14:00  GMT 145 MHz SSB UR5EE 59(9) 30#KN67TR UR5EPM 59(9) 14#KN68PA)
+  2015-07-05 0544 144MHZ     SSB  UT0EZ         59  015    59  068    0                                 @  KN67SU
+  2015-07-05 0553 144MHZ     SSB  UT1EE         59  016    59  047    0                                 @  KN67PW
+X 2015-07-05 0604 144MHZ     SSB  UT5EEE        59  017    59  024    0                                 @  KN67PV ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  06:04:00  GMT 145 MHz SSB UV5EEE 59(9) 24#KN67PV UR5EPM 59(9) 17#KN68PA)
+X 2015-07-05 0903 144MHZ     SSB  UV5EVB        59  018    59  022    0                                 @  KN67QV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  09:03:00  GMT 145 MHz SSB UV5EVB 59(9) 22#KN67QV UR5EPM 59(9) 18#KN67PA)
+  2015-07-05 0926 144MHZ     SSB  UV5ENJ        59  019    59  018    0                                 @  KN67QV
+  2015-07-05 0942 144MHZ     SSB  UV5ETP        59  020    59  019    0                                    KN67RV
+
+X 2015-07-05 1105 144MHZ     SSB  UT1E          59  021    59  090    0                                 @  KN67RW ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

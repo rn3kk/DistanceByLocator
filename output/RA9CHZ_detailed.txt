@@ -1,0 +1,25 @@
+Callsign: RA9CHZ
+QTH Locator: MO06XJ
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       8            1    0         1377
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                8            1    0         1377
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1520 144MHZ     SSB  RA9CCK        59  001    59  003    6                                 @  MO06WK
+  2015-07-04 1619 144MHZ     CW   RK9AY         599 002    599 016    284                               @  MO03FX
+  2015-07-04 1723 144MHZ     SSB  RZ9AYA        59  003    59  019    298                               @  LO94QD
+  2015-07-04 2135 144MHZ     SSB  UA9ACA        59  004    59  028    264                               @  LO94VI
+  2015-07-04 2220 144MHZ     CW   R8ACC         599 005    599 048    166                               @  MO04QW
+  2015-07-04 2233 144MHZ     SSB  RA9AJW        59  006    59  037    145                               @  MO05PD
+X 2015-07-04 2234 144MHZ     SSB  R9AT          59  007    59  033    0                                 @  MO05UI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  22:34:00  GMT 145 MHz SSB R9AT 59(9) 33#MO05UI UA9CHZ 59(9) 7#MO06XJ)
+  2015-07-04 2238 144MHZ     SSB  RZ9AWJ        59  008    59  055    214                               @  MO14MN

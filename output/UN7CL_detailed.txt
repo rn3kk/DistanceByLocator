@@ -1,0 +1,47 @@
+Callsign: UN7CL
+QTH Locator: MO44GW
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      18            2    0         5879
+  435 MHz      10            0    0         6664
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               28            2    0        12543
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0027 432MHZ     CW   RT9M          599 001    599 019    764                               @  MO75GB
+  2015-07-05 0046 432MHZ     CW   RK9Y          599 002    599 030    1294                              @  MO93AF
+  2015-07-05 0151 432MHZ     CW   RZ9AWJ        599 003    599 039    710                               @  MO14MN
+  2015-07-05 0208 432MHZ     SSB  RT9L          59  004    59  015    622                               @  MO27RD
+  2015-07-05 0209 432MHZ     SSB  RA9LR         59  005    59  017    602                               @  MO27TC
+  2015-07-05 0704 432MHZ     CW   R9MM          599 006    599 024    576                               @  MO65MF
+  2015-07-05 0717 432MHZ     CW   RA9QAW        599 007    599 008    426                               @  MO25PK
+  2015-07-05 0729 432MHZ     CW   UA9QDX        599 008    599 010    428                               @  MO25PL
+  2015-07-05 1032 432MHZ     SSB  UA9MBQ        59  009    59  020    616                               @  MO64QW
+  2015-07-05 1054 432MHZ     CW   RC9M          599 010    599 023    626                               @  MO64RX
+
+  2015-07-04 1450 144MHZ     SSB  R9MM          59  001    59  021    288                               @  MO65MF
+  2015-07-04 1539 144MHZ     SSB  RT9L          59  002    59  001    311                               @  MO27RD
+  2015-07-04 1549 144MHZ     CW   RZ9AWJ        599 003    599 019    355                               @  MO14MN
+  2015-07-04 1625 144MHZ     CW   RK9Y          599 004    599 027    647                               @  MO93AF
+  2015-07-04 1717 144MHZ     CW   UA9CFH        599 005    599 021    537                               @  MO07RS
+  2015-07-04 1721 144MHZ     CW   RA9QAW        599 006    599 002    213                               @  MO25PK
+  2015-07-04 1725 144MHZ     CW   UA9QDX        599 007    599 006    214                               @  MO25PL
+  2015-07-04 1828 144MHZ     SSB  RT9M          59  008    59  028    382                               @  MO75GB
+X 2015-07-04 2335 144MHZ     SSB  RC9M          59  009    59  027    0                                 @  MO64RX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-05 0017 144MHZ     CW   RM8A          599 010    599 052    532                               @  MO04CT
+
+  2015-07-05 0032 144MHZ     CW   RM9CM         599 011    599 051    537                               @  MO07NL
+  2015-07-05 0040 144MHZ     SSB  UA9MBQ        59  012    59  031    308                               @  MO64QW
+  2015-07-05 0205 144MHZ     SSB  RA9LR         59  013    59  033    301                               @  MO27TC
+X 2015-07-05 0232 144MHZ     CW   RZ9AY         599 014    599 057    0                                    LO94QD ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RK9AY(30), RZ9AYA(13))
+  2015-07-05 0406 144MHZ     SSB  RY9MAA        59  015    59  035    308                               @  MO65QA
+  2015-07-05 0508 144MHZ     SSB  RO9N          59  016    59  023    313                               @  MO64RW
+  2015-07-05 0513 144MHZ     SSB  RC9MAA        59  017    59  025    271                               @  MO65JC
+  2015-07-05 0900 144MHZ     SSB  UA9MQA        59  018    59  029    362                                  MO74CU

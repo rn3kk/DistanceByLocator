@@ -1,0 +1,22 @@
+Callsign: UA3RE
+QTH Locator: LO02WP
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       5            5    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            5    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1805 145MHZ     SSB  RK3R          59  001    59  59030  0                                 @  LO02NO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:05:00  GMT 145 MHz SSB RK3R 59(9) 30#LO02NO UA3RE 59(9) 1#LO02WP)
+X 2015-07-04 2003 145MHZ     SSB  RG3R          59  002    59  59024  0                                 @  LO03VK ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  20:03:00  GMT 145 MHz SSB RG3R 59(9) 24#LO03VK UA3RE 59(9) 2#LO02WP)
+X 2015-07-05 0337 145MHZ     SSB  RT4D          59  003    59  59055  0                                 @  LO21TM ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 0655 145MHZ     SSB  RV3AQ         59  004    59  59107  0                                 @  KO95VN ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 0658 145MHZ     SSB  UA4FKD        59  005    59  59040  0                                 @  LO13HL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  06:59:00  GMT 145 MHz SSB UA4FKD 59(9) 40#LO13HL UA3RE 59(9) 5#LO02WP)

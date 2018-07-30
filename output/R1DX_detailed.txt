@@ -1,0 +1,29 @@
+Callsign: R1DX
+QTH Locator: KO49MP
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       9            2    0         1757
+  435 MHz       2            0    0          878
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               11            2    0         2635
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1503 432MHZ     CW   RA1T          599 001    599 001    344                               @  KO58NM
+  2015-07-04 2011 432MHZ     CW   YL2GD         599 002    599 007    534                               @  KO37ML
+  2015-07-04 1422 144MHZ     CW   RM1M/3        599 001    599 004    385                               @  KO67WG
+X 2015-07-04 1434 144MHZ     CW   UA1ANA/1      599 002    599 003    0                                 @  KO69UC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:32:00  GMT 145 MHz CW UA1ANA/1 59(9) 3#KO69UC R1DX 59(9) 12#KO49MP)
+  2015-07-04 1458 144MHZ     CW   RA1T          599 003    599 003    172                               @  KO58NM
+X 2015-07-04 1517 144MHZ     CW   UA1AMT        599 004    599 003    0                                 @  KO69DX ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1716 144MHZ     CW   YL2GD         599 005    599 006    267                               @  KO37ML
+  2015-07-04 2031 144MHZ     CW   RM1A          599 006    599 011    64                                @  KO59BU
+  2015-07-04 2039 144MHZ     CW   OH4LA         599 007    599 005    237                                  KP20LG
+  2015-07-05 0600 144MHZ     CW   YL2FZ         599 008    599 015    272                               @  KO37QI
+
+  2015-07-05 0734 144MHZ     CW   YL2PJ         599 009    599 039    360                               @  KO36QM

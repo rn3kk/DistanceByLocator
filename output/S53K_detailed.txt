@@ -1,0 +1,25 @@
+Callsign: S53K
+QTH Locator: JN76JC
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       8            2    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                8            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1418 10GHZ      SSB  S59GS         59  001    59  002    0                                 @  JN75NP
+X 2015-07-04 1622 10GHZ      CW   S53D          599 002    599 004    0                                 @  JN76BD ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1655 10GHZ      CW   S59P          599 003    599 003    0                                 @  JN86AO
+  2015-07-04 1700 10GHZ      CW   S51ZO         599 004    599 005    0                                 @  JN86DR
+X 2015-07-04 2038 10GHZ      CW   HA5S          599 005    599 012    0                                 @  JN97FQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:38:00  GMT 10 GHz CW HA5S 59(9) 12#JN97FQ S53K 59(9) 5#JN76OC)
+  2015-07-05 0722 10GHZ      CW   OL9W          599 006    599 031    0                                 @  JN99CL
+  2015-07-05 0731 10GHZ      CW   OM3KII        599 007    599 040    0                                 @  JN88UU
+  2015-07-05 1209 10GHZ      CW   OE3A          599 008    599 036    0                                    JN77TX ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR

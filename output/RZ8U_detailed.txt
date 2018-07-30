@@ -1,0 +1,37 @@
+Callsign: RZ8U
+QTH Locator: NO33NR
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      14            2    0          574
+  435 MHz       5            0    0          540
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               19            2    0         1114
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1435 435MHZ     SSB  RW9V          59  001    59  004    56                                @  NO33QM
+  2015-07-05 0323 435MHZ     SSB  RW9UZZ        59  002    59  024    98                                @  NO33WQ
+  2015-07-05 0323 435MHZ     SSB  RC9UB         59  003    59  024    98                                @  NO33WQ
+  2015-07-05 0325 435MHZ     SSB  RA9UCD        59  004    59  003    36                                @  NO33NV
+  2015-07-05 0536 435MHZ     SSB  RK8U          59  005    59  027    252                               @  NO43MR
+  2015-07-04 1402 145MHZ     SSB  RW9UZZ        59  001    59  001    49                                @  NO33WQ
+  2015-07-04 1404 145MHZ     SSB  RK9UZZ        59  002    59  001    44                                @  NO33GW
+  2015-07-04 1405 145MHZ     SSB  RC9UB         59  003    59  004    49                                @  NO33WQ
+  2015-07-04 1406 145MHZ     SSB  RZ9UO         59  004    59  004    37                                @  NO33HV
+  2015-07-04 1407 145MHZ     SSB  RV9UDW        59  005    59  001    14                                @  NO33PP
+
+  2015-07-04 1407 145MHZ     SSB  RZ9UGN        59  006    59  002    10                                @  NO33OP
+  2015-07-04 1409 145MHZ     SSB  RA9YHK        59  007    59  002    87                                @  NO33AG
+  2015-07-04 1411 145MHZ     SSB  UB9YAK        59  008    59  002    87                                @  NO33AG
+X 2015-07-04 1410 145MHZ     SSB  RZ9UMA        59  009    59  001    0                                 @  NO33HV ERROR(S): QSO_ERROR_TIME_ORDER_ERROR
+  2015-07-04 1413 145MHZ     SSB  UA9UNG        59  010    59  004    43                                @  NO33VR
+  2015-07-04 1415 145MHZ     SSB  RA9UC         59  011    59  002    10                                @  NO33OT
+X 2015-07-04 1416 145MHZ     SSB  RG8U          59  012    59  001    0                                 @  NO33QU ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1416 145MHZ     SSB  RK8U          59  013    59  005    126                               @  NO43MR
+  2015-07-05 0310 145MHZ     SSB  RA9UCD        59  014    59  001    18                                @  NO33NV

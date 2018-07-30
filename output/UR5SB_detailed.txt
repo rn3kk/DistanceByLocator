@@ -1,0 +1,34 @@
+Callsign: UR5SB
+QTH Locator: KN19WA
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      14            3    0            0
+  435 MHz       2            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               16            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1755 432MHZ     SSB  UT2SW         59  001    59  004    0                                 @  KN19WB
+  2015-07-04 1801 432MHZ     SSB  UY4W          59  002    59  008    0                                 @  KN29DO
+X 2015-07-04 1725 144MHZ     SSB  UW3E/P        599 001    59  015    0                                 @  KO31LG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-04 1732 144MHZ     SSB  UR5YEI        59  002    59  014    0                                 @  KN39DF
+  2015-07-04 1750 144MHZ     SSB  US5WFQ        59  003    59  042    0                                 @  KN18QU
+  2015-07-04 1754 144MHZ     SSB  UT2SW         59  004    59  018    0                                 @  KN19WB
+X 2015-07-04 1841 144MHZ     SSB  UR5W          59  005    59  105    0                                 @  KN18IV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:41:00  GMT 145 MHz SSB UR5W 59(9) 105#KN18IW UR5SB 59(9) 5#KN19WA)
+  2015-07-04 1858 144MHZ     SSB  YO8KGL        59  006    59  029    0                                 @  KN38LA
+X 2015-07-04 1859 144MHZ     SSB  YO8RKP/P      59  007    59  026    0                                 @  KN38LA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:59:00  GMT 145 MHz SSB YO8RKP/P 59(9) 26#KN38LA UR4SB 59(9) 7#KN19WA)
+  2015-07-04 1859 144MHZ     SSB  YO8CEC/P      59  008    59  023    0                                 @  KN38LA
+
+  2015-07-04 2103 144MHZ     SSB  UR5YBF        59  009    59  020    0                                 @  KN39DF
+  2015-07-05 0139 144MHZ     SSB  UY4W          59  010    59  052    0                                 @  KN29DO
+  2015-07-05 0211 144MHZ     SSB  UR5YCF        59  011    59  014    0                                 @  KN28UP
+  2015-07-05 0249 144MHZ     SSB  UT4UWE/P      59  012    59  057    0                                    KN27PX
+  2015-07-05 0251 144MHZ     SSB  UT5T          59  013    59  034    0                                    KN38HQ
+  2015-07-05 0552 144MHZ     SSB  UT7NI         59  014    59  034    0                                    KN39TD

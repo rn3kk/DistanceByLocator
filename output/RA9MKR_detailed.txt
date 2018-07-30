@@ -1,0 +1,35 @@
+Callsign: RA9MKR
+QTH Locator: MO65RO
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      17            1    0         1105
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               17            1    0         1105
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1444 144MHZ     SSB  UA9MQC        59  001    59  011    34                                @  MO65NI
+  2015-07-04 1444 144MHZ     SSB  RY9MAA        59  002    59  015    65                                @  MO65QA
+  2015-07-04 1445 144MHZ     SSB  UA9MBQ        59  003    59  017    74                                @  MO64QW
+  2015-07-04 1446 144MHZ     SSB  RC9M          59  004    59  015    69                                @  MO64RX
+  2015-07-04 1447 144MHZ     SSB  RL9M          59  005    59  015    74                                @  MO64TW
+  2015-07-04 1448 144MHZ     SSB  RK9M          59  006    59  018    92                                   MO64QS
+  2015-07-04 1449 144MHZ     SSB  RA9MA         59  007    59  012    74                                @  MO64MX
+  2015-07-04 1458 144MHZ     SSB  R9MM          59  008    59  023    49                                @  MO65MF
+  2015-07-04 1508 144MHZ     SSB  UA9ML         59  009    59  017    69                                @  MO64SX
+  2015-07-04 1510 144MHZ     SSB  RU9MB         59  010    59  018    65                                @  MO65SA
+
+  2015-07-04 1511 144MHZ     SSB  RA9MDJ        59  011    59  013    69                                @  MO64SX
+  2015-07-04 1515 144MHZ     SSB  RU9MR         59  012    59  016    64                                @  MO65RA
+  2015-07-04 1517 144MHZ     SSB  UA9MQA        59  013    59  019    95                                   MO74CU
+  2015-07-04 1518 144MHZ     SSB  RT9M          59  014    59  018    91                                @  MO75GB
+  2015-07-04 1544 144MHZ     SSB  R8MZ          59  015    59  018    56                                @  MO65TC
+X 2015-07-04 1615 144MHZ     SSB  RK9MWO        59  016    59  014    0                                 @  MO74BV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  16:15:00  GMT 145 MHz SSB RK9MWO 59(9) 14#MO74BV RA9MKR 59(9) 16#MO65KO)
+  2015-07-04 1708 144MHZ     SSB  RA9MX         59  017    59  026    65                                @  MO65QA

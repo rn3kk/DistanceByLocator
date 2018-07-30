@@ -1,0 +1,47 @@
+Callsign: S50TG
+QTH Locator: JN65XU
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      28            4    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               28            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1409 144MHZ     SSB  S51GF         59  001    59  006    0                                 @  JN75AV
+  2015-07-04 1413 144MHZ     SSB  S59DEM        59  002    59  018    0                                 @  JN75DS
+X 2015-07-04 1415 144MHZ     SSB  S57Q          59  003    59  023    0                                 @  JN76PB ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:16:00  GMT 145 MHz SSB S57Q 59(9) 23#JN76PB S50TG 59(9) 3#JN65IU)
+  2015-07-04 1425 144MHZ     SSB  IK3UNA        59  004    59  024    0                                    JN55NO
+  2015-07-04 1428 144MHZ     SSB  S58M          59  005    59  031    0                                 @  JN76JC
+  2015-07-04 1435 144MHZ     SSB  I5PVA/6       59  006    59  047    0                                    JN63GN
+  2015-07-04 1443 144MHZ     SSB  IK3TPP        59  007    59  019    0                                    JN65CP
+  2015-07-04 1454 144MHZ     SSB  IQ4AX         59  008    59  047    0                                    JN54KK
+  2015-07-04 1457 144MHZ     SSB  IW5DOP        59  009    59  021    0                                    JN54QK ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-04 1507 144MHZ     SSB  IK3ERN        59  010    59  015    0                                    JN66CA
+
+  2015-07-04 1754 144MHZ     SSB  S57N          59  011    59  075    0                                 @  JN76BL
+  2015-07-04 1806 144MHZ     SSB  S56K          59  012    59  129    0                                 @  JN76KI
+X 2015-07-04 1811 144MHZ     SSB  9A1BJK/P      59  013    59  040    0                                 @  JN75CH ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:08:00  GMT 145 MHz SSB 9A1BJK/P 59(9) 40#JN75CH S50TG 59(9) 1#JN65XU)
+  2015-07-04 1821 144MHZ     SSB  IW2CTQ        59  014    59  087    0                                    JN44PS
+  2015-07-04 1831 144MHZ     SSB  IZ1POA        59  015    59  214    0                                    JN44OB ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-04 1835 144MHZ     SSB  I5MZY/4       59  016    59  095    0                                    JN54OL
+  2015-07-04 1839 144MHZ     SSB  S50J          59  017    59  041    0                                 @  JN65VO
+  2015-07-04 1935 144MHZ     SSB  9A5G          59  018    59  070    0                                 @  JN75GK
+X 2015-07-05 0447 144MHZ     SSB  S59R          59  019    59  455    0                                 @  JN76OM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  04:47:00  GMT 145 MHz SSB S59R 59(9) 465#JN76OM S50TG 59(9) 19#JN65XU)
+  2015-07-05 0657 144MHZ     SSB  S57CN         59  020    59  181    0                                 @  JN75PS
+
+  2015-07-05 0718 144MHZ     SSB  S59P          59  021    59  480    0                                 @  JN86AO
+  2015-07-05 0724 144MHZ     SSB  I4BME         59  022    59  049    0                                    JN54QL
+X 2015-07-05 0737 144MHZ     SSB  IZ3VTH        59  023    59  069    0                                 @  JN65DM ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0752 144MHZ     SSB  IN3JJI/3      59  024    59  155    0                                    JN55MQ
+  2015-07-05 0948 144MHZ     SSB  IW5BUX/4      59  025    59  091    0                                    JN54PF
+  2015-07-05 1217 144MHZ     SSB  S58RU         59  026    59  039    0                                 @  JN65WM
+  2015-07-05 1352 144MHZ     SSB  IK3MLF        59  027    59  068    0                                    JN65KO
+  2015-07-05 1353 144MHZ     SSB  IV3MPI        59  028    59  014    0                                    JN65SV

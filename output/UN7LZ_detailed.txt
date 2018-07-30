@@ -1,0 +1,21 @@
+Callsign: UN7LZ/P
+QTH Locator: MO03UN
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       4            4    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                4            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-05 1300 144MHZ     SSB  RM8A          59  001    59  068    0                                 @  MO04CT ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-05 1304 144MHZ     SSB  UN1WA         59  002    59  048    0                                 @  MO03SR ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 1320 144MHZ     SSB  UN7LDX        59  003    59  023    0                                 @  MO03XR ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-05 1335 144MHZ     SSB  UN1WF         59  004    59  050    0                                 @  MO03TR ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

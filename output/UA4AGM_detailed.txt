@@ -1,0 +1,26 @@
+Callsign: UA4AGM
+QTH Locator: LN28FR
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       3            0    0           61
+  435 MHz       3            0    0          122
+  1.3 GHz       2            0    0          220
+  5.7 GHz       1            0    0          288
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                9            0    0          691
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1420 5.7GHZ     SSB  RN4AT         59  001    59  002    288                               @  LN29LA
+  2015-07-04 1552 432MHZ     SSB  RA4APQ        59  001    59  003    12                                @  LN28GR
+  2015-07-04 1608 432MHZ     SSB  UA4BI         59  002    59  003    14                                @  LN28GQ
+  2015-07-04 1835 432MHZ     SSB  RN4AT         59  003    59  012    96                                @  LN29LA
+  2015-07-04 1551 144MHZ     SSB  RA4APQ        59  001    59  003    6                                 @  LN28GR
+  2015-07-04 1607 144MHZ     SSB  UA4BI         59  002    59  005    7                                 @  LN28GQ
+  2015-07-04 1834 144MHZ     SSB  RN4AT         59  003    59  022    48                                @  LN29LA
+  2015-07-04 1620 1.3GHZ     SSB  UA4BI         59  001    59  001    28                                @  LN28GQ
+  2015-07-04 1840 1.3GHZ     SSB  RN4AT         59  002    59  002    192                               @  LN29LA

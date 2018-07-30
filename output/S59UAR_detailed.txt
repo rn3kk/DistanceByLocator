@@ -1,0 +1,29 @@
+Callsign: S59UAR
+QTH Locator: JN76BI
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      11            3    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               11            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1825 144MHZ     SSB  S57N          59  001    59  084    0                                 @  JN76BL
+  2015-07-04 1839 144MHZ     SSB  S57LM         59  002    59  074    0                                 @  JN76HD
+X 2015-07-04 1851 144MHZ     SSB  S57CN         59  003    59  072    0                                 @  JN76PS ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:51:00  GMT 145 MHz SSB S57CN 59(9) 72#JN75PS S59UAR 59(9) 3#JN76BI)
+  2015-07-04 1900 144MHZ     SSB  S59R          59  004    59  251    0                                 @  JN76OM
+  2015-07-04 1906 144MHZ     SSB  OE6V          59  005    59  140    0                                    JN76VT
+  2015-07-04 1922 144MHZ     SSB  S59DEM        59  006    59  301    0                                 @  JN75DS
+  2015-07-04 1954 144MHZ     SSB  I5PVA/6       59  007    59  312    0                                    JN63GN
+  2015-07-04 2006 144MHZ     SSB  HG3X          59  008    59  275    0                                 @  JN96EE
+X 2015-07-04 2017 144MHZ     CW   E74G          59  009    590 134    0                                 @  JN94FQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+X 2015-07-04 2022 144MHZ     SSB  9A5G          59  010    59  090    0                                 @  JN63GN ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  20:21:00  GMT 145 MHz SSB 9A5G 59(9) 90#JN75GK S59UAR 59(9) 10#JN76BI)
+
+  2015-07-04 2055 144MHZ     SSB  IK3UNA        59  011    59  209    0                                    JN55NO

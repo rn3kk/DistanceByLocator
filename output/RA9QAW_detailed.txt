@@ -1,0 +1,39 @@
+Callsign: RA9QAW
+QTH Locator: MO25PK
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      12            0    0         3538
+  435 MHz       8            0    0         4104
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               20            0    0         7642
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1740 432MHZ     SSB  RA9LR         59  001    59  003    372                               @  MO27TC
+  2015-07-04 1741 432MHZ     SSB  RT9L          59  002    59  004    380                               @  MO27RD
+  2015-07-04 1753 432MHZ     CW   UN1WF         599 003    599 020    604                               @  MO03TR
+  2015-07-04 1844 432MHZ     CW   UN1WE         599 004    599 018    596                               @  MO03UR
+  2015-07-04 2022 432MHZ     SSB  RM9CM         59  005    59  026    682                               @  MO07NL
+  2015-07-04 2031 432MHZ     CW   UA9CFH        599 006    599 017    698                               @  MO07RS
+  2015-07-05 0706 432MHZ     CW   RZ9AWJ        599 007    599 043    346                               @  MO14MN
+  2015-07-05 0717 432MHZ     CW   UN7CL         599 008    599 007    426                               @  MO44GW
+  2015-07-04 1706 144MHZ     CW   UA9QDX        599 001    599 005    4                                 @  MO25PL
+  2015-07-04 1721 144MHZ     CW   UN7CL         599 002    599 006    213                               @  MO44GW
+
+  2015-07-04 1737 144MHZ     SSB  RT9L          59  003    59  006    190                               @  MO27RD
+  2015-07-04 1738 144MHZ     SSB  RA9LR         59  004    59  003    186                               @  MO27TC
+  2015-07-04 1751 144MHZ     CW   UN1WF         599 005    599 023    302                               @  MO03TR
+  2015-07-04 1840 144MHZ     CW   UN1WE         599 006    599 031    298                               @  MO03UR
+  2015-07-04 1954 144MHZ     CW   UA9FY         599 007    599 041    566                               @  LO88WN
+  2015-07-04 2020 144MHZ     SSB  RM9CM         59  008    59  038    341                               @  MO07NL
+  2015-07-04 2030 144MHZ     CW   UA9CFH        599 009    599 041    349                               @  MO07RS
+  2015-07-04 2115 144MHZ     CW   RM8A          599 010    599 043    330                               @  MO04CT
+  2015-07-05 0703 144MHZ     CW   RZ9AWJ        599 011    599 067    173                               @  MO14MN
+  2015-07-05 0810 144MHZ     CW   RT9M          599 012    599 036    586                               @  MO75GB
+

@@ -1,0 +1,36 @@
+Callsign: RA9YSG
+QTH Locator: NO03FM
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      16            5    0         2619
+  435 MHz       2            1    0          558
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               18            6    0         3177
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1717 435MHZ     SSB  RK9YZK        59  001    59  007    558                                  NO23HD
+X 2015-07-04 1825 435MHZ     SSB  RK9YWE        59  002    59  010    0                                 @  NO02BD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:25:00  GMT 435 MHz SSB RK9YWE 59(9) 10#NO02BD RA9YSG 59(9) 3#NO03FM)
+X 2015-07-04 1414 145MHZ     CW   RK9Y          599 001    599 005    0                                 @  MO93AF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-04 1423 145MHZ     SSB  RK9YWK        59  002    59  004    39                                @  NO03MK
+X 2015-07-04 1503 145MHZ     SSB  R9OBS         59  003    59  015    0                                 @  NO14RK ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:05:00  GMT 145 MHz SSB R9OBS 59(9) 15#NO14RK RA9YSG 59(9) 2#NO03FM)
+X 2015-07-04 1523 145MHZ     SSB  RA9OVG        59  004    59  007    0                                 @  MO93PR ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  15:23:00  GMT 145 MHz SSB UA9OVG 59(9) 7#MO93PR RA9YSG 59(9) 4#NO03FM)
+X 2015-07-04 1536 145MHZ     SSB  RC9YC         59  005    59  012    0                                 @  NO13VE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:36:00  GMT 145 MHz SSB RC9YC 59(9) 12#NO13UE RA9YSG 59(9) 5#NO03FM)
+X 2015-07-04 1606 145MHZ     SSB  RA9YGS        59  006    59  007    0                                 @  MO93SM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  16:06:00  GMT 145 MHz SSB RA9YGS 59(9) 7#MO92SN RA9YSG 59(9) 6#NO03FM)
+  2015-07-04 1616 145MHZ     SSB  UN8FF         59  007    59  003    269                               @  MO82JM
+  2015-07-04 1619 145MHZ     SSB  RA9YTI        59  008    59  008    103                               @  MO93LG
+
+  2015-07-04 1655 145MHZ     SSB  UA9OES        59  009    59  014    96                                @  MO93OX
+  2015-07-04 1706 145MHZ     SSB  RK9YZK        59  010    59  008    279                                  NO23HD
+  2015-07-04 1736 145MHZ     SSB  RV9UV         59  011    59  022    403                                  NO34GA
+  2015-07-04 1752 145MHZ     SSB  RA9YI         59  012    59  012    221                               @  NO13VI
+  2015-07-04 1753 145MHZ     SSB  RA9YHK        59  013    59  043    370                               @  NO33AG
+  2015-07-04 1758 145MHZ     SSB  UB9YAK        59  014    59  038    370                               @  NO33AG
+  2015-07-04 1816 145MHZ     SSB  RK9YWE        59  015    59  015    154                               @  NO02BD
+  2015-07-04 1904 145MHZ     SSB  R9UG          59  016    59  040    315                               @  NO25DG

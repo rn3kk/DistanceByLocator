@@ -1,0 +1,30 @@
+Callsign: R9WDD
+QTH Locator: LO64RK
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      11            3    0         1523
+  435 MHz       1            0    0          348
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            3    0         1871
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1619 432MHZ     SSB  RC4I          59  001    59  006    348                               @  LO54KA
+  2015-07-04 1406 144MHZ     SSB  UA4PKA        59  001    59  001    61                                @  LO64GO
+  2015-07-04 1421 144MHZ     SSB  RZ9WU/P       59  002    59  006    72                                @  LO74GG
+  2015-07-04 1429 144MHZ     SSB  RT4S          59  003    59  005    373                               @  LO46MQ
+  2015-07-04 1442 144MHZ     SSB  R4HKI         59  004    59  005    98                                @  LO54XG
+  2015-07-04 1508 144MHZ     SSB  RA9SOA        59  005    59  006    274                               @  LO72DA
+  2015-07-04 1514 144MHZ     SSB  RC4Q          59  006    59  008    146                               @  LO65IQ
+  2015-07-04 1516 144MHZ     SSB  UB4PMC/4      59  007    59  006    264                               @  LO56WP
+X 2015-07-04 1522 144MHZ     SSB  R9TA          59  008    59  005    0                                 @  LO63TQ ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1552 144MHZ     SSB  UA4WFN        59  009    59  013    235                               @  LO66CK
+
+X 2015-07-04 1618 144MHZ     SSB  RC4I          59  010    59  024    0                                 @  LO54KA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+X 2015-07-04 1719 144MHZ     SSB  UA4HQI        59  011    59  002    0                                 @  LO63CK ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:19:00  GMT 145 MHz SSB UA4HQI 59(9) 2#LO53CK R9WDD 59(9) 11#LO64RK)

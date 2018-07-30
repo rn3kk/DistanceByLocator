@@ -1,0 +1,25 @@
+Callsign: UB9OAF
+QTH Locator: NO14NU
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            0    0          177
+  435 MHz       1            0    0           10
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                8            0    0          187
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 1310 432MHZ     SSB  RA9OEG        59  001    59  018    10                                @  NO14MU
+  2015-07-04 1837 144MHZ     SSB  RA9OD         59  001    59  029    56                                @  NO15FE
+  2015-07-04 1837 144MHZ     SSB  RA9OEG        59  002    59  029    5                                 @  NO14MU
+  2015-07-04 2142 144MHZ     SSB  RW9OWM        59  003    59  027    21                                @  NO14KX
+  2015-07-05 1305 144MHZ     SSB  R8OAC         59  004    59  029    31                                @  NO15JB
+  2015-07-05 1316 144MHZ     SSB  RA9OAS        59  005    59  039    21                                @  NO15LA
+  2015-07-05 1318 144MHZ     SSB  RA9OBZ        59  006    59  024    14                                   NO14OX
+  2015-07-05 1319 144MHZ     SSB  R9OY          59  007    59  028    29                                @  NO14LO

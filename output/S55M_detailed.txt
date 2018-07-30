@@ -1,0 +1,45 @@
+Callsign: S55M
+QTH Locator: JN86DR
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      26            2    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               26            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1709 144MHZ     SSB  S59P          59  001    59  208    0                                 @  JN86AO
+  2015-07-04 1711 144MHZ     SSB  S59DEM        59  002    59  212    0                                 @  JN75DS
+  2015-07-04 1712 144MHZ     SSB  S58M          59  003    59  148    0                                 @  JN76JC
+  2015-07-04 1713 144MHZ     SSB  S56K          59  004    59  109    0                                 @  JN76KI
+  2015-07-04 1715 144MHZ     SSB  IQ4AX         59  005    59  125    0                                    JN54KK
+  2015-07-04 1716 144MHZ     SSB  S57M          59  006    59  150    0                                 @  JN76PO
+  2015-07-04 1718 144MHZ     SSB  S57O          59  007    59  179    0                                 @  JN86DT
+  2015-07-04 1720 144MHZ     SSB  S53V          59  008    59  062    0                                 @  JN76UH
+  2015-07-04 1721 144MHZ     SSB  S57Q          59  009    59  176    0                                 @  JN76PB
+  2015-07-04 1725 144MHZ     SSB  S59R          59  010    59  190    0                                 @  JN76OM
+
+  2015-07-04 1727 144MHZ     SSB  I5PVA/6       59  011    59  216    0                                    JN63GN
+X 2015-07-04 1730 144MHZ     MIXEDIZ1POA        59  012    599 177    0                                    JN44OQ ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1745 144MHZ     SSB  IK3UNA        59  013    59  141    0                                    JN55NO
+  2015-07-04 1805 144MHZ     SSB  OE1W          59  014    59  235    0                                    JN77TX
+  2015-07-04 1808 144MHZ     SSB  OL4A          59  015    59  300    0                                 @  JO60RN
+  2015-07-04 1811 144MHZ     SSB  OE6KME/P      59  016    59  108    0                                    JN76UV
+  2015-07-04 1930 144MHZ     CW   9A1E          599 017    599 137    0                                 @  JN85QT
+  2015-07-04 1935 144MHZ     CW   S57LM         599 018    599 086    0                                 @  JN76HD
+  2015-07-05 1043 144MHZ     CW   9A1CRS        599 019    599 288    0                                 @  JN95AG
+  2015-07-05 1047 144MHZ     SSB  S57CN         59  020    59  222    0                                 @  JN75PS
+
+  2015-07-05 1049 144MHZ     SSB  HG1Z          59  021    59  466    0                                 @  JN86KU
+  2015-07-05 1057 144MHZ     CW   I1AXE         599 022    599 191    0                                    JN34QM
+  2015-07-05 1101 144MHZ     SSB  I5MZY/4       59  023    59  282    0                                    JN54OL
+  2015-07-05 1103 144MHZ     SSB  IN3JJI/3      59  024    59  191    0                                    JN55MQ
+X 2015-07-05 1115 144MHZ     SSB  S51GF         59  025    59  084    0                                 @  JN75AV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 1117 144MHZ     SSB  OM3W          59  026    59  692    0                                 @  JN99CH

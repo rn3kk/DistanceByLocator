@@ -1,0 +1,30 @@
+Callsign: US5EEK
+QTH Locator: KN88AL
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      12            2    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1402 144MHZ     SSB  UR5EWP/P      59  001    59  002    0                                 @  KN78XU ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  14:01:00  GMT 145 MHz SSB UR4EWP/P 59(9) 2#KN78XU US5EEK 59(9) 1#KN88AL)
+  2015-07-04 1408 144MHZ     SSB  UA7KN         59  002    59  006    0                                 @  KN85BK
+  2015-07-04 1550 144MHZ     CW   UX1VT         599 003    599 018    0                                 @  KN68RV
+  2015-07-04 1600 144MHZ     SSB  RW3WR         59  004    59  068    0                                 @  KO71IM
+  2015-07-04 1611 144MHZ     CW   RU6K          599 005    599 030    0                                 @  KN74DT
+  2015-07-04 1626 144MHZ     CW   UW1G          599 006    599 053    0                                 @  KN67UA
+  2015-07-04 1629 144MHZ     CW   UV2L/P        599 007    599 039    0                                 @  KN89AK
+  2015-07-04 1644 144MHZ     CW   R6DZ          599 008    599 077    0                                 @  KN96CQ
+  2015-07-04 1701 144MHZ     CW   RM7T/3        599 009    599 077    0                                 @  KO90CW
+  2015-07-04 1738 144MHZ     CW   RU7M          599 010    599 054    0                                 @  KN97LN
+
+  2015-07-04 1746 144MHZ     CW   UW7E/P        599 011    599 042    0                                 @  KN78MO
+X 2015-07-04 1753 144MHZ     CW   UY5YA         599 012    599 022    0                                 @  KN87DP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:52:00  GMT 145 MHz CW UY5YA 59(9) 22#KN77UG US5EEK 59(9) 12#KN88AL)

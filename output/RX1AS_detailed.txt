@@ -1,0 +1,22 @@
+Callsign: RX1AS
+QTH Locator: KO59XW
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       5            1    0         1207
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            1    0         1207
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1509 145MHZ     CW   RN3F          599 001    599 028    527                               @  KO86RE
+  2015-07-04 1512 145MHZ     CW   UA1ANA/1      599 002    599 008    135                               @  KO69UC
+  2015-07-05 0511 145MHZ     CW   RM1M/3        599 003    599 044    316                               @  KO67WG
+  2015-07-05 0512 145MHZ     CW   RA1TM         599 004    599 020    229                               @  KO67OX
+X 2015-07-05 0538 145MHZ     CW   RA1T          599 005    599 019    0                                 @  KO58NM ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

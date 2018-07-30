@@ -1,0 +1,37 @@
+Callsign: UA3OW
+QTH Locator: KO90VL
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      17            4    0         4209
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       2            0    0         1542
+   24 GHz       0            0    0            0
+------------------------------------------------
+               19            4    0         5751
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1401 10GHZ      CW   RM7T/3        599 001    599 001    732                               @  KO90CW
+  2015-07-04 1718 10GHZ      CW   UT0MZ         599 002    599 005    810                               @  KN99GN
+X 2015-07-04 1851 144MHZ     CW   RW3PX         599 001    599 080    0                                 @  KO80RJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:51:00  GMT 145 MHz CW RW3PX 59(9) 80#KO83RJ UA3OW 59(9) 1#KO90VL)
+  2015-07-04 1853 144MHZ     CW   R2ZBT         599 002    599 013    160                               @  KO81WG
+  2015-07-04 1855 144MHZ     CW   R3ZD          599 003    599 014    165                               @  KO81VG
+  2015-07-04 1858 144MHZ     CW   RW3WP         599 004    599 056    184                               @  KO91CT
+  2015-07-04 1859 144MHZ     CW   R5WW          599 005    599 011    288                               @  KO81BQ
+X 2015-07-04 1903 144MHZ     CW   RK6YY         599 006    599 043    0                                 @  LN04AQ ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  19:04:00  GMT 145 MHz CW RK6YYY 59(9) 43#LN04AQ UA3OW 59(9) 6#KO90VL)
+  2015-07-04 1905 144MHZ     CW   R7BR          599 007    599 034    566                               @  LN05KK
+X 2015-07-04 1907 144MHZ     CW   US6EII        599 008    599 038    0                                 @  KN78JK ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  19:08:00  GMT 145 MHz CW US5EII 59(9) 38#KN78JK UA3OW 59(9) 8#KO90VL)
+
+X 2015-07-04 1909 144MHZ     CW   UY7IZ         599 009    599 013    0                                 @  KN88OG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  19:09:00  GMT 145 MHz CW UY7IZ 59(9) 13#KN88OG RA3OW 59(9) 9#KO90VL)
+  2015-07-04 1910 144MHZ     CW   UR4LTX        599 010    599 031    266                               @  KN89EM
+  2015-07-04 1913 144MHZ     CW   UY1HY         599 011    599 009    482                               @  KO60MA
+  2015-07-04 1917 144MHZ     CW   UA3RN         599 012    599 015    343                               @  LO03VH
+  2015-07-04 1940 144MHZ     CW   RT7A/6        599 013    599 067    269                               @  LN08BB
+  2015-07-04 1942 144MHZ     CW   RU7M          599 014    599 077    329                               @  KN97LN
+  2015-07-04 1946 144MHZ     CW   UR4EWP/P      599 015    599 096    329                               @  KN78XU
+  2015-07-04 1951 144MHZ     CW   US6EC         599 016    599 037    455                               @  KN78AS
+  2015-07-04 2034 144MHZ     CW   RW3WR         599 017    599 135    373                               @  KO71IM

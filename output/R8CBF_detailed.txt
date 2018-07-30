@@ -1,0 +1,23 @@
+Callsign: R8CBF
+QTH Locator: MO06IT
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       4            0    0           85
+  435 MHz       2            0    0           88
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                6            0    0          173
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1410 144MHZ     SSB  RF9C          59  001    59  003    6                                 @  MO06HU
+  2015-07-04 1848 144MHZ     SSB  R8CBG         59  002    59  003    19                                @  MO06HP
+  2015-07-04 1912 144MHZ     SSB  RA9CMI        59  003    59  002    49                                @  MO06RX
+  2015-07-04 1932 144MHZ     SSB  RX9CBS        59  004    59  013    11                                @  MO06GS
+  2015-07-04 1908 432MHZ     SSB  RF9C          59  001    59  012    12                                @  MO06HU
+  2015-07-04 1909 432MHZ     SSB  RA9CCU        59  002    59  012    76                                @  MO06BQ

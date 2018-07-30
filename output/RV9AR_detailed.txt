@@ -1,0 +1,29 @@
+Callsign: RV9AR
+QTH Locator: LO95JG
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            3    0            0
+  435 MHz       3            1    0            0
+  1.3 GHz       1            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               11            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1440 432MHZ     SSB  R8AZ          59  001    59  002    0                                 @  LO94KW
+  2015-07-04 1512 432MHZ     SSB  RM8A          59  002    59  008    0                                 @  MO04CT
+X 2015-07-04 1554 432MHZ     SSB  RZ4WWB        59  003    59  004    0                                 @  LO84FL ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  15:54:00  GMT 435 MHz SSB RZ9WWB 59(9) 4#LO84FL RV9AR 59(9) 3#LO95JG)
+  2015-07-04 1440 144MHZ     SSB  R8AZ          59  001    59  004    0                                 @  LO94KW
+  2015-07-04 1442 144MHZ     SSB  RU9FT         59  002    59  005    0                                 @  LO88SU
+X 2015-07-04 1446 144MHZ     SSB  UA4WP         59  003    59  007    0                                 @  LO56WP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:46:00  GMT 145 MHz SSB UA4WP 59(9) 7#LO56WP RW9AR 59(9) 3#LO95JG)
+  2015-07-04 1514 144MHZ     SSB  RM8A          59  004    59  010    0                                 @  MO04CT
+  2015-07-04 1553 144MHZ     SSB  RZ9WWB        59  005    59  010    0                                 @  LO84FL
+X 2015-07-04 1654 144MHZ     SSB  RA9BZ         59  006    59  019    0                                 @  MO05KW ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1712 144MHZ     CW   RA4W          599 007    599 011    0                                 @  LO66PX ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+
+  2015-07-04 1557 1.3GHZ     SSB  R8AZ          59  001    59  002    0                                 @  LO94KW

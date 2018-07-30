@@ -1,0 +1,136 @@
+Callsign: UT0EZ
+QTH Locator: KN67SU
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      78           14    1         8378
+  435 MHz      31            6    0         8908
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+              109           20    1        17286
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1420 432MHZ     SSB  UV5ETV        59  001    59  001    0                                 @  KN67NX ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  14:19:00  GMT 435 MHz SSB UT5ETV 59(9) 1#KN67NX UT0EZ 59(9) 1#KN67SU)
+  2015-07-04 1434 432MHZ     SSB  UT7EL         59  002    59  005    140                               @  KN77EN
+  2015-07-04 1438 432MHZ     SSB  US7GY         59  003    59  002    398                               @  KN66LC
+  2015-07-04 1500 432MHZ     SSB  UT1E          59  004    59  005    22                                @  KN67RW
+  2015-07-04 1507 432MHZ     SSB  UA7R/5        59  005    59  008    688                               @  KN85CI
+  2015-07-04 1531 432MHZ     SSB  UW1G          59  006    59  020    186                               @  KN67UA
+X 2015-07-04 1534 432MHZ     SSB  UV7E          59  007    59  004    0                                 @  KN77XR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:34:00  GMT 435 MHz SSB UV7E 59(9) 4#KN67XR UT0EZ 59(9) 7#KN67SU)
+  2015-07-04 1607 432MHZ     SSB  UR4EWZ        59  008    59  017    398                               @  KN87CX
+  2015-07-04 1641 432MHZ     SSB  UR1E/P        59  009    59  013    60                                @  KN68OA
+  2015-07-04 1757 432MHZ     SSB  RU6K          59  010    59  014    684                               @  KN74DT
+
+X 2015-07-04 1933 432MHZ     SSB  UR8QAF/A      59  011    59  009    0                                 @  KN77DF ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1942 432MHZ     SSB  UA7KN         59  012    59  022    666                               @  KN85BK
+  2015-07-04 2023 432MHZ     SSB  US4IEK        59  013    59  014    620                               @  KN87UX
+  2015-07-04 2024 432MHZ     SSB  UX0QQ         59  014    59  019    476                               @  KN87HH
+  2015-07-05 0148 432MHZ     SSB  UT5EEN        59  015    59  004    14                                @  KN67RV
+  2015-07-05 0150 432MHZ     SSB  UT7EJ         59  016    59  020    216                               @  KN78AS
+  2015-07-05 0227 432MHZ     SSB  US7VF         59  017    59  029    316                               @  KN58SI
+  2015-07-05 0238 432MHZ     SSB  UZ2HZ         59  018    59  031    258                               @  KN69RA
+  2015-07-05 0243 432MHZ     SSB  UT5VD         59  019    59  015    224                               @  KN68MT
+  2015-07-05 0243 432MHZ     SSB  UR4HD         59  020    59  012    278                               @  KN69QC
+
+  2015-07-05 0244 432MHZ     SSB  UY1HY         59  021    59  020    486                               @  KO60MA
+  2015-07-05 0301 432MHZ     SSB  R6DZ          59  022    59  082    748                               @  KN96CQ
+  2015-07-05 0318 432MHZ     SSB  UR5LX         59  023    59  054    666                               @  KO70WK
+X 2015-07-05 0338 432MHZ     SSB  US6EC         59  024    59  013    0                                 @  KN78AS ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+X 2015-07-05 0346 432MHZ     SSB  UT7E          59  025    59  034    0                                 @  KN78MM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:46:00  GMT 435 MHz SSB UT7E 59(9) 34#KN78MM UT0EZ 59(9) 25#KN67PV)
+X 2015-07-05 0347 432MHZ     SSB  UW5EFF        59  026    59  001    0                                    KN68TD ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0348 432MHZ     SSB  UR5HVR        59  027    59  001    258                                  KN69TA
+  2015-07-05 0406 432MHZ     SSB  UR5AS         59  028    59  046    600                               @  KO70LJ
+  2015-07-05 0532 432MHZ     SSB  UT0EK         59  029    59  018    22                                @  KN67RW
+  2015-07-05 0812 432MHZ     SSB  UR4VZA        59  030    59  011    242                               @  KN68DN
+
+  2015-07-05 0813 432MHZ     SSB  UX6VA         59  031    59  007    242                               @  KN68DN
+  2015-07-04 1400 144MHZ     SSB  UT5ETV        59  001    59  001    33                                @  KN67NX
+  2015-07-04 1401 144MHZ     SSB  UV5ELH        59  002    59  001    13                                @  KN67QV
+  2015-07-04 1401 144MHZ     SSB  UT0EK         59  003    59  001    11                                @  KN67RW
+  2015-07-04 1402 144MHZ     SSB  UW5EFF        59  004    59  001    32                                   KN68TD
+  2015-07-04 1403 144MHZ     SSB  UT2EC         59  005    59  001    11                                @  KN67RW
+  2015-07-04 1404 144MHZ     SSB  UR7QDO        59  006    59  001    75                                @  KN77EL
+X 2015-07-04 1404 144MHZ     SSB  UR5EE         59  007    59  003    0                                 @  KN67AP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:05:00  GMT 145 MHz SSB UR5EE 59(9) 3#KN67TR UT0EZ 59(9) 7#KN67SU)
+X 2015-07-04 1407 144MHZ     SSB  UR5ETN        59  008    59  003    0                                 @  KN78CL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:08:00  GMT 145 MHz SSB UR5ETN 59(9) 3#KN68CL UT0EZ 59(9) 8#KN67SU)
+  2015-07-04 1409 144MHZ     SSB  UV5ETP        59  009    59  002    7                                    KN67RV
+
+  2015-07-04 1410 144MHZ     SSB  UT1EE         59  010    59  005    20                                @  KN67PW
+X 2015-07-04 1412 144MHZ     SSB  UR5VBO        59  011    59  001    0                                    KN68JC ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1412 144MHZ     SSB  UT5EPP        59  012    59  001    13                                @  KN67QV
+  2015-07-04 1413 144MHZ     SSB  US5EGP        59  013    59  005    15                                @  KN67RX
+  2015-07-04 1413 144MHZ     SSB  UR0VG         59  014    59  002    93                                   KN68NP
+  2015-07-04 1415 144MHZ     SSB  US4IEK        59  015    59  004    310                               @  KN87UX
+X 2015-07-04 1417 144MHZ     SSB  UR8QAF/A      59  016    59  004    0                                 @  KN77DF ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1422 144MHZ     SSB  UR1E/P        59  017    59  005    30                                @  KN68OA
+  2015-07-04 1423 144MHZ     SSB  UT1E          59  018    59  006    11                                @  KN67RW
+  2015-07-04 1426 144MHZ     SSB  UT2QQ         59  019    59  009    159                               @  KN77SI
+
+  2015-07-04 1435 144MHZ     SSB  UT7EL         59  020    59  013    70                                @  KN77EN
+X 2015-07-04 1436 144MHZ     SSB  US8ZAL        59  021    59  009    0                                 @  KN66AU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:36:00  GMT 145 MHz SSB US8ZAL 59(9) 9#KN66AU UT0EZ 59(9) 21#KN66SU)
+  2015-07-04 1437 144MHZ     SSB  US7GY         59  022    59  007    199                               @  KN66LC
+X 2015-07-04 1442 144MHZ     SSB  UR3GS         59  023    59  010    0                                 @  KN66QR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:41:00  GMT 145 MHz SSB UR3GS 59(9) 10#KN66QR UT0EZ 59(9) 23#KN77SU)
+  2015-07-04 1451 144MHZ     SSB  UR4CV         59  024    59  005    283                                  KN59PW
+  2015-07-04 1454 144MHZ     SSB  UX0QQ         59  025    59  017    238                               @  KN87HH
+X 2015-07-04 1454 144MHZ     SSB  UV7E          59  026    59  011    0                                 @  KN77XR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:54:00  GMT 145 MHz SSB UV7E 59(9) 11#KN67XR UT0EZ 59(9) 26#KN67SU)
+  2015-07-04 1507 144MHZ     SSB  UA7R/5        59  027    59  009    344                               @  KN85CI
+  2015-07-04 1515 144MHZ     SSB  UR4QXS/P      59  028    59  024    167                               @  KN77SE
+  2015-07-04 1529 144MHZ     SSB  UT2EO         59  029    59  011    28                                @  KN67OX
+
+X 2015-07-04 1537 144MHZ     SSB  R6KW          59  030    59  022    0                                 @  KN75GC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:37:00  GMT 145 MHz SSB R6KW 59(9) 23#KN75GC UT0EZ 59(9) 30#KN67SU)
+X 2015-07-04 1539 144MHZ     SSB  UR4VWN        59  031    59  017    0                                 @  KN69OA ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1608 144MHZ     SSB  UR4EWZ        59  032    59  028    199                               @  KN87CX
+  2015-07-04 1622 144MHZ     SSB  UR5CSL/P      59  033    59  024    153                                  KN69GB
+  2015-07-04 1626 144MHZ     SSB  UT3C/P        59  034    59  028    245                                  KN59OK
+  2015-07-04 1637 144MHZ     SSB  UR8QAF/P      59  035    59  028    0  DUP                            @  KN77DF ERROR(S): QSO_ERROR_WRONG_CALLSIGN_AGAINST_CALLSIGN_DATABASE(UR8QAF/A), QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1648 144MHZ     SSB  UT3QU         59  036    59  015    120                               @  KN78NB
+  2015-07-04 1657 144MHZ     SSB  UV5EEE        59  037    59  004    19                                @  KN67PV
+  2015-07-04 1749 144MHZ     SSB  UX1VT         59  038    59  041    115                               @  KN68RV
+  2015-07-04 1805 144MHZ     SSB  UW1G          59  039    59  066    93                                @  KN67UA
+
+  2015-07-04 1806 144MHZ     SSB  UY5SI         59  040    59  013    15                                @  KN67QW
+X 2015-07-04 1815 144MHZ     SSB  UT7E          59  041    59  050    0                                 @  KN78MM ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1817 144MHZ     SSB  US3VN         59  042    59  026    156                                  KN58SH
+  2015-07-04 1819 144MHZ     SSB  UY5QO         59  043    59  018    111                               @  KN77MT
+X 2015-07-04 1821 144MHZ     SSB  UZ2Q/P        59  044    59  028    0                                 @  KN77NT ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1835 144MHZ     SSB  UR5NOY        59  045    59  023    363                                  KN48KV
+  2015-07-04 1902 144MHZ     SSB  UT4L/P        59  046    59  047    298                               @  KN89KJ
+  2015-07-04 1931 144MHZ     SSB  UT2VN/P       59  047    59  016    131                               @  KN68BN
+  2015-07-04 1936 144MHZ     SSB  R6DZ          59  048    59  101    374                               @  KN96CQ
+  2015-07-04 2002 144MHZ     SSB  UW7E/P        59  049    59  066    138                               @  KN78MO
+
+  2015-07-04 2006 144MHZ     SSB  UV5EIF        59  050    59  026    7                                 @  KN67RV
+  2015-07-04 2007 144MHZ     SSB  UR3QTN        59  051    59  018    80                                @  KN77FL
+  2015-07-04 2009 144MHZ     SSB  UT5EV         59  052    59  028    151                               @  KN78OP
+  2015-07-05 0156 144MHZ     SSB  UR4HD         59  053    59  022    139                               @  KN69QC
+  2015-07-05 0159 144MHZ     SSB  UT5VD         59  054    59  032    112                               @  KN68MT
+  2015-07-05 0201 144MHZ     SSB  UT7EJ         59  055    59  046    108                               @  KN78AS
+X 2015-07-05 0214 144MHZ     SSB  UR4EWP/P      59  056    59  135    0                                 @  KN78XU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  02:14:00  GMT 145 MHz SSB UR4EWP/P 59(9) 135#KN78XU UT0EZ 59(9) 56#KN77SU)
+X 2015-07-05 0215 144MHZ     SSB  UY5UZ         59  057    59  072    0                                 @  KN69BT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  02:15:00  GMT 145 MHz SSB UY5UZ 59(9) 72#KN59BT UT0EZ 59(9) 57#KN67SU)
+  2015-07-05 0242 144MHZ     SSB  UZ2HZ         59  058    59  072    129                               @  KN69RA
+  2015-07-05 0248 144MHZ     SSB  RW3WR         59  059    59  185    415                               @  KO71IM
+
+  2015-07-05 0305 144MHZ     SSB  R6DG          59  060    59  026    383                               @  KN85JF
+  2015-07-05 0308 144MHZ     SSB  US7VF         59  061    59  081    158                               @  KN58SI
+  2015-07-05 0317 144MHZ     SSB  UR5LX         59  062    59  039    333                               @  KO70WK
+  2015-07-05 0322 144MHZ     SSB  UT2II         59  063    59  052    316                               @  KN88VA
+  2015-07-05 0351 144MHZ     SSB  RN3ZJJ        59  064    59  058    349                               @  KO70WO
+  2015-07-05 0402 144MHZ     SSB  UR5HVR        59  065    59  001    129                                  KN69TA
+  2015-07-05 0523 144MHZ     SSB  UY5QZ         59  066    59  011    118                               @  KN77NT
+  2015-07-05 0525 144MHZ     SSB  UT5EEN        59  067    59  029    7                                 @  KN67RV
+  2015-07-05 0545 144MHZ     SSB  UR5EPM        59  068    59  015    26                                @  KN68PA
+  2015-07-05 0546 144MHZ     SSB  UR3VEO        59  069    59  032    115                                  KN68IR
+
+  2015-07-05 0552 144MHZ     SSB  UR5EDK        59  070    59  026    25                                @  KN67OV
+  2015-07-05 0710 144MHZ     SSB  US5EGZ        59  071    59  011    29                                @  KN68PB
+  2015-07-05 0719 144MHZ     SSB  UR5EQQ        59  072    59  019    133                                  KN78MM
+  2015-07-05 0808 144MHZ     SSB  UX6VA         59  073    59  032    121                               @  KN68DN
+  2015-07-05 0810 144MHZ     SSB  UR4VZA        59  074    59  036    121                               @  KN68DN
+  2015-07-05 0859 144MHZ     SSB  UV5ENJ        59  075    59  012    13                                @  KN67QV
+  2015-07-05 0900 144MHZ     SSB  UV5EVB        59  076    59  019    13                                @  KN67QV
+X 2015-07-05 1242 144MHZ     SSB  UT5ZEE        59  077    59  016    0                                 @  KN56XX ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  12:41:00  GMT 145 MHz SSB UR5ZEE 59(9) 16#KN56XX UT0EZ 59(9) 77#KN67SU)
+  2015-07-05 1246 144MHZ     SSB  UR5ZJE        59  078    59  010    156                               @  KN56XW

@@ -1,0 +1,63 @@
+Callsign: UT5DV
+QTH Locator: KN18DO
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz      42            3    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               42            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1419 432MHZ     CW   US5WU         599 001    599 001    0                                 @  KO20DI
+  2015-07-04 1434 432MHZ     SSB  HA6W          59  002    59  025    0                                 @  KN08FB
+  2015-07-04 1452 432MHZ     SSB  OM0TT         59  003    59  003    0                                 @  KN08XQ
+  2015-07-04 1502 432MHZ     SSB  OM8AND        59  004    59  001    0                                 @  KN08OR
+  2015-07-04 1505 432MHZ     SSB  OM8TA         59  005    59  002    0                                 @  KN08OR
+  2015-07-04 1506 432MHZ     SSB  OM3KHU        59  006    59  002    0                                 @  KN09WC
+  2015-07-04 1602 432MHZ     SSB  HA8XI         59  007    59  023    0                                 @  JN96SW
+  2015-07-04 1616 432MHZ     CW   YO2BBT        599 008    599 022    0                                 @  KN15AE
+  2015-07-04 1621 432MHZ     CW   YO5CRQ        599 009    599 013    0                                 @  KN17UR
+  2015-07-04 1646 432MHZ     CW   S51WX         599 010    599 019    0                                 @  JN75OS
+
+  2015-07-04 1649 432MHZ     SSB  S53D          59  011    59  059    0                                 @  JN76BD
+X 2015-07-04 1650 432MHZ     CW   YO5DDD/P      599 012    599 006    0                                    KN17VP ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1658 432MHZ     CW   9A3DF         599 013    599 025    0                                 @  JN86HF
+  2015-07-04 1701 432MHZ     CW   S57NAW        599 014    599 033    0                                 @  JN76PB
+  2015-07-04 1706 432MHZ     CW   OK2I          599 015    599 038    0                                 @  JN89XX
+  2015-07-04 1716 432MHZ     SSB  HA5KDQ        59  016    59  091    0                                 @  JN97LN
+  2015-07-04 1723 432MHZ     SSB  S51ZO         59  017    59  048    0                                 @  JN86DR
+  2015-07-04 1726 432MHZ     SSB  HA5HY         59  018    59  016    0                                 @  JN97PP
+  2015-07-04 1727 432MHZ     SSB  UR5W          59  019    59  001    0                                 @  KN18IW
+  2015-07-04 1740 432MHZ     CW   E70A          599 020    599 058    0                                 @  JN94GG
+
+  2015-07-04 1859 432MHZ     SSB  OL3Z          59  021    59  174    0                                 @  JN79FX
+  2015-07-04 1909 432MHZ     CW   SP9EML        599 022    599 074    0                                    JN99LJ
+  2015-07-04 1954 432MHZ     CW   YU1LA         599 023    599 032    0                                    KN04FR
+  2015-07-04 2113 432MHZ     SSB  OM0CS         59  024    59  009    0                                 @  KN09QC
+  2015-07-04 2126 432MHZ     CW   OL9W          599 025    599 142    0                                 @  JN99CL
+  2015-07-04 2256 432MHZ     CW   SP2DDV        599 026    599 034    0                                    JO83VE
+  2015-07-05 0426 432MHZ     CW   9A8D          599 027    599 051    0                                 @  JN95LM
+X 2015-07-05 0505 432MHZ     SSB  YO2KQD/P      59  028    59  035    0                                 @  KN16II ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0515 432MHZ     CW   OK1KPA        599 029    599 153    0                                 @  JN79US
+X 2015-07-05 0518 432MHZ     SSB  YR5W          59  030    59  010    0                                 @  KN17KT ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+
+  2015-07-05 0523 432MHZ     SSB  YO5KAI/P      59  031    59  010    0                                 @  KN16JS
+  2015-07-05 0703 432MHZ     CW   HA8V          599 032    599 029    0                                 @  KN06HT
+  2015-07-05 0720 432MHZ     CW   YO2GL         599 033    599 021    0                                 @  KN05PS
+  2015-07-05 0722 432MHZ     CW   YO5AXF/P      599 034    599 029    0                                    KN16LN
+  2015-07-05 0802 432MHZ     SSB  HA7MB         59  035    59  027    0                                 @  KN07BM
+  2015-07-05 0808 432MHZ     SSB  SQ9V          59  036    59  078    0                                    JO90BC
+  2015-07-05 0824 432MHZ     CW   HA1KYY        599 037    599 167    0                                 @  JN87FI
+  2015-07-05 0849 432MHZ     CW   OK2A          599 038    599 277    0                                 @  JO60JJ
+  2015-07-05 0903 432MHZ     CW   UT4UWE/P      599 039    599 040    0                                    KN27PX
+  2015-07-05 0910 432MHZ     CW   OM3RBS        599 040    599 092    0                                 @  JN98HE
+
+  2015-07-05 0938 432MHZ     SSB  UW1S          59  041    59  028    0                                 @  KN28CF
+  2015-07-05 1101 432MHZ     CW   OK5K          599 042    599 146    0                                 @  JN89VP

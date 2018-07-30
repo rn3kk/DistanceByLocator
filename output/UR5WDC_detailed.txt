@@ -1,0 +1,26 @@
+Callsign: UR5WDC
+QTH Locator: KN19UP
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       9            3    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                9            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1506 145MHZ     SSB  UY3WX         59  001    59  003    0                                 @  KN19XQ
+  2015-07-04 1507 145MHZ     SSB  UR5WFJ        59  002    59  003    0                                 @  KN19XQ
+  2015-07-04 1508 145MHZ     SSB  UY5XU         59  003    59  003    0                                 @  KN19XM
+X 2015-07-05 0532 145MHZ     SSB  UT3SO         59  004    59  037    0                                 @  KN19XX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  05:31:00  GMT 145 MHz SSB UT3SO 59(9) 37#KN18XX UR5WDC 59(9) 4#KN19UP)
+X 2015-07-05 0533 145MHZ     SSB  UR5SO         59  005    59  035    0                                 @  KN19XX ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0534 145MHZ     SSB  UT2SW         59  006    59  040    0                                 @  KN19WB
+  2015-07-05 0623 145MHZ     SSB  UY4W          59  007    59  067    0                                 @  KN29DO
+  2015-07-05 0654 145MHZ     SSB  UR5WCE        59  008    59  029    0                                 @  KN29BT
+X 2015-07-05 1231 145MHZ     SSB  UR5W          59  009    59  284    0                                 @  KN18IW ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND

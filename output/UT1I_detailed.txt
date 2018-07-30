@@ -1,0 +1,43 @@
+Callsign: UT1I
+QTH Locator: KN87VX
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      24            5    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               24            5    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0312 145MHZ     SSB  UX0QQ         59  001    59  096    0                                 @  KN87HH
+  2015-07-05 0316 145MHZ     SSB  UY9IA         59  002    59  052    0                                    KN98FA
+  2015-07-05 0318 145MHZ     SSB  US9IBC        59  003    59  036    0                                 @  KN98AB
+  2015-07-05 0319 145MHZ     SSB  UT2II         59  004    59  051    0                                 @  KN88VA
+X 2015-07-05 0321 145MHZ     SSB  UY7IZ         59  005    59  019    0                                 @  KN88OG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:20:00  GMT 145 MHz SSB UY7IZ 59(9) 19#KN88OG UT1I 59(9) 5#KN86VA)
+X 2015-07-05 0328 145MHZ     CW   RU7M          599 006    599 093    0                                 @  KN97LN ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:28:00  GMT 145 MHz CW RU7M 59(9) 93#KN97LN UT1I 59(9) 6#KN87VM)
+X 2015-07-05 0332 145MHZ     CW   UY5YA         599 007    599 079    0                                 @  KN87DP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  03:31:00  GMT 145 MHz CW UY5YA 59(9) 39#KN77UG UT1I 59(9) 7#KN87VX)
+  2015-07-05 0333 145MHZ     CW   RU6A          599 008    599 054    0                                 @  LN06DJ
+X 2015-07-05 0340 145MHZ     CW   UR4EWP/P      599 009    599 141    0                                 @  KN78XU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:39:00  GMT 145 MHz CW UR4EWP/P 59(9) 141#KN78XU UT1I 59(9) 9#KN87VO)
+  2015-07-05 0342 145MHZ     CW   US5EII        599 010    599 069    0                                 @  KN78JK
+
+  2015-07-05 0347 145MHZ     CW   RT7G          599 011    599 064    0                                 @  LN05WB
+  2015-07-05 0355 145MHZ     CW   UR4EWZ        599 012    599 112    0                                 @  KN87CX
+  2015-07-05 0404 145MHZ     CW   UV7E          599 013    599 081    0                                 @  KN67XR
+  2015-07-05 0419 145MHZ     CW   UY5QO         599 014    599 036    0                                 @  KN77MT
+  2015-07-05 0432 145MHZ     CW   UT4L/P        599 015    599 114    0                                 @  KN89KJ
+  2015-07-05 0437 145MHZ     CW   RT7A/6        599 016    599 107    0                                 @  LN08BB
+  2015-07-05 0439 145MHZ     CW   UW7E/P        599 017    599 105    0                                 @  KN78MO
+  2015-07-05 0506 145MHZ     SSB  R6DZ          599 018    59  154    0                                 @  KN96CQ
+  2015-07-05 0507 145MHZ     SSB  UX2IO         59  019    59  008    0                                    KN88WB
+  2015-07-05 0514 145MHZ     SSB  US5MJK        59  020    59  011    0                                    KN98QL
+
+  2015-07-05 0514 145MHZ     SSB  US5IUF        59  021    59  016    0                                 @  KN88QH
+  2015-07-05 0515 145MHZ     SSB  UX3IB         59  022    59  004    0                                    KN88WA
+X 2015-07-05 0519 145MHZ     SSB  US2IFR        59  023    59  001    0                                    KN88XB ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0605 145MHZ     SSB  US4IEK        59  024    59  108    0                                 @  KN87UX

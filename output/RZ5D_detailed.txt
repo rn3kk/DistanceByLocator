@@ -1,0 +1,39 @@
+Callsign: RZ5D
+QTH Locator: KO85WJ
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      19            1    0         1412
+  435 MHz       1            0    0          182
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               20            1    0         1594
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0546 435MHZ     SSB  RN3F          59  020    59  041    182                               @  KO86RE
+X 2015-07-04 1407 145MHZ     SSB  UA3AFR        59  001    59  005    0                                 @  KO85QU ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  14:06:00  GMT 145 MHz SSB UA3ARF 59(9) 5#KO85QU RZ5D 59(9) 1#KO85WJ)
+  2015-07-04 1410 145MHZ     SSB  RW3PX         59  002    59  012    223                               @  KO83RJ
+  2015-07-04 1413 145MHZ     SSB  R2DU          59  003    59  011    74                                @  KO84UR
+  2015-07-04 1415 145MHZ     SSB  RK9AT/3       59  004    59  007    97                                @  KO86QF
+  2015-07-04 1418 145MHZ     SSB  RA3ACY        59  005    59  010    78                                   KO84RR
+  2015-07-04 1421 145MHZ     SSB  RC3C          59  006    59  003    37                                @  KO85PL
+  2015-07-04 1421 145MHZ     SSB  RN5A          59  007    59  003    37                                   KO85PL
+  2015-07-04 1422 145MHZ     SSB  RX3A          59  008    59  007    26                                @  KO95DI
+  2015-07-04 1427 145MHZ     SSB  RW3DVW        59  009    59  010    60                                @  KO84QW
+
+  2015-07-04 1433 145MHZ     SSB  UB3DDA        59  010    59  005    29                                @  KO95DM
+  2015-07-04 1434 145MHZ     SSB  R2ADL         59  011    59  004    59                                @  KO85PT
+  2015-07-04 1437 145MHZ     SSB  R3PG          59  012    59  013    111                               @  KO84UJ
+  2015-07-04 1438 145MHZ     SSB  RL3BZ         59  013    59  012    62                                @  KO84TU
+  2015-07-04 1442 145MHZ     SSB  RK5D          59  014    59  015    83                                @  KO86WD
+  2015-07-04 1449 145MHZ     SSB  RA3DEM        59  015    59  026    103                               @  KO96CH
+  2015-07-04 1616 145MHZ     SSB  UF3D          59  016    59  028    10                                @  KO95AJ
+  2015-07-04 1708 145MHZ     SSB  R3DX          59  017    59  039    44                                @  KO85OG
+  2015-07-04 1905 145MHZ     SSB  R3DE          59  018    59  008    188                                  KO86CT
+  2015-07-05 0542 145MHZ     SSB  RN3F          59  019    59  108    91                                @  KO86RE
+

@@ -1,0 +1,44 @@
+Callsign: US5EGZ
+QTH Locator: KN68PB
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      25            5    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               25            5    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0619 144MHZ     SSB  UT1EE         59  001    59  048    0                                 @  KN67PW
+  2015-07-05 0620 144MHZ     SSB  UT2EO         59  002    59  022    0                                 @  KN67OX
+  2015-07-05 0621 144MHZ     SSB  UV5EEE        59  003    59  025    0                                 @  KN67PV
+  2015-07-05 0642 144MHZ     SSB  UR5LX         59  004    59  059    0                                 @  KO70WK
+  2015-07-05 0643 144MHZ     SSB  US5EGP        59  005    59  033    0                                 @  KN67RX
+X 2015-07-05 0645 144MHZ     SSB  UY5SI         59  006    59  025    0                                 @  KN67QW ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0652 144MHZ     SSB  UT1E          59  008    59  082    0                                 @  KN67RW
+  2015-07-05 0652 144MHZ     SSB  UR4EWZ        59  007    59  127    0                                 @  KN87CX ERROR(S): QSO_ERROR_SENT_NUMBER_ORDER_ERROR
+  2015-07-05 0653 144MHZ     SSB  UW5EFF        59  009    59  061    0                                    KN68TD
+  2015-07-05 0657 144MHZ     SSB  UT0EK         59  010    59  085    0                                 @  KN67RW
+
+  2015-07-05 0709 144MHZ     SSB  UT0EZ         59  011    59  071    0                                 @  KN67SU
+  2015-07-05 0715 144MHZ     SSB  RW3WR         59  012    59  205    0                                 @  KO71IM
+  2015-07-05 0723 144MHZ     SSB  UR1E/P        59  013    59  120    0                                 @  KN68OA
+  2015-07-05 0735 144MHZ     SSB  UR3LBL        59  014    59  080    0                                 @  KO80AF
+X 2015-07-05 0746 144MHZ     SSB  US5AEP        59  015    59  131    0                                 @  KO70IJ ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 0749 144MHZ     SSB  UT2EC         59  016    59  072    0                                 @  KN67RW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  07:50:00  GMT 145 MHz SSB UT2EC 59(9) 72#KN67RW US4EGZ 59(9) 16#KN68PB)
+X 2015-07-05 0750 144MHZ     SSB  UR5EF         59  017    59  032    0                                 @  KN67TR ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  07:52:00  GMT 145 MHz SSB UR5EE 59(9) 32#KN67TR US5EGZ 59(9) 17#KN68PB)
+  2015-07-05 0751 144MHZ     SSB  UV5EVB        59  019    59  010    0                                 @  KN67QV
+  2015-07-05 0751 144MHZ     SSB  UV5EIF        59  018    59  042    0                                 @  KN67RV ERROR(S): QSO_ERROR_SENT_NUMBER_ORDER_ERROR
+  2015-07-05 0812 144MHZ     SSB  UR3GS         59  020    59  046    0                                 @  KN66QR
+
+  2015-07-05 0830 144MHZ     SSB  UW1G          59  021    59  121    0                                 @  KN67UA
+  2015-07-05 0908 144MHZ     SSB  UV5ENJ        59  022    59  016    0                                 @  KN67QV
+X 2015-07-05 0910 144MHZ     SSB  UT5EPP        59  023    59  031    0                                 @  KN67QV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  09:10:00  GMT 145 MHz SSB UT5EPP 59(9) 31#KN67QV US5EGZ 59(9) 20#KN68PB)
+  2015-07-05 1027 144MHZ     SSB  UT7E          59  024    59  102    0                                 @  KN78MM
+  2015-07-05 1350 144MHZ     SSB  UT5VD         59  025    59  085    0                                 @  KN68MT

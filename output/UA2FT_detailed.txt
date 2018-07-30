@@ -1,0 +1,69 @@
+Callsign: UA2FT
+QTH Locator: KO04LT
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      44            4    1        10928
+  435 MHz       4            2    0          536
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               48            6    1        11464
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1627 145MHZ     CW   UA2F          599 001    599 019    64                                   JO94XV
+  2015-07-04 1723 145MHZ     CW   EU3BD         599 002    599 022    394                               @  KO32BX
+  2015-07-04 1727 145MHZ     CW   LY2BUU        599 003    599 017    198                               @  KO15XH
+  2015-07-04 1738 145MHZ     CW   DH8BQA        599 004    579 139    476                               @  JO73CE
+  2015-07-04 1749 145MHZ     CW   UA2FL         599 005    599 016    34                                @  KO04FQ
+  2015-07-04 1810 145MHZ     SSB  LY3A          59  006    59  010    214                               @  KO25DB
+  2015-07-04 1823 145MHZ     SSB  RK2FWK/P      59  007    59  004    76                                   KO04XK
+  2015-07-04 1825 145MHZ     CW   RA2FAC        599 008    599 003    65                                   JO94XW
+  2015-07-04 1829 145MHZ     SSB  RA2FX         59  009    59  013    69                                @  KO05XB
+  2015-07-04 1829 145MHZ     SSB  LY3PEJ        59  010    59  020    108                               @  KO15CL
+
+  2015-07-04 1830 145MHZ     SSB  LY2DR         59  011    59  023    108                               @  KO15CL
+  2015-07-04 1838 145MHZ     SSB  UC2K          59  012    59  020    74                                @  KO04XL
+  2015-07-04 1909 145MHZ     CW   LY2HM         599 013    599 039    151                               @  KO15CX
+X 2015-07-04 1956 145MHZ     CW   UA2CZ         599 014    599 003    0                                 @  KO04FQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  19:57:00  GMT 145 MHz CW UA2CZ 59(9) 3#KO04OO UA2FT 59(9) 14#KO04LT)
+  2015-07-04 2107 145MHZ     CW   YL2GD         599 015    599 024    478                               @  KO37ML
+  2015-07-04 2113 145MHZ     CW   DL0HTW        599 016    599 285    672                               @  JO60QU
+  2015-07-04 2132 145MHZ     CW   LY2NA         599 017    599 029    121                               @  KO15JC
+  2015-07-04 2135 145MHZ     CW   SP2FRY        599 018    599 039    233                                  JO83WR
+  2015-07-04 2136 145MHZ     CW   SP1NQN        599 019    599 020    254                                  JO84ML
+  2015-07-04 2138 145MHZ     CW   LY5C/P        599 020    599 035    175                               @  KO15MU
+
+  2015-07-04 2140 145MHZ     CW   SP1DFZ        599 021    599 015    236                                  JO84RE
+  2015-07-04 2147 145MHZ     CW   LY1CR         599 022    599 016    108                               @  KO15CL
+  2015-07-05 0318 145MHZ     CW   OL7M          599 023    599 536    588                               @  JO80FG
+  2015-07-05 0344 145MHZ     SSB  LY3VB         59  024    59  016    197                                  KO15QW
+X 2015-07-05 0428 145MHZ     CW   LY3IZ/P       599 025    599 048    0                                 @  KO25QL ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0431 145MHZ     CW   LY1KAP/P      599 026    599 044    315                               @  KO25VL
+  2015-07-05 0438 145MHZ     SSB  LY1R          59  027    59  023    160                               @  KO14RV
+  2015-07-05 0439 145MHZ     SSB  LY3UV/P       59  028    59  027    221                               @  KO24EN
+  2015-07-05 0444 145MHZ     CW   SQ2EEQ        599 029    599 013    160                                  JO94JC
+  2015-07-05 0459 145MHZ     CW   EU3AI         599 030    599 032    362                               @  KO22CE
+
+  2015-07-05 0555 145MHZ     CW   LY2R/P        599 031    599 053    155                               @  KO15KQ
+X 2015-07-05 0643 145MHZ     SSB  RA2FG         59  032    59  002    0                                 @  JO94XW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-05  06:43:00  GMT 145 MHz SSB RA2FG/P 59(9) 2#JO94XW UA2FT 59(9) 32#KO04LT)
+  2015-07-05 0703 145MHZ     CW   LA0BY         599 033    559 063    838                                  JO59IX
+  2015-07-05 0717 145MHZ     CW   DM3W          599 034    599 177    546                               @  JO62XE
+  2015-07-05 0758 145MHZ     CW   SP2WPY        599 035    599 014    164                                  JO94FL
+  2015-07-05 0807 145MHZ     CW   SN1D          599 036    599 115    337                                  JO83BQ
+  2015-07-05 0905 145MHZ     SSB  EU4AX         59  037    59  016    208                               @  KO13TS
+  2015-07-05 0921 145MHZ     CW   YL2PJ         599 038    599 047    444                               @  KO36QM
+  2015-07-05 0928 145MHZ     SSB  SP6TRX        59  039    59  042    488                                  JO71VQ
+  2015-07-05 1013 145MHZ     SSB  SQ1FYB        59  040    59  058    418                                  JO73MI
+
+  2015-07-05 1029 145MHZ     CW   SP1JNY        599 041    599 077    442                                  JO73GL
+X 2015-07-05 1042 145MHZ     CW   YL2FZ         599 042    599 021    0                                 @  KO37QI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  10:42:00  GMT 145 MHz CW YL2FZ 59(9) 21#KO37QI UA2FA 59(9) 42#KO04LT)
+  2015-07-05 1208 145MHZ     SSB  SN7L          59  043    59  700    577                                  JO70SS
+  2015-07-05 1321 145MHZ     CW   DM3W          599 044    599 288    0  DUP                            @  JO62XE
+X 2015-07-04 1835 435MHZ     FM   LY3PEJ        59  001    59  /005   0                                 @  KO15CL ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE, QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0532 435MHZ     SSB  LY2DR         59  002    59  014    216                               @  KO15CL
+  2015-07-05 0537 435MHZ     SSB  LY1R          59  003    59  015    320                               @  KO14RV
+X 2015-07-05 0703 435MHZ     SSB  UC2K          59  004    59  014    0                                 @  KO04XL ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

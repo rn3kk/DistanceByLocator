@@ -1,0 +1,18 @@
+Callsign: UN9PW/P
+QTH Locator: MO60MF
+Category: MULTI-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       1            0    0          179
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                1            0    0          179
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 2314 144MHZ     SSB  UN9FWW/P      58  001    59  007    179                               @  MO70RR

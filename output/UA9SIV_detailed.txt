@@ -1,0 +1,26 @@
+Callsign: UA9SIV
+QTH Locator: LO71DK
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       9            0    0         1294
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                9            0    0         1294
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 2131 144MHZ     SSB  R9SCB         59  001    59  004    109                                  LO72RC
+  2015-07-05 0117 144MHZ     SSB  RC8SAB        59  002    59  011    66                                @  LO71MT
+  2015-07-05 0209 144MHZ     SSB  R9SAT         59  003    59  009    63                                   LO71MS
+  2015-07-05 0210 144MHZ     SSB  R9SAM         59  004    59  012    150                                  LO81EU
+  2015-07-05 0211 144MHZ     SSB  UA9SUN        59  005    59  010    213                               @  LO81QM
+  2015-07-05 0212 144MHZ     SSB  RA9SBU        59  006    59  011    213                               @  LO81QM
+  2015-07-05 0217 144MHZ     SSB  RK8T          59  007    59  053    347                               @  LO91PT
+  2015-07-05 0339 144MHZ     SSB  RX9SN         59  008    59  015    69                                   LO72EB
+  2015-07-05 0356 144MHZ     SSB  RA9SOA        59  009    59  030    64                                @  LO72DA

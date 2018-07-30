@@ -1,0 +1,57 @@
+Callsign: UA2FL
+QTH Locator: KO04FQ
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      37            4    0        10178
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               37            4    0        10178
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1402 145MHZ     CW   DM3W          599 001    599 002    511                               @  JO62XE
+  2015-07-04 1408 145MHZ     CW   LY1CR         599 002    599 001    141                               @  KO15CL
+  2015-07-04 1410 145MHZ     CW   LY2NA         599 003    599 003    156                               @  KO15JC
+  2015-07-04 1411 145MHZ     CW   LY2BUU        599 004    599 003    233                               @  KO15XH
+  2015-07-04 1413 145MHZ     CW   LY2HM         599 005    599 004    181                               @  KO15CX
+  2015-07-04 1417 145MHZ     CW   LY2R/P        599 006    599 003    189                               @  KO15KQ
+X 2015-07-04 1422 145MHZ     CW   LY1KAP/P      599 007    599 003    0                                 @  KO25VL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:22:00  GMT 145 MHz CW LY1KAP/P 59(9) 3#KO25VL UA2FL 59(9) 7#KO04GQ)
+  2015-07-04 1425 145MHZ     CW   EU3BD         599 008    599 006    417                               @  KO32BX
+  2015-07-04 1439 145MHZ     CW   UA2F          599 009    599 005    39                                   JO94XV
+  2015-07-04 1443 145MHZ     CW   UA2FBQ        599 010    599 002    19                                @  KO04GM
+
+X 2015-07-04 1456 145MHZ     CW   UA2CZ         599 011    599 001    0                                 @  KO04FQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:56:00  GMT 145 MHz CW UA2CZ 59(9) 1#KO04OO UA2FL 59(9) 11#KO04FQ)
+  2015-07-04 1509 145MHZ     CW   SP2WPY        599 012    599 002    130                                  JO94FL
+  2015-07-04 1512 145MHZ     CW   SQ2EEQ        599 013    599 001    125                                  JO94JC
+X 2015-07-04 1522 145MHZ     CW   DL8VL         599 014    599 034    0                                 @  JO71FG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:22:00  GMT 145 MHz CW DL8VL 59(9) 34#JO71FG UA2F 59(9) 14#KO04FQ)
+  2015-07-04 1747 145MHZ     CW   DH8BQA        599 015    599 142    441                               @  JO73CE
+  2015-07-04 1750 145MHZ     CW   UA2FT         599 016    599 005    34                                @  KO04LT
+  2015-07-04 1809 145MHZ     CW   RA2FAC        599 017    599 001    42                                   JO94XW
+  2015-07-04 1922 145MHZ     CW   UC2K          599 018    599 024    99                                @  KO04XL
+  2015-07-04 2019 145MHZ     SSB  OL7M          59  019    59  386    560                               @  JO80FG
+  2015-07-04 2024 145MHZ     SSB  DL0HTW        59  020    59  254    638                               @  JO60QU
+
+  2015-07-04 2122 145MHZ     CW   SP4TKR        599 021    599 003    74                                   KO04FA
+  2015-07-04 2127 145MHZ     CW   SP1NQN        599 022    599 017    221                                  JO84ML
+  2015-07-04 2130 145MHZ     CW   SP2FRY        599 023    599 038    198                                  JO83WR
+  2015-07-04 2132 145MHZ     CW   LY2SA         599 024    599 057    214                               @  KO14UG
+X 2015-07-04 2144 145MHZ     CW   LY2FN         599 025    599 021    0                                 @  KO14XV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  21:44:00  GMT 145 MHz CW LY2FN 59(9) 21#KO14XV UA2FL 59(9) 24#KO04FQ)
+  2015-07-04 2153 145MHZ     CW   OM6W          599 026    599 291    596                               @  JN99LJ
+  2015-07-04 2159 145MHZ     CW   LY5C/P        599 027    599 038    208                               @  KO15MU
+  2015-07-04 2205 145MHZ     CW   SP1DFZ        599 028    599 016    201                                  JO84RE
+  2015-07-04 2354 145MHZ     CW   EU4AG         599 029    599 025    367                               @  KO23VO
+  2015-07-04 2359 145MHZ     CW   OK2EZ         599 030    599 368    568                               @  JN99BS
+
+  2015-07-05 0624 145MHZ     CW   SN1D          599 031    599 094    302                                  JO83BQ
+  2015-07-05 0636 145MHZ     CW   OL9W          599 032    599 402    598                               @  JN99CL
+  2015-07-05 0655 145MHZ     CW   YL2GD         599 033    599 038    512                               @  KO37ML
+  2015-07-05 0705 145MHZ     CW   LA0BY         599 034    559 064    827                                  JO59IX
+  2015-07-05 1007 145MHZ     SSB  SN7L          59  035    59  645    546                                  JO70SS
+  2015-07-05 1022 145MHZ     SSB  SQ1FYB        59  036    59  062    383                                  JO73MI
+  2015-07-05 1031 145MHZ     CW   SP1JNY        599 037    599 078    408                                  JO73GL

@@ -1,0 +1,56 @@
+Callsign: UA9QDX
+QTH Locator: MO25PL
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      26            2    0         6939
+  435 MHz      10            2    0         4152
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               36            4    0        11091
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1739 432MHZ     SSB  RA9LR         59  001    59  002    362                               @  MO27TC
+  2015-07-04 1741 432MHZ     SSB  RT9L          59  002    59  003    370                               @  MO27RD
+  2015-07-04 1757 432MHZ     CW   UN1WF         599 003    599 021    610                               @  MO03TR
+X 2015-07-04 2023 432MHZ     SSB  RM9CM         59  004    59  039    0                                 @  MO07NL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  20:23:00  GMT 435 MHz SSB RM9CM 59(9) 27#MO07NL UA9QDX 59(9) 4#MO25PL)
+  2015-07-04 2101 432MHZ     SSB  RZ9AYA        59  005    59  022    812                               @  LO94QD
+  2015-07-04 2126 432MHZ     SSB  RZ9AWJ        59  006    59  030    350                               @  MO14MN
+  2015-07-04 2317 432MHZ     CW   RA9BZ         599 007    599 032    558                               @  MO05KG
+X 2015-07-05 0038 432MHZ     SSB  UN1WA         59  008    59  013    0                                 @  MO03SR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:38:00  GMT 435 MHz SSB UN1WA 59(9) 13#MO03SR UA9QDX 59(9) 8#MO25PT)
+  2015-07-05 0444 432MHZ     CW   RM8A          599 009    599 041    662                               @  MO04CT
+  2015-07-05 0729 432MHZ     CW   UN7CL         599 010    599 008    428                               @  MO44GW
+
+  2015-07-04 1414 144MHZ     SSB  RA9DA         59  001    59  002    277                               @  MO17MP
+  2015-07-04 1528 144MHZ     SSB  RZ9AWJ        59  002    59  018    175                               @  MO14MN
+  2015-07-04 1533 144MHZ     SSB  R8ACC         59  003    59  016    255                               @  MO04QW
+  2015-07-04 1546 144MHZ     SSB  UA9CFH        59  004    59  015    345                               @  MO07RS
+  2015-07-04 1706 144MHZ     CW   RA9QAW        599 005    599 001    4                                 @  MO25PK
+  2015-07-04 1725 144MHZ     CW   UN7CL         599 006    599 007    214                               @  MO44GW
+  2015-07-04 1734 144MHZ     SSB  RT9L          59  007    59  005    185                               @  MO27RD
+  2015-07-04 1735 144MHZ     SSB  RA9LR         59  008    59  002    181                               @  MO27TC
+  2015-07-04 1759 144MHZ     CW   UN1WF         599 009    599 024    305                               @  MO03TR
+  2015-07-04 1837 144MHZ     CW   UN1WE         599 010    599 030    301                               @  MO03UR
+
+  2015-07-04 1904 144MHZ     CW   RK9AY         599 011    599 033    351                               @  MO03FX
+  2015-07-04 1957 144MHZ     CW   UA9FY         599 012    599 042    563                               @  LO88WN
+  2015-07-04 2015 144MHZ     CW   RA9CCK        599 013    599 024    237                               @  MO06WK
+  2015-07-04 2026 144MHZ     SSB  RM9CM         59  014    59  039    338                               @  MO07NL
+  2015-07-04 2037 144MHZ     SSB  RZ9A          59  015    59  036    378                               @  LO94XA
+  2015-07-04 2104 144MHZ     SSB  RZ9AYA        59  016    59  040    406                               @  LO94QD
+  2015-07-04 2106 144MHZ     SSB  RA8AA         59  017    59  038    237                               @  MO05TA
+  2015-07-04 2118 144MHZ     SSB  RA9AJW        59  018    59  034    255                               @  MO05PD
+  2015-07-04 2119 144MHZ     SSB  R9AT          59  019    59  028    226                               @  MO05UI
+  2015-07-04 2140 144MHZ     CW   UN1WC         599 020    599 001    314                               @  MO03UN
+
+  2015-07-04 2234 144MHZ     CW   UA9ARK        599 021    599 032    410                               @  LO95JG
+  2015-07-04 2315 144MHZ     CW   RA9BZ         599 022    599 041    279                               @  MO05KG
+  2015-07-05 0009 144MHZ     SSB  UA9ACA        59  023    59  038    372                               @  LO94VI
+X 2015-07-05 0037 144MHZ     SSB  UN1WA         59  024    59  028    0                                 @  MO03SR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:37:00  GMT 145 MHz SSB UN1WA 59(9) 28#MO03SR UA9QDX 59(9) 24#MO25PT)
+X 2015-07-05 0045 144MHZ     SSB  RF9C          59  025    59  037    0                                 @  MO06HU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  00:45:00  GMT 145 MHz SSB RF9C 59(9) 39#MO06HU UA9QDX 59(9) 25#MO25PL)
+  2015-07-05 0437 144MHZ     CW   RM8A          599 026    599 062    331                               @  MO04CT

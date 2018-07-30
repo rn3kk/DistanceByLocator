@@ -1,0 +1,24 @@
+Callsign: R4NAF
+QTH Locator: LO48QW
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            0    0          472
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                7            0    0          472
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1426 144MHZ     SSB  UA4NHQ        59  001    59  003    35                                   LO48TP
+  2015-07-04 1427 144MHZ     SSB  UA4NM         59  002    59  007    37                                @  LO48UP
+  2015-07-04 1429 144MHZ     SSB  RW4NN         59  003    59  004    25                                @  LO48SR
+  2015-07-04 1430 144MHZ     SSB  RA4NCX        59  004    59  005    72                                @  LO49JM
+  2015-07-04 1444 144MHZ     SSB  RA4NCQ        59  005    59  010    55                                @  LO58CQ
+  2015-07-04 1447 144MHZ     SSB  UA4NDX        59  006    59  015    225                               @  LO56EX
+  2015-07-04 1447 144MHZ     SSB  RU4NG         59  007    59  006    23                                @  LO48RR

@@ -1,0 +1,47 @@
+Callsign: UT0MZ
+QTH Locator: KN99GN
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz      19            2    0        29184
+   10 GHz       9            0    0        14586
+   24 GHz       0            0    0            0
+------------------------------------------------
+               28            2    0        43770
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1401 10GHZ      CW   UR5LX         599 1      599 1      1278                              @  KO70WK
+  2015-07-04 1421 10GHZ      CW   UT3LL         599 2      599 1      1134                              @  KO80AC
+  2015-07-04 1458 10GHZ      CW   R6DZ          599 3      599 2      1920                              @  KN96CQ
+  2015-07-04 1615 10GHZ      CW   RA3WDK        599 4      599 4      1764                              @  KO81BR
+  2015-07-04 1719 10GHZ      CW   UA3OW         599 5      599 2      810                               @  KO90VL
+  2015-07-05 0253 10GHZ      CW   RU7M          599 6      599 2      1344                              @  KN97LN
+  2015-07-05 0704 10GHZ      CW   RW3PX         599 7      599 9      2592                              @  KO83RJ
+  2015-07-05 0732 10GHZ      CW   UR4EWP/P      599 8      599 6      1218                              @  KN78XU
+  2015-07-05 0921 10GHZ      CW   UT2EM         599 9      599 4      2526                              @  KN67QV
+X 2015-07-04 1405 5.7GHZ     CW   UR5LX         599 1      599 1      0                                 @  KO70WK ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+
+  2015-07-04 1416 5.7GHZ     CW   UT3LL         599 2      599 1      1134                              @  KO80AC
+  2015-07-04 1448 5.7GHZ     CW   R6DZ          599 3      599 2      1920                              @  KN96CQ
+  2015-07-04 1525 5.7GHZ     CW   RU7M          599 4      599 2      1344                              @  KN97LN
+X 2015-07-04 1600 5.7GHZ     CW   RA3WDK        599 5      599 4      0                                 @  KN81BR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  16:00:00  GMT 5.7 GHz CW RA3WDK 59(9) 4#KO81BR UT0MZ 59(9) 5#KN99GN)
+  2015-07-04 1802 5.7GHZ     CW   R7LP          599 6      599 4      1824                              @  KN96UW
+  2015-07-04 1808 5.7GHZ     CW   RT7A/6        599 7      599 3      1212                              @  LN08BB
+  2015-07-04 1846 5.7GHZ     CW   R3GC          599 8      599 7      2082                              @  KO92DQ
+  2015-07-04 1908 5.7GHZ     CW   UT4L/P        599 9      599 8      726                               @  KN89KJ
+  2015-07-04 1931 5.7GHZ     CW   UT2EM         599 10     599 5      2526                              @  KN67QV
+  2015-07-05 0322 5.7GHZ     CW   UR4EWP/P      599 11     599 10     1218                              @  KN78XU
+
+  2015-07-05 0326 5.7GHZ     CW   UR0EQ         599 12     599 2      1392                              @  KN78UO
+  2015-07-05 0346 5.7GHZ     CW   UT4LA         599 13     599 4      1032                              @  KN89CW
+  2015-07-05 0422 5.7GHZ     CW   UV2L/P        599 14     599 2      1080                              @  KN89AK
+  2015-07-05 0435 5.7GHZ     CW   RW3PX         599 15     599 13     2592                              @  KO83RJ
+  2015-07-05 0455 5.7GHZ     CW   R3GS          599 16     599 13     2070                              @  KO92SO
+  2015-07-05 0621 5.7GHZ     CW   UA4AAV        599 17     599 11     2682                              @  LO21DF
+  2015-07-05 0841 5.7GHZ     CW   RW3WR         599 18     599 11     2082                              @  KO71IM
+  2015-07-05 0948 5.7GHZ     CW   UT7EL         599 19     599 9      2268                              @  KN77EN

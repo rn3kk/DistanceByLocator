@@ -1,0 +1,43 @@
+Callsign: RU3T
+QTH Locator: LO25BR
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz      24            1    0        34604
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               24            1    0        34604
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1409 1.3GHZ     CW   RN3F          599 001    599 002    1668                              @  KO86RE
+  2015-07-04 1415 1.3GHZ     CW   RT2M          599 002    599 003    1500                              @  KO97GC
+  2015-07-04 1427 1.3GHZ     CW   R4YM          599 003    599 003    788                               @  LO36OD
+  2015-07-04 1431 1.3GHZ     CW   RW3TJ         599 004    599 003    304                               @  LO16MB
+  2015-07-04 1448 1.3GHZ     CW   RD3DA         599 005    599 002    1708                              @  KO85PT
+  2015-07-04 1455 1.3GHZ     CW   RW3PX         599 006    599 011    2004                              @  KO83RJ
+  2015-07-04 1511 1.3GHZ     CW   UA4CC         599 007    599 001    1936                              @  LO31DN
+  2015-07-04 1545 1.3GHZ     CW   RA3TLU        599 008    599 003    160                               @  LO15WJ
+  2015-07-04 1601 1.3GHZ     CW   R3GC          599 009    599 009    2028                              @  KO92DQ
+  2015-07-04 1616 1.3GHZ     CW   UF3D          599 010    599 012    1532                              @  KO95AJ
+
+  2015-07-04 1617 1.3GHZ     CW   RN3DKQ        599 011    599 011    1560                              @  KO85WS
+  2015-07-04 1621 1.3GHZ     CW   RX3A          599 012    599 009    1476                              @  KO95DI
+  2015-07-04 1624 1.3GHZ     CW   RV3AQ         599 013    599 001    1088                              @  KO95VN
+  2015-07-04 1812 1.3GHZ     CW   RO2E          599 014    599 018    2312                              @  KO82HV
+  2015-07-04 1818 1.3GHZ     CW   UA3ATS/3      599 015    599 006    1836                              @  KO93AN
+  2015-07-04 1828 1.3GHZ     CW   RW3WR         599 016    599 011    3100                              @  KO71IM
+  2015-07-04 1837 1.3GHZ     CW   RA3RF         599 017    599 001    1168                              @  LO03WK
+  2015-07-04 1903 1.3GHZ     CW   RK3MWC        599 018    599 007    1316                              @  LO07BR
+X 2015-07-04 1924 1.3GHZ     CW   RA4NCX        599 019    599 004    0                                 @  LO49JM ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1952 1.3GHZ     CW   UA3M          599 020    599 016    1368                              @  KO97VQ
+
+  2015-07-04 2000 1.3GHZ     CW   RL3D          599 021    599 016    1560                              @  KO85WV
+  2015-07-05 0356 1.3GHZ     CW   R3GS          599 022    599 026    1828                              @  KO92SO
+  2015-07-05 0411 1.3GHZ     CW   RA3TAP        599 023    599 007    244                               @  LO16XG
+  2015-07-05 0428 1.3GHZ     CW   RK3AF         599 024    599 021    2120                              @  KO75TX

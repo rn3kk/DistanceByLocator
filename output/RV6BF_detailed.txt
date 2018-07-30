@@ -1,0 +1,41 @@
+Callsign: RV6BF
+QTH Locator: LN04PW
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz      22            1    0        18928
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               22            1    0        18928
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1420 1.3GHZ     SSB  R7BR          59  001    59  001    256                               @  LN05KK
+X 2015-07-04 1422 1.3GHZ     SSB  R6YA          59  002    59  001    0                                 @  LN04MF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:22:00  GMT 1.3 GHz SSB R6YA 59(9) 1#LN04MF RV6BF 59(9) 1#LN04PW)
+  2015-07-04 1425 1.3GHZ     SSB  R7AB          59  003    59  003    568                               @  KN94WD
+  2015-07-04 1648 1.3GHZ     SSB  RV6MA         59  004    59  005    1128                              @  KN97UF
+  2015-07-04 1702 1.3GHZ     SSB  RA6HVB        59  005    59  003    288                               @  LN14CU
+  2015-07-04 1713 1.3GHZ     CW   UA7R/5        599 006    599 006    1604                              @  KN85CI
+  2015-07-04 1717 1.3GHZ     SSB  UA6AH         59  007    59  006    996                               @  KN94BU
+  2015-07-04 1718 1.3GHZ     SSB  RX6APY        59  008    59  007    872                               @  KN94GQ
+  2015-07-04 1731 1.3GHZ     SSB  UB6A          59  009    59  001    384                                  LN05CI
+  2015-07-04 1737 1.3GHZ     SSB  R7AM          59  010    59  004    708                               @  KN95MA
+
+  2015-07-04 1748 1.3GHZ     SSB  R7HN          59  011    59  003    700                               @  LN13IR
+  2015-07-04 1752 1.3GHZ     SSB  RK6YYY        59  012    59  003    408                               @  LN04AQ
+  2015-07-04 1808 1.3GHZ     SSB  RU6A          59  013    59  004    716                               @  LN06DJ
+  2015-07-05 0107 1.3GHZ     SSB  R6DZ          59  014    59  028    1228                              @  KN96CQ
+  2015-07-05 0130 1.3GHZ     SSB  UA6FA         59  015    59  010    624                               @  LN13GU
+  2015-07-05 0139 1.3GHZ     SSB  RT7G          59  016    59  015    188                               @  LN05WB
+  2015-07-05 0149 1.3GHZ     SSB  UA6LNS        59  017    59  015    1152                              @  LN07KM
+  2015-07-05 0150 1.3GHZ     SSB  RT7A/6        59  018    59  016    1432                              @  LN08BB
+  2015-07-05 0230 1.3GHZ     SSB  RU7M          59  019    59  020    1368                              @  KN97LN
+  2015-07-05 0616 1.3GHZ     SSB  R6CS          59  020    59  020    1080                              @  KN95BW
+
+  2015-07-05 0700 1.3GHZ     CW   UA7KN         599 021    599 013    1632                              @  KN85BK
+  2015-07-05 0708 1.3GHZ     SSB  R7MR          59  022    59  014    1596                              @  LN08UM

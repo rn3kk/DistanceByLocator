@@ -1,0 +1,48 @@
+Callsign: RA9CMI
+QTH Locator: MO06RX
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      29            2    0         5920
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               29            2    0         5920
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1859 144MHZ     SSB  RV9CVA        59  001    59  021    19                                @  MO06ST
+  2015-07-04 1912 144MHZ     SSB  R8CBF         59  002    59  003    49                                @  MO06IT
+  2015-07-04 1918 144MHZ     SSB  RM9CM         59  003    59  035    59                                @  MO07NL
+  2015-07-04 1924 144MHZ     SSB  RX9CBS        59  004    59  012    60                                @  MO06GS
+X 2015-07-04 1925 144MHZ     SSB  RC8C          59  005    59  013    0                                 @  LO96JE ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  19:25:00  GMT 145 MHz SSB RC8CA 59(9) 13#LO96JE RA9CMI 59(9) 5#MO06RX)
+  2015-07-04 1936 144MHZ     SSB  UA9FAI        59  006    59  027    251                               @  LO88VC
+  2015-07-04 1941 144MHZ     SSB  UA9FY         59  007    59  040    275                               @  LO88WN
+  2015-07-04 1942 144MHZ     SSB  RF9C          59  008    59  026    52                                @  MO06HU
+  2015-07-04 1947 144MHZ     SSB  RA9CCK        59  009    59  022    65                                @  MO06WK
+  2015-07-04 1948 144MHZ     SSB  UA9FPG        59  010    59  011    319                               @  LO89TA
+
+X 2015-07-04 2009 144MHZ     SSB  R8CCC         59  011    59  029    0                                 @  LO86QV ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  20:10:00  GMT 145 MHz SSB R9CCC 59(9) 29#LO86QV RA9CMI 59(9) 11#MO06RX)
+  2015-07-04 2031 144MHZ     SSB  UA9ACA        59  012    59  023    309                               @  LO94VI
+  2015-07-04 2033 144MHZ     SSB  R9AT          59  013    59  022    181                               @  MO05UI
+  2015-07-04 2034 144MHZ     SSB  RA8AA         59  014    59  033    217                               @  MO05TA
+  2015-07-04 2038 144MHZ     SSB  R8ACC         59  015    59  039    226                               @  MO04QW
+  2015-07-04 2040 144MHZ     SSB  UA9CFH        59  016    59  043    87                                @  MO07RS
+  2015-07-04 2041 144MHZ     SSB  RA9AJW        59  017    59  031    203                               @  MO05PD
+  2015-07-04 2042 144MHZ     SSB  RA9AAA        59  018    59  025    218                               @  MO05NA
+  2015-07-04 2043 144MHZ     SSB  RZ9A          59  019    59  037    342                               @  LO94XA
+  2015-07-04 2053 144MHZ     SSB  RU9FT         59  020    59  037    311                               @  LO88SU
+
+  2015-07-04 2055 144MHZ     SSB  RW9FWR        59  021    59  036    264                               @  LO98JV
+  2015-07-04 2114 144MHZ     SSB  RA9LR         59  022    59  015    252                               @  MO27TC
+  2015-07-04 2116 144MHZ     SSB  RT9L          59  023    59  021    242                               @  MO27RD
+  2015-07-05 0336 144MHZ     SSB  UN1WA         59  024    59  037    361                               @  MO03SR
+  2015-07-05 0337 144MHZ     SSB  RK9AY         59  025    59  059    339                               @  MO03FX
+  2015-07-05 0348 144MHZ     SSB  UA9FE         59  026    59  055    319                               @  LO87CJ
+  2015-07-05 0413 144MHZ     SSB  RZ9AWJ        59  027    59  065    286                               @  MO14MN
+  2015-07-05 0415 144MHZ     SSB  RM8A          59  028    59  060    253                               @  MO04CT
+  2015-07-05 0416 144MHZ     SSB  UN1WF         59  029    59  046    361                               @  MO03TR

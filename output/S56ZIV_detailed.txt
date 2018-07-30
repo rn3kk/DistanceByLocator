@@ -1,0 +1,28 @@
+Callsign: S56ZIV
+QTH Locator: JN75BS
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      10            2    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               10            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 1302 144MHZ     SSB  I5PVA/6       59  0001   59  0668   0                                    JN63GN
+  2015-07-05 1306 144MHZ     SSB  S57Q          59  0002   59  0516   0                                 @  JN76PB
+  2015-07-05 1307 144MHZ     SSB  S59R          59  0003   59  0617   0                                 @  JN76OM
+  2015-07-05 1322 144MHZ     SSB  IK3UNA        59  0004   59  0377   0                                    JN55NO
+  2015-07-05 1325 144MHZ     SSB  S59DEM        59  0005   59  0728   0                                 @  JN75DS
+  2015-07-05 1331 144MHZ     SSB  S56K          59  0006   59  0404   0                                 @  JN76KI
+  2015-07-05 1343 144MHZ     SSB  IQ4AX         59  0007   59  0488   0                                    JN54KK
+X 2015-07-05 1345 144MHZ     SSB  S51GF         59  0008   59  0104   0                                 @  JN75AV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 1350 144MHZ     SSB  IW2CTQ        59  0009   59  0247   0                                    JN44PS
+X 2015-07-05 1359 144MHZ     SSB  S57N          59  0010   59  0308   0                                 @  JN75BL ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+

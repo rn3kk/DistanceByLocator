@@ -1,0 +1,21 @@
+Callsign: UA9MJ
+QTH Locator: MO64RW
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       4            1    0          316
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                4            1    0          316
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1831 1.3GHZ     SSB  RC9M          59  001    59  011    16                                @  MO64RX
+X 2015-07-04 1835 1.3GHZ     SSB  RA9MKW        59  002    59  005    0                                 @  MO64TW ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  18:35:00  GMT 1.3 GHz SSB UA9MKW 59(9) 5#MO64TW UA9MJ 59(9) 2#MO64RW)
+  2015-07-04 1838 1.3GHZ     SSB  RT9M          59  003    59  007    280                               @  MO75GB
+  2015-07-05 0210 1.3GHZ     SSB  UA9MBQ        59  004    59  010    20                                @  MO64QW

@@ -1,0 +1,22 @@
+Callsign: UR0EQ
+QTH Locator: KN78UO
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       5            0    0         4554
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            0    0         4554
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0213 5.7GHZ     CW   UR4EWP/P      599 001    599 009    198                               @  KN78XU
+  2015-07-05 0326 5.7GHZ     CW   UT0MZ         599 002    599 012    1392                              @  KN99GN
+  2015-07-05 0340 5.7GHZ     CW   UT3LL         599 003    599 007    1008                              @  KO80AC
+  2015-07-05 0359 5.7GHZ     CW   UT4L/P        599 004    599 009    732                               @  KN89KJ
+  2015-07-05 0433 5.7GHZ     CW   UR5LX         599 005    599 010    1224                              @  KO70WK

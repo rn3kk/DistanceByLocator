@@ -1,0 +1,29 @@
+Callsign: RW4HW/4
+QTH Locator: LO32LU
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       7            2    0         9708
+   10 GHz       4            3    0         1536
+   24 GHz       0            0    0            0
+------------------------------------------------
+               11            5    0        11244
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1424 5.7GHZ     CW   UA4AAV        599 001    599 002    1536                              @  LO21DF
+  2015-07-04 1445 5.7GHZ     CW   R4YM          599 002    599 002    2196                              @  LO36OD
+X 2015-07-04 1620 5.7GHZ     SSB  R9FX/4        59  003    59  001    0                                 @  LO32DQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  16:20:00  GMT 5.7 GHz SSB R9FX/4 59(9) 1#LO32DQ RW4HW 59(9) 3#LO32LU)
+  2015-07-04 2007 5.7GHZ     CW   RT4D          599 004    599 001    1038                              @  LO21TM
+  2015-07-05 0122 5.7GHZ     CW   RA4A          599 005    599 004    1944                              @  LO20QC
+X 2015-07-05 0353 5.7GHZ     CW   RW3PX         599 006    599 011    0                                 @  KO83RJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:54:00  GMT 5.7 GHz CW RW3PX 59(9) 11#KO83RJ RW4HW/4 59(9) 6#LO32KR)
+  2015-07-05 0414 5.7GHZ     CW   R3GS          599 007    599 010    2994                              @  KO92SO
+  2015-07-04 1414 10GHZ      CW   UA4AAV        599 001    599 001    1536                              @  LO21DF
+X 2015-07-04 1740 10GHZ      CW   R9FX/4        599 002    599 002    0                                 @  LO32DQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:40:00  GMT 10 GHz CW R9FX/4 59(9) 2#LO32DQ RW4HW 59(9) 2#LO32LU)
+X 2015-07-04 1906 10GHZ      CW   UA4HTS        599 003    599 001    0                                 @  LO43MO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  19:08:00  GMT 10 GHz CW UA4HTS 59(9) 1#LO43MO RW4HW/4 59(9) 3#)
+
+X 2015-07-05 0402 10GHZ      CW   RW3PX         599 004    599 008    0                                 @  KO83RJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:03:00  GMT 10 GHz CW RW3PX 59(9) 8#KO83RJ RW4HW/4 59(9) 4#LO32KR)

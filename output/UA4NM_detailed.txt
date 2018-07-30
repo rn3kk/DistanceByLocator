@@ -1,0 +1,41 @@
+Callsign: UA4NM
+QTH Locator: LO48UP
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      14            7    0          399
+  435 MHz       6            2    0          338
+  1.3 GHz       2            0    0         1700
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               22            9    0         2437
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1401 432MHZ     SSB  RA4NCX        59  001    59  001    220                               @  LO49JM
+  2015-07-04 1413 432MHZ     SSB  RA4NCQ        59  002    59  001    58                                @  LO58CQ
+  2015-07-04 1422 432MHZ     SSB  RW4NN         59  003    59  001    26                                @  LO48SR
+  2015-07-04 1425 432MHZ     SSB  RU4NG         59  004    59  001    34                                @  LO48RR
+X 2015-07-04 1520 432MHZ     SSB  RA4SD         59  005    59  001    0                                 @  LO36WP ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1611 432MHZ     SSB  RT4S          59  006    59  006    0                                 @  LO46MQ ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1400 144MHZ     SSB  RA4NCX        59  001    59  001    110                               @  LO49JM
+  2015-07-04 1406 144MHZ     SSB  UA4NDX        59  002    59  004    189                               @  LO56EX
+X 2015-07-04 1410 144MHZ     SSB  R9XM          59  003    59  003    0                                 @  LP31AB ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:10:00  GMT 145 MHz SSB R9XM 59(9) 3#LP51AB UA4NM 59(9) 3#LO48UP)
+  2015-07-04 1412 144MHZ     SSB  RA4NCQ        59  004    59  003    29                                @  LO58CQ
+
+  2015-07-04 1419 144MHZ     SSB  RW4NN         59  005    59  003    13                                @  LO48SR
+  2015-07-04 1424 144MHZ     SSB  RU4NG         59  006    59  003    17                                @  LO48RR
+  2015-07-04 1427 144MHZ     SSB  R4NAF         59  007    59  002    37                                @  LO48QW
+  2015-07-04 1434 144MHZ     SSB  UA4NHQ        59  008    59  004    4                                    LO48TP
+X 2015-07-04 1441 144MHZ     CW   UA4SBZ        599 009    599 007    0                                 @  LO36WP ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1448 144MHZ     SSB  R4YM          59  010    59  012    0                                 @  LO36OD ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1518 144MHZ     SSB  RA4SD         59  011    59  003    0                                 @  LO36WP ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1529 144MHZ     CW   R1OA          599 012    599 002    0                                    LP31HG ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 1614 144MHZ     SSB  RT4S          59  013    59  027    0                                 @  LO46MQ ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 2110 144MHZ     CW   RW3TJ         599 014    599 073    0                                 @  LO16MT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  21:09:00  GMT 145 MHz CW RW3TJ 59(9) 73#LO16MB UA4NM 59(9) 14#LO48UP)
+
+  2015-07-04 1402 1.3GHZ     SSB  RA4NCX        59  001    59  001    440                               @  LO49JM
+  2015-07-04 1551 1.3GHZ     CW   R4YM          599 002    599 005    1260                              @  LO36OD

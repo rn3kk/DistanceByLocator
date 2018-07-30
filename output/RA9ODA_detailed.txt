@@ -1,0 +1,66 @@
+Callsign: RA9ODA
+QTH Locator: NO14MX
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      39            1    1         3239
+  435 MHz       6            1    0          370
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               45            2    1         3609
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1408 432MHZ     SSB  R9OBS         59  001    59  001    130                               @  NO14RK
+  2015-07-04 1411 432MHZ     SSB  R9OBA         59  002    59  002    82                                @  NO14MO
+  2015-07-04 1505 432MHZ     SSB  UA9OTC        59  003    59  002    54                                @  NO14MR
+  2015-07-04 1622 432MHZ     SSB  UA9OWA        59  004    59  011    84                                @  NO15IH
+  2015-07-04 1628 432MHZ     SSB  RW9OWM        59  005    59  003    20                                @  NO14KX
+X 2015-07-05 1336 432MHZ     SSB  R9OY          59  006    59  008    0                                 @  NO14LO ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1405 144MHZ     SSB  UA9OLB        59  001    59  003    42                                @  NO15KI
+  2015-07-04 1413 144MHZ     SSB  R9OBS         59  002    59  006    65                                @  NO14RK
+  2015-07-04 1416 144MHZ     SSB  RV9OW         59  003    59  006    18                                @  NO15JB
+  2015-07-04 1417 144MHZ     SSB  RZ9OXA        59  004    59  005    44                                @  NO14PO
+
+  2015-07-04 1418 144MHZ     SSB  RW9UFD        59  005    59  002    85                                @  NO25DG
+X 2015-07-04 1419 144MHZ     SSB  RA9ODK        59  006    59  003    0                                 @  NO25DG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:19:00  GMT 145 MHz SSB RA9ODK 59(9) 2#NO25DG RA9ODA 59(9) 6#NO14MX)
+  2015-07-04 1421 144MHZ     SSB  RA9OAS        59  007    59  009    7                                 @  NO15LA
+  2015-07-04 1423 144MHZ     SSB  UA9OBA        59  008    59  011    10                                @  NO14KX
+  2015-07-04 1425 144MHZ     SSB  R9OBF         59  009    59  006    14                                @  NO15KB
+  2015-07-04 1425 144MHZ     SSB  R9OBA         59  010    59  008    41                                @  NO14MO
+  2015-07-04 1426 144MHZ     SSB  R9OBO         59  011    59  008    11                                   NO14KW
+  2015-07-04 1429 144MHZ     SSB  UA9OWA        59  012    59  004    42                                @  NO15IH
+  2015-07-04 1435 144MHZ     SSB  RW9OWM        59  013    59  004    10                                @  NO14KX
+  2015-07-04 1437 144MHZ     SSB  UA9OTC        59  014    59  009    27                                @  NO14MR
+
+  2015-07-04 1443 144MHZ     SSB  R8OAC         59  015    59  006    18                                @  NO15JB
+  2015-07-04 1451 144MHZ     SSB  R9OBS         59  016    59  012    0  DUP                            @  NO14RK
+  2015-07-04 1456 144MHZ     SSB  R9UG          59  017    59  006    85                                @  NO25DG
+  2015-07-04 1456 144MHZ     SSB  RW9HAY        59  018    59  002    85                                @  NO25DG
+  2015-07-04 1500 144MHZ     SSB  RV9PP         59  019    59  006    10                                @  NO15LB
+  2015-07-04 1507 144MHZ     SSB  RA9OD         59  020    59  008    43                                @  NO15FE
+  2015-07-04 1524 144MHZ     SSB  UA9OGZ        59  021    59  005    10                                @  NO14KX
+  2015-07-04 1551 144MHZ     SSB  UA9OUI        59  022    59  005    14                                   NO15KB
+  2015-07-04 1554 144MHZ     SSB  RA9OEG        59  023    59  005    13                                @  NO14MU
+  2015-07-04 1559 144MHZ     SSB  UB9OCT        59  024    59  008    17                                   NO15KC
+
+  2015-07-04 1603 144MHZ     SSB  UB9OBL        59  025    59  006    10                                @  NO14KX
+  2015-07-04 1614 144MHZ     SSB  R9OY          59  026    59  008    42                                @  NO14LO
+  2015-07-04 1640 144MHZ     SSB  UA9OK         59  027    59  002    59                                @  NO15XC
+  2015-07-05 0057 144MHZ     SSB  UA9ZBK        59  028    59  017    385                               @  NO21XX
+  2015-07-05 0058 144MHZ     SSB  UB8ZAD        59  029    59  017    385                               @  NO21XX
+  2015-07-05 0111 144MHZ     SSB  RA9YI         59  030    59  026    187                               @  NO13VI
+  2015-07-05 0112 144MHZ     SSB  RA9YMI        59  031    59  042    169                               @  NO13VM
+  2015-07-05 0113 144MHZ     SSB  UA9YJM        59  032    59  046    169                               @  NO13VM
+  2015-07-05 0114 144MHZ     SSB  RC9YC         59  033    59  062    203                               @  NO13UE
+  2015-07-05 0115 144MHZ     SSB  RK9YZK        59  034    59  033    228                                  NO23HD
+
+  2015-07-05 0120 144MHZ     SSB  RZ9U/9        59  035    59  016    116                               @  NO24JQ
+  2015-07-05 0152 144MHZ     SSB  RA9YHK        59  036    59  072    272                               @  NO33AG
+  2015-07-05 0153 144MHZ     SSB  UB9YAK        59  037    59  061    272                               @  NO33AG
+  2015-07-05 0242 144MHZ     SSB  RA9OBZ        59  038    59  013    10                                   NO14OX
+  2015-07-05 0934 144MHZ     SSB  R9OK          59  039    59  009    21                                   NO15QA

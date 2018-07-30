@@ -1,0 +1,112 @@
+Callsign: RA3VGV
+QTH Locator: LO06PI
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      61           14    1        13501
+  435 MHz      26            7    0         8864
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               87           21    1        22365
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1400 145MHZ     SSB  RA4YES        59  001    59  001    312                               @  LO35DW
+  2015-07-04 1408 145MHZ     SSB  RU3VV         59  002    59  003    90                                @  LO05IO
+X 2015-07-04 1415 145MHZ     SSB  R2EA          59  003    59  014    0                                 @  KO82IJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:16:00  GMT 145 MHz SSB R2EA 59(9) 14#KO82JI RA3VGV 59(9) 3#LO06PI)
+  2015-07-04 1418 145MHZ     SSB  RX3A          59  004    59  006    217                               @  KO95DI
+  2015-07-04 1422 145MHZ     SSB  RA3ACY        59  005    59  013    301                                  KO84RR
+  2015-07-04 1426 145MHZ     SSB  RA3UAG        59  006    59  008    72                                @  LO06GU
+  2015-07-04 1430 145MHZ     SSB  RA3VHO        59  007    59  002    53                                @  LO16BF
+  2015-07-04 1436 145MHZ     SSB  RA3DEM        59  008    59  019    189                               @  KO96CH
+X 2015-07-04 1440 145MHZ     SSB  RO2E          59  009    59  028    0                                 @  KO82HV ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1445 145MHZ     SSB  UA3DHC        59  010    59  006    0                                 @  KO95AW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:46:00  GMT 145 MHz SSB UA3DHC 59(9) 6#KO95AW UA3VGV 59(9) 10#LO06PI)
+
+  2015-07-04 1452 145MHZ     SSB  RK3D          59  011    59  016    211                               @  KO94MW
+  2015-07-04 1507 145MHZ     SSB  RW3PX         59  012    59  043    409                               @  KO83RJ
+  2015-07-04 1508 145MHZ     SSB  RT2M          59  013    59  039    187                               @  KO97GC
+  2015-07-04 1512 145MHZ     SSB  RW3WR         59  014    59  053    687                               @  KO71IM
+  2015-07-04 1516 145MHZ     SSB  RW3TJ         59  015    59  033    112                               @  LO16MB
+X 2015-07-04 1526 145MHZ     SSB  RW3SK         59  016    59  005    0                                 @  KO94XU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:28:00  GMT 145 MHz SSB RW3SK 59(9) 5#KO94XU UA3VGV 59(9) 16#LO06PI)
+X 2015-07-04 1528 145MHZ     SSB  RN3F          59  017    59  031    0                                 @  KO86RE ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1544 145MHZ     SSB  R3MW          59  018    59  001    138                               @  LO07DL
+  2015-07-04 1600 145MHZ     SSB  UA3XCR        59  019    59  021    496                               @  KO73IW
+  2015-07-04 1605 145MHZ     SSB  RC3P          59  020    59  040    419                               @  KO93CA
+
+  2015-07-04 1606 145MHZ     SSB  RA3TLU        59  021    59  010    193                               @  LO15WJ
+X 2015-07-04 1610 145MHZ     SSB  R4YM          59  022    59  016    0                                 @  LO36OD ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1620 145MHZ     SSB  UF3D          59  023    59  032    228                               @  KO95AJ
+  2015-07-04 1622 145MHZ     SSB  R2DU          59  024    59  027    288                               @  KO84UR
+  2015-07-04 1628 145MHZ     SSB  RW3VM         59  025    59  019    53                                @  LO16BF
+  2015-07-04 1637 145MHZ     SSB  RK9AT/3       59  026    59  041    241                               @  KO86QF
+  2015-07-04 1652 145MHZ     SSB  RN3DKQ        59  027    59  024    221                               @  KO85WS
+X 2015-07-04 1711 145MHZ     SSB  RA4UF         59  028    59  018    0                                 @  LO24WK ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-04 1728 145MHZ     SSB  UA3X          59  029    59  043    323                               @  KO84JW
+  2015-07-04 1750 145MHZ     SSB  UA4FKD        59  030    59  029    330                               @  LO13HL
+
+  2015-07-04 1814 145MHZ     SSB  RM7T/3        59  031    59  088    635                               @  KO90CW
+  2015-07-04 1828 145MHZ     SSB  UA3TJC        59  032    59  019    165                               @  LO16XF
+X 2015-07-04 1831 145MHZ     SSB  RA4PZ         59  033    59  013    0                                 @  LO45MO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-04 1854 145MHZ     SSB  RK3MWC        59  034    59  031    168                               @  LO07BR
+  2015-07-04 1915 145MHZ     SSB  RK5D          59  035    59  039    212                               @  KO86WD
+  2015-07-04 1917 145MHZ     SSB  RL3D          59  036    59  021    217                               @  KO85WV
+  2015-07-04 2000 145MHZ     SSB  R3DE          59  037    59  022    315                                  KO86CT
+  2015-07-04 2000 145MHZ     SSB  RW3DVW        59  038    59  038    291                               @  KO84QW
+  2015-07-04 2002 145MHZ     SSB  RU3DD         59  039    59  016    292                               @  KO84RU
+  2015-07-04 2006 145MHZ     SSB  RK3DHU        59  040    59  019    222                               @  KO86UD
+
+X 2015-07-04 2014 145MHZ     SSB  RV3AQ         59  041    59  045    0                                 @  KO95VN ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:14:00  GMT 145 MHz SSB RV3AQ 59(9) 45#KO95VN RA3VGV 59(9) 41#LO06PX)
+  2015-07-04 2016 145MHZ     SSB  RA3AES        59  042    59  015    210                               @  KO95DL
+  2015-07-04 2034 145MHZ     SSB  R3PG          59  043    59  052    313                               @  KO84UJ
+  2015-07-04 2035 145MHZ     SSB  R3DX          59  044    59  057    281                               @  KO85OG
+  2015-07-04 2048 145MHZ     SSB  R2ADL         59  045    59  041    255                               @  KO85PT
+  2015-07-04 2101 145MHZ     SSB  UA3M          59  046    59  038    173                               @  KO97VQ
+  2015-07-05 0250 145MHZ     SSB  RK3XWO        59  047    59  062    352                               @  KO84DV
+X 2015-07-05 0326 145MHZ     SSB  RT5G          59  048    59  062    0                                 @  KO92PO ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:26:00  GMT 145 MHz SSB RT5G 59(9) 62#KO92PO RA3VAV 59(9) 48#LO06PI)
+  2015-07-05 0327 145MHZ     SSB  RK3R          59  049    59  092    416                               @  LO02NO
+X 2015-07-05 0356 145MHZ     SSB  RW3WP         59  050    59  094    0                                 @  KO91CT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:56:00  GMT 145 MHz SSB RW3WP 59(9) 94#KO91CT RA3VGV 59(9) 50#LO06PO)
+
+  2015-07-05 0357 145MHZ     SSB  R3RW          59  051    59  074    342                               @  LO03NG
+X 2015-07-05 0358 145MHZ     SSB  UA3RSG        59  052    59  042    0                                 @  LO02GV ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0429 145MHZ     SSB  RD3B/3        59  053    59  034    495                               @  LO01NV
+  2015-07-05 0431 145MHZ     SSB  RT4S          59  054    59  044    476                               @  LO46MQ
+  2015-07-05 0450 145MHZ     SSB  RN3F          59  055    59  105    0  DUP                            @  KO86RE
+  2015-07-05 0456 145MHZ     SSB  RC4I          59  056    59  062    660                               @  LO54KA
+  2015-07-05 0500 145MHZ     SSB  RD3BA         59  057    59  084    375                               @  KO75RL
+X 2015-07-05 0503 145MHZ     SSB  UB3DAA        59  058    59  043    0                                 @  KO95DM ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  05:04:00  GMT 145 MHz SSB UB3DDA 59(9) 43#KO95DM RA3VGV 59(9) 58#LO06PI)
+  2015-07-05 0514 145MHZ     SSB  RA1QFY        59  059    59  029    347                               @  KO98BX
+X 2015-07-05 0600 145MHZ     SSB  RG3K          59  060    59  101    0                                 @  KO91HX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  05:59:00  GMT 145 MHz SSB RG3K 59(9) 82#KO91HX RA3VGV 59(9) 60#KO97GC), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  05:59:00  GMT 145 MHz SSB RG3K 59(9) 82#KO91HX RA3VGV 59(9) 60#KO97GC)
+
+  2015-07-05 0658 145MHZ     SSB  RK3DWW/3      59  061    59  073    519                               @  KO82DQ
+  2015-07-04 1402 435MHZ     SSB  RA4YES        59  001    59  001    624                               @  LO35DW
+X 2015-07-04 1419 435MHZ     SSB  RX3A          59  002    59  002    0                                 @  KO95DI ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RX6A(8)), QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1432 435MHZ     SSB  RA3VHO        59  003    59  001    106                               @  LO16BF
+X 2015-07-04 1445 435MHZ     SSB  RO2E          59  004    59  013    0                                 @  KO82HV ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1449 435MHZ     SSB  UA3DHC        59  005    59  003    0                                 @  KO95AW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:49:00  GMT 435 MHz SSB UA3DHC 59(9) 3#KO95AW UA3VGV 59(9) 5#LO06PI)
+  2015-07-04 1509 435MHZ     SSB  RT2M          59  006    59  012    374                               @  KO97GC
+  2015-07-04 1514 435MHZ     SSB  RW3WR         59  007    59  014    1374                              @  KO71IM
+  2015-07-04 1531 435MHZ     SSB  UF3D          59  008    59  026    456                               @  KO95AJ
+X 2015-07-04 1533 435MHZ     SSB  RN3F          59  009    59  003    0                                 @  KO86RE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:33:00  GMT 435 MHz SSB RN3F 59(9) 3#KO86RE RA3VGV 59(9) 3#LO06PI)
+
+  2015-07-04 1536 435MHZ     SSB  RK3D          59  010    59  001    422                               @  KO94MW
+  2015-07-04 1545 435MHZ     SSB  R3MW          59  011    59  001    276                               @  LO07DL
+  2015-07-04 1608 435MHZ     SSB  RA3TLU        59  012    59  004    386                               @  LO15WJ
+  2015-07-04 1629 435MHZ     SSB  RW3VM         59  013    59  004    106                               @  LO16BF
+  2015-07-04 1655 435MHZ     SSB  RN3DKQ        59  014    59  015    442                               @  KO85WS
+  2015-07-04 1700 435MHZ     SSB  UA3XCR        59  015    59  020    992                               @  KO73IW
+X 2015-07-04 1731 435MHZ     SSB  UA3X          59  016    59  017    0                                 @  KO84JW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+X 2015-07-04 1809 435MHZ     SSB  R5DC/3        59  017    59  037    0                                 @  KO83SU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:11:00  GMT 435 MHz SSB R5DC/3 59(9) 31#KO83SU RA3VGV 59(9) 17#LO06PI)
+  2015-07-04 1856 435MHZ     SSB  RK3MWC        59  018    59  014    336                               @  LO07BR
+  2015-07-04 1902 435MHZ     SSB  RW3PX         59  019    59  050    818                               @  KO83RJ
+
+  2015-07-04 1931 435MHZ     SSB  RU3VV         59  020    59  004    180                               @  LO05IO
+  2015-07-04 1946 435MHZ     SSB  RW3TJ         59  021    59  007    224                               @  LO16MB
+  2015-07-04 2005 435MHZ     SSB  RU3DD         59  022    59  022    584                               @  KO84RU
+  2015-07-04 2037 435MHZ     SSB  R3DX          59  023    59  021    562                               @  KO85OG
+  2015-07-04 2100 435MHZ     SSB  RV3AQ         59  024    59  024    256                               @  KO95VN
+  2015-07-04 2103 435MHZ     SSB  UA3M          59  025    59  021    346                               @  KO97VQ
+X 2015-07-05 0704 435MHZ     SSB  RK3DWW/3      59  026    59  077    0                                 @  KO82DQ ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

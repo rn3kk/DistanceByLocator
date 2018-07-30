@@ -1,0 +1,40 @@
+Callsign: RX6DX
+QTH Locator: KN95MB
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      15            2    1         1239
+  435 MHz       6            0    0          992
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               21            2    1         2231
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1616 430MHZ     SSB  R6BU          59  001    59  010    234                               @  KN94XF
+  2015-07-04 1617 430MHZ     SSB  R7AB          59  002    59  027    242                               @  KN94WD
+  2015-07-04 1628 430MHZ     SSB  RX6APY        59  003    59  012    114                               @  KN94GQ
+  2015-07-04 1630 430MHZ     SSB  R7AM          59  004    59  006    8                                 @  KN95MA
+  2015-07-04 1720 430MHZ     SSB  R7BR          59  005    59  017    298                               @  LN05KK
+  2015-07-04 1821 430MHZ     SSB  RA6C          59  006    59  016    96                                @  KN94GT
+  2015-07-04 1456 145MHZ     SSB  R7AM          59  001    59  010    4                                 @  KN95MA
+  2015-07-04 1459 145MHZ     SSB  RC7A          59  002    59  003    57                                @  KN94EU
+  2015-07-04 1502 145MHZ     SSB  RA6C          59  003    59  010    48                                @  KN94GT
+  2015-07-04 1503 145MHZ     SSB  UA6BI         59  004    59  009    78                                @  KN94DO
+
+  2015-07-04 1505 145MHZ     SSB  RA6HVB        59  005    59  012    250                               @  LN14CU
+  2015-07-04 1507 145MHZ     SSB  RT7G          59  006    59  001    222                               @  LN05WB
+  2015-07-04 1512 145MHZ     SSB  RX6DI         59  007    59  005    135                               @  LN06BA
+  2015-07-04 1513 145MHZ     SSB  R7AB          59  008    59  033    121                               @  KN94WD
+  2015-07-04 1516 145MHZ     SSB  R6/UR4MUK     59  009    59  001    1                                    KN95MB
+  2015-07-04 1520 145MHZ     SSB  R6DG          59  010    59  005    177                               @  KN85JF
+  2015-07-04 1609 145MHZ     SSB  R6/UR4MUK     59  011    59  007    0  DUP                               KN95MB
+  2015-07-04 1628 145MHZ     SSB  RX6APY        59  012    59  018    57                                @  KN94GQ
+X 2015-07-04 1631 145MHZ     SSB  RN6BD         59  013    59  015    0                                    KN94ET ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RN6BP(16))
+X 2015-07-04 1710 145MHZ     SSB  UA4CGX        59  014    59  005    0                                 @  KN85JF ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  17:10:00  GMT 145 MHz SSB UA6CGX 59(9) 5#KN85JF RX6DX 59(9) 14#KN95MB)
+
+  2015-07-04 1713 145MHZ     SSB  RK6YYY        59  015    59  036    89                                @  LN04AQ

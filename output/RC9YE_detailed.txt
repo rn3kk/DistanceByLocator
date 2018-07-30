@@ -1,0 +1,22 @@
+Callsign: RC9YE
+QTH Locator: MO93KJ
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       3            0    0          116
+  435 MHz       2            0    0          116
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            0    0          232
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1444 432MHZ     SSB  RA9YTI        59  001    59  003    28                                @  MO93LG
+  2015-07-04 1446 432MHZ     SSB  UA9YII        59  002    59  003    88                                   MO93HA
+  2015-07-04 1435 144MHZ     SSB  UA9YII        59  001    59  002    44                                   MO93HA
+  2015-07-04 1449 144MHZ     SSB  RA9YTI        59  002    59  003    14                                @  MO93LG
+  2015-07-04 1459 144MHZ     SSB  RK9Y          59  003    59  021    58                                @  MO93AF

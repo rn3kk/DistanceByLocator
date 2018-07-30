@@ -1,0 +1,41 @@
+Callsign: UT2QA
+QTH Locator: KN86KS
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      17            2    0            0
+  435 MHz       5            2    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               22            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-05 0242 432MHZ     SSB  UX0QQ         59  001    59  041    0                                 @  KN87HH ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0400 432MHZ     SSB  UT5VD         59  002    59  020    0                                 @  KN68MT
+X 2015-07-05 0405 432MHZ     SSB  UW1G          59  003    59  062    0                                 @  KN67UA ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0408 432MHZ     SSB  UR3QU         59  004    59  004    0                                 @  KN86JS
+  2015-07-05 1103 432MHZ     SSB  UT8AL         59  005    59  025    0                                 @  KO61WP
+  2015-07-05 0222 144MHZ     SSB  RK6MF         59  001    59  030    0                                 @  KN97RC
+  2015-07-05 0224 144MHZ     SSB  R7NP          59  002    59  021    0                                 @  LN17CM
+  2015-07-05 0225 144MHZ     SSB  R7KR          59  003    59  067    0                                 @  KN85FI
+  2015-07-05 0226 144MHZ     SSB  UA6LNS        59  004    59  052    0                                 @  LN07KM
+X 2015-07-05 0226 144MHZ     SSB  RA6LGV        59  005    59  042    0                                 @  KN97TG ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+
+  2015-07-05 0227 144MHZ     SSB  UA7KN         59  006    59  093    0                                 @  KN85BK
+X 2015-07-05 0228 144MHZ     SSB  UR4QXS/P      59  007    59  081    0                                 @  KN77SG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  02:29:00  GMT 145 MHz SSB UR4QXS/P 59(9) 81#KN77SE UT2QA 59(9) 7#KN86KS)
+  2015-07-05 0229 144MHZ     SSB  UX0QQ         59  008    59  087    0                                 @  KN87HH
+  2015-07-05 0229 144MHZ     SSB  R6DZ          59  009    59  137    0                                 @  KN96CQ
+  2015-07-05 0230 144MHZ     SSB  RU6K          59  010    59  059    0                                 @  KN74DT
+  2015-07-05 0234 144MHZ     SSB  UR3QU         59  011    59  001    0                                 @  KN86JS
+  2015-07-05 0358 144MHZ     SSB  UT5VD         59  012    59  051    0                                 @  KN68MT
+  2015-07-05 0413 144MHZ     SSB  UY5QO         59  013    59  035    0                                 @  KN77MT
+  2015-07-05 0414 144MHZ     SSB  UT2QQ         59  014    59  061    0                                 @  KN77SI
+  2015-07-05 0416 144MHZ     SSB  UT7EL         59  015    59  106    0                                 @  KN77EN
+
+  2015-07-05 0417 144MHZ     SSB  UR4QZM        59  016    59  042    0                                 @  KN77UG
+  2015-07-05 0418 144MHZ     SSB  UR6GWH/P      59  017    59  023    0                                 @  KN76JD

@@ -1,0 +1,39 @@
+Callsign: UV5ENJ
+QTH Locator: KN67QV
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      20            1    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               20            1    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0837 144MHZ     SSB  UV5EIF        59  001    59  044    0                                 @  KN67RV
+  2015-07-05 0839 144MHZ     SSB  UT5ETV        59  002    59  046    0                                 @  KN67NX
+  2015-07-05 0841 144MHZ     SSB  UR5EE         59  003    59  035    0                                 @  KN67TR
+X 2015-07-05 0841 144MHZ     SSB  UY5SI         59  004    59  027    0                                 @  KN67QW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  08:41:00  GMT 145 MHz SSB UY5SI 59(9) 26#KN67QW UV5ENJ 59(9) 4#KN67QV)
+  2015-07-05 0842 144MHZ     SSB  UT1E          59  005    59  086    0                                 @  KN67RW
+  2015-07-05 0842 144MHZ     SSB  UV5EVB        59  006    59  014    0                                 @  KN67QV
+  2015-07-05 0846 144MHZ     SSB  US5EGP        59  007    59  034    0                                 @  KN67RX
+  2015-07-05 0847 144MHZ     SSB  UT5EEN        59  008    59  036    0                                 @  KN67RV
+  2015-07-05 0850 144MHZ     SSB  UT0EK         59  009    59  089    0                                 @  KN67RW
+  2015-07-05 0853 144MHZ     SSB  UT2EC         59  010    59  075    0                                 @  KN67RW
+
+  2015-07-05 0855 144MHZ     SSB  UR5EDK        59  011    59  027    0                                 @  KN67OV
+  2015-07-05 0900 144MHZ     SSB  UT0EZ         59  012    59  075    0                                 @  KN67SU
+  2015-07-05 0905 144MHZ     SSB  UT1EE         59  013    59  052    0                                 @  KN67PW
+  2015-07-05 0905 144MHZ     SSB  UT5EPP        59  014    59  030    0                                 @  KN67QV
+  2015-07-05 0907 144MHZ     SSB  UV5EEE        59  015    59  031    0                                 @  KN67PV
+  2015-07-05 0909 144MHZ     SSB  US5EGZ        59  016    59  022    0                                 @  KN68PB
+  2015-07-05 0912 144MHZ     SSB  UT2EO         59  017    59  031    0                                 @  KN67OX
+  2015-07-05 0926 144MHZ     SSB  UR5EPM        59  018    59  019    0                                 @  KN68PA
+  2015-07-05 0934 144MHZ     SSB  UV5ELH        59  019    59  040    0                                 @  KN67QV
+  2015-07-05 0943 144MHZ     SSB  UV5ETP        59  020    59  021    0                                    KN67RV
+

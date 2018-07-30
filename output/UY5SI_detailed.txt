@@ -1,0 +1,46 @@
+Callsign: UY5SI
+QTH Locator: KN67QW
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      27            3    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               27            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1549 144MHZ     SSB  UV5ELH        59  001    59  023    0                                 @  KN67QV
+  2015-07-04 1550 144MHZ     SSB  UW5EFF        59  002    59  018    0                                    KN68TD
+  2015-07-04 1551 144MHZ     SSB  UT5ETV        59  003    59  019    0                                 @  KN67NX
+  2015-07-04 1552 144MHZ     SSB  UT2EC         59  004    59  020    0                                 @  KN67RW
+  2015-07-04 1554 144MHZ     SSB  UR1E/P        59  005    59  046    0                                 @  KN68OA
+  2015-07-04 1556 144MHZ     SSB  UV7E          59  006    59  031    0                                 @  KN67XR
+  2015-07-04 1558 144MHZ     SSB  UT5EPP        59  007    59  016    0                                 @  KN67QV
+  2015-07-04 1600 144MHZ     SSB  US5EGP        59  008    59  016    0                                 @  KN67RX
+  2015-07-04 1602 144MHZ     SSB  UV5EIF        59  009    59  008    0                                 @  KN67RV
+  2015-07-04 1626 144MHZ     SSB  UT0EK         59  010    59  043    0                                 @  KN67RW
+
+  2015-07-04 1645 144MHZ     SSB  UR5EDK        59  011    59  014    0                                 @  KN67OV
+  2015-07-04 1648 144MHZ     SSB  UT1EE         59  012    59  021    0                                 @  KN67PW
+  2015-07-04 1807 144MHZ     SSB  UT0EZ         59  013    59  040    0                                 @  KN67SU
+  2015-07-04 1815 144MHZ     SSB  UV5EEE        59  014    59  012    0                                 @  KN67PV
+  2015-07-04 1821 144MHZ     SSB  UV5ETP        59  015    59  015    0                                    KN67RV
+  2015-07-04 1851 144MHZ     SSB  UT2EM         59  016    59  008    0                                 @  KN67QV
+  2015-07-04 1901 144MHZ     SSB  UV5EVB        59  017    59  004    0                                 @  KN67QV
+  2015-07-04 1908 144MHZ     SSB  UT7EL         59  018    59  063    0                                 @  KN77EN
+  2015-07-04 1912 144MHZ     SSB  UR5EPM        59  019    59  010    0                                 @  KN68PA
+  2015-07-04 1921 144MHZ     SSB  UW1G          59  020    59  073    0                                 @  KN67UA
+
+  2015-07-04 2018 144MHZ     SSB  UT1E          59  021    59  055    0                                 @  KN67RW
+  2015-07-05 0446 144MHZ     SSB  UR7QDO        59  022    59  039    0                                 @  KN77EL
+  2015-07-05 0507 144MHZ     SSB  US7VF         59  023    59  099    0                                 @  KN58SI
+  2015-07-05 0529 144MHZ     SSB  UT5EEN        59  024    59  031    0                                 @  KN67RV
+X 2015-07-05 0648 144MHZ     SSB  UT2EO         59  025    59  023    0                                 @  KN67OX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  06:47:00  GMT 145 MHz SSB UT2EO 59(9) 23#KN67OX UY5SI 59(9) 26#KN67QW)
+X 2015-07-05 0841 144MHZ     SSB  UV5ENJ        59  026    59  004    0                                 @  KN67QV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  08:41:00  GMT 145 MHz SSB UV5ENJ 59(9) 4#KN67QV UY5SI 59(9) 27#KN67QW)
+X 2015-07-05 1034 144MHZ     SSB  UR3GS         59  027    59  056    0                                 @  KN66QR ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND

@@ -1,0 +1,36 @@
+Callsign: RA9DA
+QTH Locator: MO17MP
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      18            1    0         5887
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               18            1    0         5887
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1400 144MHZ     SSB  UA9CFH        59  001    59  001    95                                @  MO07RS
+  2015-07-04 1414 144MHZ     SSB  UA9QDX        59  002    59  001    277                               @  MO25PL
+  2015-07-04 1445 144MHZ     SSB  RM9CM         59  003    59  008    115                               @  MO07NL
+  2015-07-04 1501 144MHZ     SSB  UA9FY         59  004    59  015    319                               @  LO88WN
+  2015-07-04 1513 144MHZ     SSB  RA9CCK        59  005    59  001    151                               @  MO06WK
+  2015-07-04 1516 144MHZ     SSB  R8ACC         59  006    59  013    318                               @  MO04QW
+  2015-07-04 1525 144MHZ     SSB  RZ9AWJ        59  007    59  017    342                               @  MO14MN
+  2015-07-04 1746 144MHZ     SSB  RT9L          59  008    59  007    154                               @  MO27RD
+  2015-07-04 1747 144MHZ     SSB  RA9LR         59  009    59  004    166                               @  MO27TC
+  2015-07-04 1903 144MHZ     SSB  UA9FE         59  010    59  032    408                               @  LO87CJ
+
+  2015-07-04 1938 144MHZ     SSB  RV9CVA        59  011    59  026    129                               @  MO06ST
+  2015-07-04 2017 144MHZ     SSB  R9CCC         59  012    59  030    350                               @  LO86QV
+  2015-07-04 2024 144MHZ     SSB  RK9AY         59  013    59  040    438                               @  MO03FX
+X 2015-07-04 2115 144MHZ     CW   UN1WE         599 014    599 030    0                                 @  MO03UR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  21:13:00  GMT 145 MHz CW UN1WE 59(9) 39#MO03UR RA9DA 59(9) 14#MO17MP)
+  2015-07-04 2139 144MHZ     CW   UN1WF         599 015    599 037    444                               @  MO03TR
+  2015-07-04 2216 144MHZ     SSB  RA4NCX        59  016    59  022    849                               @  LO49JM
+  2015-07-04 2228 144MHZ     CW   R4YM          599 017    599 040    972                               @  LO36OD
+  2015-07-05 0559 144MHZ     SSB  RM8A          59  018    59  066    360                               @  MO04CT

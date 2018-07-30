@@ -1,0 +1,30 @@
+Callsign: UR5ZJE
+QTH Locator: KN56XW
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      10            2    0            0
+  435 MHz       2            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0638 435MHZ     SSB  UR5ZEE        59  001    59  002    0                                 @  KN56XX
+  2015-07-05 1057 435MHZ     SSB  UR4ZWL/P      59  002    59  007    0                                 @  KN57UF
+  2015-07-04 1502 145MHZ     SSB  UR4ZWL/P      59  001    59  005    0                                 @  KN57UF
+  2015-07-04 1505 145MHZ     SSB  UR5ZEE        59  002    59  002    0                                 @  KN56XX
+  2015-07-04 1850 145MHZ     SSB  US7VF         59  003    59  060    0                                 @  KN58SI
+  2015-07-04 1854 145MHZ     SSB  UR1E/P        59  004    59  067    0                                 @  KN68OA
+  2015-07-04 2036 145MHZ     SSB  UV7E          59  005    59  070    0                                 @  KN67XR
+  2015-07-04 2037 145MHZ     SSB  UR3GS         59  006    59  036    0                                 @  KN66QR
+  2015-07-05 0137 145MHZ     SSB  UT5EEN        59  007    59  019    0                                 @  KN67RV
+X 2015-07-05 0148 145MHZ     SSB  UV5ELH        59  008    59  036    0                                 @  KN67QV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+
+X 2015-07-05 0629 145MHZ     SSB  UR7GY         59  009    59  046    0                                 @  KN66LC ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  06:29:00  GMT 145 MHz SSB US7GY 59(9) 46#KN66LC UR5ZJE 59(9) 9#KN56XW)
+  2015-07-05 1246 145MHZ     SSB  UT0EZ         59  010    59  078    0                                 @  KN67SU

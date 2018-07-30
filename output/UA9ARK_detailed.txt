@@ -1,0 +1,101 @@
+Callsign: UA9ARK
+QTH Locator: LO95JG
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      45            2    0        12995
+  435 MHz      24            4    0         8160
+  1.3 GHz       8            0    0         5852
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               77            6    0        27007
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1428 432MHZ     CW   RA9BZ         599 001    599 001    262                               @  MO05KG
+  2015-07-04 1455 432MHZ     SSB  RZ9WWB        59  002    59  002    346                               @  LO84FL
+  2015-07-04 1510 432MHZ     SSB  RM8A          59  003    59  007    206                               @  MO04CT
+  2015-07-04 1541 432MHZ     SSB  R8AZ          59  004    59  010    74                                @  LO94KW
+  2015-07-04 1612 432MHZ     SSB  RC8CA         59  005    59  003    202                               @  LO96JE
+X 2015-07-04 1635 432MHZ     CW   UN1WE         599 006    599 001    0                                 @  MO03UR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  16:34:00  GMT 435 MHz CW UN1WE 59(9) 12#MO03UR UA9ARK 59(9) 6#LO95JG)
+X 2015-07-04 1729 432MHZ     CW   UA9WTF        599 007    599 005    0                                 @  LO74XS ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:29:00  GMT 435 MHz CW UA9WTF 59(9) 5#LO74XS UA9ARK 59(9) 8#LO95JG)
+  2015-07-04 1809 432MHZ     SSB  RZ9AWJ        59  008    59  019    564                               @  MO14MN
+  2015-07-04 1830 432MHZ     SSB  RM9CM         59  009    59  019    568                               @  MO07NL
+  2015-07-04 1837 432MHZ     SSB  R8ACC         59  010    59  015    336                               @  MO04QW
+
+  2015-07-04 1914 432MHZ     SSB  RZ9A          59  011    59  014    314                               @  LO94XA
+  2015-07-04 1915 432MHZ     SSB  RZ9AYA        59  012    59  020    260                               @  LO94QD
+  2015-07-04 1932 432MHZ     SSB  RC4Q          59  013    59  007    770                               @  LO65IQ
+  2015-07-04 2013 432MHZ     SSB  RA9CGR        59  014    59  002    346                               @  LO86VR
+  2015-07-04 2023 432MHZ     CW   UN1WF         599 015    599 027    500                               @  MO03TR
+  2015-07-04 2100 432MHZ     SSB  RW9FWR        59  016    59  018    804                               @  LO98JV
+X 2015-07-05 0221 432MHZ     CW   UA9FE         599 017    599 020    0                                 @  LO87CJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-05 0256 432MHZ     SSB  RA8AA         59  018    59  031    364                               @  MO05TA
+  2015-07-05 0342 432MHZ     SSB  UA9ACA        59  019    59  036    240                               @  LO94VI
+X 2015-07-05 0353 432MHZ     CW   RA4W          599 020    599 026    0                                 @  LO66PX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:54:00  GMT 435 MHz CW RA4W 59(9) 26#LO66PX UA9ARK 59(9) 20#LO85JG)
+
+  2015-07-05 0403 432MHZ     SSB  UN1WB         59  021    59  028    516                               @  MO03VR
+  2015-07-05 0420 432MHZ     SSB  R9CCC         59  022    59  014    400                               @  LO86QV
+  2015-07-05 0425 432MHZ     SSB  RX9AKK        59  023    59  015    326                               @  MO05QE
+  2015-07-05 0506 432MHZ     SSB  R9FAO         59  024    59  013    762                               @  LO78WH
+  2015-07-04 1406 144MHZ     SSB  RZ9WU/P       59  001    59  002    294                               @  LO74GG
+  2015-07-04 1409 144MHZ     SSB  R8AZ          59  002    59  002    37                                @  LO94KW
+  2015-07-04 1412 144MHZ     SSB  RZ9A          59  003    59  002    157                               @  LO94XA
+  2015-07-04 1453 144MHZ     SSB  RZ9WWB        59  004    59  003    173                               @  LO84FL
+  2015-07-04 1503 144MHZ     CW   UA9CFH        599 005    599 012    322                               @  MO07RS
+  2015-07-04 1515 144MHZ     SSB  RM8A          59  006    59  011    103                               @  MO04CT
+
+  2015-07-04 1529 144MHZ     CW   UA4WFN        599 007    599 010    430                               @  LO66CK
+  2015-07-04 1610 144MHZ     SSB  RC8CA         59  008    59  005    101                               @  LO96JE
+  2015-07-04 1629 144MHZ     CW   UN1WE         599 009    599 020    254                               @  MO03UR
+  2015-07-04 1721 144MHZ     CW   RA4W          599 010    599 013    389                               @  LO66PX
+  2015-07-04 1724 144MHZ     CW   UA9WTF        599 011    599 005    188                               @  LO74XS
+  2015-07-04 1749 144MHZ     SSB  RA9AJW        59  012    59  022    159                               @  MO05PD
+  2015-07-04 1750 144MHZ     SSB  UB8ASV        59  013    59  022    184                               @  MO05UI
+  2015-07-04 1806 144MHZ     SSB  RZ9AWJ        59  014    59  033    282                               @  MO14MN
+  2015-07-04 1820 144MHZ     CW   RC4Q          599 015    599 025    385                               @  LO65IQ
+  2015-07-04 1825 144MHZ     SSB  RV9AJ         59  016    59  016    142                               @  MO04GL
+
+  2015-07-04 1828 144MHZ     SSB  RM9CM         59  017    59  028    284                               @  MO07NL
+  2015-07-04 1836 144MHZ     SSB  R8ACC         59  018    59  032    168                               @  MO04QW
+  2015-07-04 1858 144MHZ     SSB  UA9FE         59  019    59  031    284                               @  LO87CJ
+  2015-07-04 1919 144MHZ     SSB  RZ9AYA        59  020    59  033    130                               @  LO94QD
+  2015-07-04 1939 144MHZ     SSB  UA9FY         59  021    59  039    369                               @  LO88WN
+  2015-07-04 1947 144MHZ     SSB  RK8T          59  022    59  021    385                               @  LO91PT
+  2015-07-04 1953 144MHZ     SSB  RU9FT         59  023    59  029    405                               @  LO88SU
+X 2015-07-04 2010 144MHZ     SSB  RW4WE         59  024    59  033    0                                 @  LO66PU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:10:00  GMT 145 MHz SSB RW4WE 59(9) 33#LO66PU UA9ARK 59(9) 25#LO95JG)
+  2015-07-04 2020 144MHZ     CW   UN1WF         599 025    599 033    250                               @  MO03TR
+  2015-07-04 2057 144MHZ     SSB  RW9FWR        59  026    59  037    402                               @  LO98JV
+
+  2015-07-04 2132 144MHZ     SSB  UA9FPG        59  027    59  019    422                               @  LO89TA
+  2015-07-04 2152 144MHZ     CW   R9BA          599 028    599 014    148                                  MO05LN ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+X 2015-07-04 2154 144MHZ     SSB  RA9BZ         59  029    59  038    0                                 @  MO05KG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-04 2209 144MHZ     CW   UA3M          599 030    599 046    1192                              @  KO97VQ
+  2015-07-04 2226 144MHZ     CW   RA4SD         599 031    599 022    695                               @  LO36WP
+  2015-07-04 2234 144MHZ     CW   UA9QDX        599 032    599 021    410                               @  MO25PL
+  2015-07-05 0133 144MHZ     CW   RK9AY         599 033    599 057    179                               @  MO03FX
+  2015-07-05 0158 144MHZ     SSB  RA9SOA        59  034    59  024    467                               @  LO72DA
+  2015-07-05 0202 144MHZ     SSB  UA9FAI        59  035    59  046    320                               @  LO88VC
+  2015-07-05 0254 144MHZ     SSB  RA8AA         59  036    59  049    182                               @  MO05TA
+
+  2015-07-05 0302 144MHZ     SSB  UA4PKA        59  037    59  047    405                               @  LO64GO
+  2015-07-05 0312 144MHZ     CW   UA4HQI        599 038    599 017    591                               @  LO53CK
+  2015-07-05 0343 144MHZ     SSB  UA9ACA        59  039    59  049    120                               @  LO94VI
+  2015-07-05 0401 144MHZ     SSB  UN1WB         59  040    59  035    258                               @  MO03VR
+  2015-07-05 0405 144MHZ     SSB  RA9AHE        59  041    59  024    272                               @  MO03HB
+  2015-07-05 0413 144MHZ     SSB  R9FAO         59  042    59  027    381                               @  LO78WH
+  2015-07-05 0416 144MHZ     SSB  R9CCC         59  043    59  041    200                               @  LO86QV
+  2015-07-05 0418 144MHZ     SSB  RA9FAM        59  044    59  018    313                                  LO87DR
+  2015-07-05 0424 144MHZ     SSB  RX9AKK        59  045    59  022    163                               @  MO05QE
+  2015-07-04 1600 1.3GHZ     SSB  R8AZ          59  001    59  003    148                               @  LO94KW
+
+  2015-07-04 1844 1.3GHZ     SSB  R8ACC         59  002    59  002    672                               @  MO04QW
+  2015-07-04 1917 1.3GHZ     SSB  RZ9AYA        59  003    59  007    520                               @  LO94QD
+  2015-07-04 2028 1.3GHZ     CW   UN1WF         599 004    599 005    1000                              @  MO03TR
+  2015-07-05 0326 1.3GHZ     CW   RZ9WWB        599 005    599 001    692                               @  LO84FL
+  2015-07-05 0421 1.3GHZ     SSB  R9CCC         59  006    59  003    800                               @  LO86QV
+  2015-07-05 0447 1.3GHZ     SSB  RW9FWR        59  007    59  008    1608                              @  LO98JV
+  2015-07-05 0515 1.3GHZ     CW   RM8A          599 008    599 006    412                               @  MO04CT

@@ -1,0 +1,469 @@
+Callsign: S56K
+QTH Locator: JN76KI
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz     411           42    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+              411           42    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1400 144MHZ     SSB  YU7ACO        59  001    59  001    0                                    JN93TP
+  2015-07-04 1401 144MHZ     SSB  YT7AT         59  002    59  002    0                                    KN04LW
+  2015-07-04 1402 144MHZ     SSB  HG1W          59  003    59  005    0                                    JN87GF
+  2015-07-04 1404 144MHZ     SSB  S51GF         59  004    59  003    0                                 @  JN75AV
+  2015-07-04 1406 144MHZ     SSB  S53V          59  005    59  007    0                                 @  JN76UH
+  2015-07-04 1408 144MHZ     SSB  S59DDR        59  006    59  002    0                                    JN86AI
+  2015-07-04 1408 144MHZ     SSB  9A1CRS        59  007    59  007    0                                 @  JN95AG
+  2015-07-04 1409 144MHZ     SSB  9A2YF         59  008    59  007    0                                 @  JN85OO
+  2015-07-04 1409 144MHZ     SSB  YU1LA         59  009    59  006    0                                    KN04FR
+  2015-07-04 1410 144MHZ     SSB  OK1RIG        59  010    59  006    0                                    JN89BF
+
+  2015-07-04 1410 144MHZ     SSB  S53LL         59  011    59  004    0                                    JN65XX
+  2015-07-04 1411 144MHZ     SSB  IK6EIW        59  012    59  007    0                                    JN63RJ
+  2015-07-04 1412 144MHZ     SSB  OM3RLA        59  013    59  003    0                                 @  JN98LB
+  2015-07-04 1413 144MHZ     SSB  S51XT         59  014    59  004    0                                    JN76NI
+  2015-07-04 1413 144MHZ     SSB  S57LM         59  015    59  004    0                                 @  JN76HD
+  2015-07-04 1415 144MHZ     SSB  9A4VM         59  016    59  015    0                                 @  JN85FS
+  2015-07-04 1416 144MHZ     SSB  S56AX         59  017    59  005    0                                    JN76NK
+  2015-07-04 1417 144MHZ     SSB  SP9UOP        59  018    59  008    0                                    JO90BC
+  2015-07-04 1418 144MHZ     SSB  OE6DRG/P      59  019    59  007    0                                    JN77EG
+  2015-07-04 1420 144MHZ     SSB  YU7GL         59  020    59  013    0                                    JN95TT
+
+  2015-07-04 1421 144MHZ     SSB  YU1VG         59  021    59  014    0                                    KN03KU
+  2015-07-04 1422 144MHZ     SSB  YU1ES         59  022    59  010    0                                    KN04GG
+  2015-07-04 1423 144MHZ     SSB  YU1AEE        59  023    59  013    0                                 @  KN03UN
+  2015-07-04 1425 144MHZ     SSB  YO9KPJ/P      59  024    59  011    0                                 @  KN25QD
+  2015-07-04 1426 144MHZ     SSB  HA5OO         59  025    59  017    0                                 @  JN97OM
+  2015-07-04 1426 144MHZ     SSB  S52DR         59  026    59  003    0                                 @  JN76WH
+  2015-07-04 1427 144MHZ     SSB  9A1GIJ        59  027    59  009    0                                 @  JN85KV
+  2015-07-04 1428 144MHZ     SSB  9A5AB         59  028    59  010    0                                 @  JN75VV
+  2015-07-04 1429 144MHZ     SSB  E77CV         59  029    59  012    0                                 @  JN83PX
+  2015-07-04 1429 144MHZ     SSB  9A8D          59  030    59  013    0                                 @  JN95LM
+
+  2015-07-04 1430 144MHZ     SSB  9A0C          59  031    59  012    0                                 @  JN85AO
+  2015-07-04 1431 144MHZ     SSB  HG6Z          59  032    59  023    0                                 @  JN97WV
+  2015-07-04 1432 144MHZ     SSB  9A5G          59  033    59  004    0                                 @  JN75GK
+  2015-07-04 1433 144MHZ     SSB  S57M          59  034    59  033    0                                 @  JN76PO
+  2015-07-04 1433 144MHZ     SSB  S51WC         59  035    59  013    0                                 @  JN75OT
+  2015-07-04 1434 144MHZ     SSB  HA3JO/P       59  036    59  012    0                                    JN86GO
+  2015-07-04 1435 144MHZ     SSB  HA3GO/P       59  037    59  013    0                                 @  JN86SR
+  2015-07-04 1437 144MHZ     SSB  OM8AND        59  038    59  006    0                                 @  KN08OR
+  2015-07-04 1439 144MHZ     SSB  YO5KAI/P      59  039    59  015    0                                 @  KN16JS
+  2015-07-04 1439 144MHZ     SSB  S57E          59  040    59  007    0                                 @  JN75PP
+
+  2015-07-04 1440 144MHZ     SSB  YO2KQD/P      59  041    59  018    0                                 @  KN16II
+  2015-07-04 1441 144MHZ     SSB  OE6PPF        59  042    59  004    0                                    JN77IF
+  2015-07-04 1443 144MHZ     SSB  YO6OBK        59  043    59  007    0                                    KN26TR
+X 2015-07-04 1444 144MHZ     SSB  OE5RTP        59  044    59  010    0                                    JN76QW ERROR(S): QSO_ERROR_WRONG_CALLSIGN_AGAINST_CALLSIGN_DATABASE(OE5RTP/P)
+X 2015-07-04 1445 144MHZ     SSB  S59MK         59  045    59  001    0                                    JN76MJ ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1447 144MHZ     SSB  HG7G          59  046    59  018    0                                 @  JN97LF
+  2015-07-04 1448 144MHZ     SSB  YU1EO         59  047    59  008    0                                    KN04FR
+  2015-07-04 1449 144MHZ     SSB  YO5DND        59  048    59  011    0                                 @  KN17UR
+  2015-07-04 1450 144MHZ     SSB  OE6KME/P      59  049    59  019    0                                    JN76UV
+  2015-07-04 1450 144MHZ     SSB  HA5KAW        59  050    59  015    0                                 @  JN97HG
+
+  2015-07-04 1452 144MHZ     SSB  9A1DL         59  051    59  018    0                                 @  JN85WF
+  2015-07-04 1454 144MHZ     SSB  OM4J          59  052    59  021    0                                 @  JN88WU
+  2015-07-04 1455 144MHZ     SSB  OK2KYK        59  053    59  023    0                                 @  JN89NB
+  2015-07-04 1457 144MHZ     SSB  S58T          59  054    59  003    0                                    JN76GC
+  2015-07-04 1458 144MHZ     SSB  S59P          59  055    59  082    0                                 @  JN86AO
+  2015-07-04 1458 144MHZ     SSB  S50J          59  056    59  015    0                                 @  JN65VO
+X 2015-07-04 1503 144MHZ     SSB  YO6XK/P       59  057    59  003    0                                 @  KN15XP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-04  15:03:00  GMT 145 MHz SSB YO6XK 59(9) 6#KN15XP S56K 59(9) 57#JN76KI), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:03:00  GMT 145 MHz SSB YO6XK 59(9) 6#KN15XP S56K 59(9) 57#JN76KI)
+  2015-07-04 1504 144MHZ     SSB  YO2AMU        59  058    59  012    0                                 @  KN06PE
+  2015-07-04 1504 144MHZ     SSB  9A9D          59  059    59  027    0                                 @  JN85OV
+  2015-07-04 1506 144MHZ     SSB  9A/S56RJI     59  060    59  010    0                                 @  JN85RV
+
+  2015-07-04 1509 144MHZ     SSB  9A1N          59  061    59  050    0                                 @  JN85LI
+X 2015-07-04 1511 144MHZ     SSB  9A/S57GM      59  062    59  008    0                                 @  JN76GE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:11:00  GMT 145 MHz SSB 9A/S57GM 59(9) 8#JN75GE S56K 59(9) 62#JN76KI)
+  2015-07-04 1513 144MHZ     SSB  OK1OHK        59  063    59  027    0                                 @  JO80EG
+  2015-07-04 1514 144MHZ     SSB  OK5T          59  064    59  043    0                                 @  JO70BK
+  2015-07-04 1516 144MHZ     SSB  9A1KDE        59  065    59  037    0                                 @  JN95FQ
+  2015-07-04 1519 144MHZ     SSB  S57PZ         59  066    59  006    0                                    JN76AD
+  2015-07-04 1520 144MHZ     SSB  S52LY         59  067    59  011    0                                 @  JN76AA
+  2015-07-04 1521 144MHZ     SSB  S58AZT        59  068    59  005    0                                 @  JN76PA
+  2015-07-04 1529 144MHZ     SSB  9A9J          59  069    59  011    0                                 @  JN85XD
+  2015-07-04 1532 144MHZ     SSB  9A1CBM        59  070    59  012    0                                 @  JN83EN
+
+  2015-07-04 1534 144MHZ     SSB  OM6NM         59  071    59  023    0                                    JN88OD
+  2015-07-04 1537 144MHZ     SSB  OL7Z          59  072    59  042    0                                 @  JN99BK
+  2015-07-04 1538 144MHZ     SSB  OK2BSP        59  073    59  042    0                                 @  JN99AK
+  2015-07-04 1539 144MHZ     SSB  OL1B          59  074    59  075    0                                 @  JO80IB
+  2015-07-04 1541 144MHZ     SSB  I5MZY/4       59  075    59  045    0                                    JN54OL
+  2015-07-04 1543 144MHZ     SSB  IK3MLF        59  076    59  020    0                                    JN65KO
+  2015-07-04 1547 144MHZ     SSB  I3LGP         59  077    59  033    0                                    JN55VK
+  2015-07-04 1548 144MHZ     SSB  OL7G          59  078    59  048    0                                 @  JN78DR
+  2015-07-04 1552 144MHZ     SSB  DK0IL/P       59  079    59  011    0                                 @  JN57FR
+  2015-07-04 1555 144MHZ     SSB  IZ3WQO        59  080    59  001    0                                    JN65CL
+
+  2015-07-04 1556 144MHZ     SSB  S57CN         59  081    59  051    0                                 @  JN75PS
+  2015-07-04 1558 144MHZ     SSB  YU7AJM        59  082    59  042    0                                    JN95UD
+  2015-07-04 1601 144MHZ     SSB  YT5T          59  083    59  021    0                                    KN04CP
+  2015-07-04 1603 144MHZ     SSB  OE6MGG        59  084    59  009    0                                    JN77RB
+  2015-07-04 1606 144MHZ     SSB  YT7EE         59  085    59  028    0                                    KN05BS
+  2015-07-04 1607 144MHZ     SSB  YO2LZA        59  086    59  069    0                                 @  KN05RK
+  2015-07-04 1610 144MHZ     SSB  YU7JUV        59  087    59  017    0                                    JN95TT
+  2015-07-04 1611 144MHZ     SSB  9A1CFI        59  088    59  007    0                                 @  JN75OC
+  2015-07-04 1617 144MHZ     SSB  OM3RJB        59  089    59  038    0                                 @  JN97AT
+  2015-07-04 1620 144MHZ     SSB  E74G          59  090    59  069    0                                 @  JN94FQ
+
+  2015-07-04 1621 144MHZ     SSB  S57KM         59  091    59  003    0                                 @  JN76HD
+  2015-07-04 1623 144MHZ     SSB  9A2HX         59  092    59  001    0                                 @  JN83HJ
+  2015-07-04 1626 144MHZ     SSB  DK4G          59  093    59  050    0                                 @  JO71FU
+  2015-07-04 1626 144MHZ     SSB  9A3R          59  094    59  010    0                                    JN65XF
+  2015-07-04 1629 144MHZ     SSB  IQ9BF         59  095    59  027    0                                    JM77LX
+  2015-07-04 1634 144MHZ     SSB  YU7W          59  096    59  122    0                                 @  JN95RD
+  2015-07-04 1636 144MHZ     SSB  OK1VVP        59  097    59  039    0                                 @  JN79DO
+  2015-07-04 1640 144MHZ     SSB  9A6SJZ        59  098    59  004    0                                 @  JN85FV
+  2015-07-04 1643 144MHZ     SSB  DF0YY         59  099    59  080    0                                 @  JO62GD
+  2015-07-04 1649 144MHZ     SSB  DN4MZ         59  100    59  027    0                                 @  JN58NE
+
+  2015-07-04 1651 144MHZ     SSB  S53O          59  101    59  048    0                                 @  JN86AT
+  2015-07-04 1651 144MHZ     SSB  OK1KWV        59  102    59  038    0                                 @  JN79EJ
+  2015-07-04 1658 144MHZ     SSB  SP9GFY        59  103    59  040    0                                    JO90DM
+X 2015-07-04 1700 144MHZ     SSB  9A0V          59  104    59  139    0                                 @  JN95PE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:00:00  GMT 145 MHz SSB 9A0V 59(9) 139#JN95PE S56K 59(9) 14#JN76KI)
+  2015-07-04 1704 144MHZ     SSB  OL2C          59  105    59  080    0                                 @  JN88JX
+  2015-07-04 1705 144MHZ     SSB  YT3Z          59  106    59  046    0                                    JN93WX
+  2015-07-04 1706 144MHZ     SSB  OK2KFK        59  107    59  036    0                                 @  JN79XN
+  2015-07-04 1708 144MHZ     SSB  OK2RVM        59  108    59  051    0                                 @  JN79XS
+  2015-07-04 1713 144MHZ     SSB  S55M          59  109    59  004    0                                 @  JN86DR
+  2015-07-04 1713 144MHZ     SSB  SQ3F          59  110    59  010    0                                    JO81XK
+
+  2015-07-04 1714 144MHZ     SSB  OM7KW         59  111    59  068    0                                 @  JN98OI
+  2015-07-04 1715 144MHZ     SSB  OM4A          59  112    59  026    0                                 @  JN98GS
+  2015-07-04 1718 144MHZ     SSB  IK3SSG        59  113    59  021    0                                    JN55XH
+  2015-07-04 1720 144MHZ     SSB  IW5DOP        59  114    59  066    0                                    JN54QE
+  2015-07-04 1724 144MHZ     SSB  OK4BX         59  115    59  019    0                                    JN89AE
+  2015-07-04 1726 144MHZ     SSB  9A/S57CM      59  116    59  009    0                                 @  JN75GE
+  2015-07-04 1732 144MHZ     SSB  LZ9X          59  117    59  092    0                                 @  KN22XS
+  2015-07-04 1736 144MHZ     SSB  OK1KHL        59  118    59  099    0                                 @  JO80AC
+  2015-07-04 1738 144MHZ     SSB  OE8KVK/P      59  119    59  016    0                                    JN78MJ
+  2015-07-04 1739 144MHZ     SSB  OM3TGE        59  120    59  089    0                                 @  JN98DV
+
+  2015-07-04 1742 144MHZ     SSB  OK2KCN        59  121    59  139    0                                 @  JN89OI
+X 2015-07-04 1746 144MHZ     SSB  9A5IG         59  122    59  008    0                                 @  JN75DH ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:48:00  GMT 145 MHz SSB 9A5IG 59(9) 8#JN75DH S56K 59(9) 122#JN76KT)
+  2015-07-04 1749 144MHZ     SSB  OK2KOJ        59  123    59  113    0                                 @  JN79UG
+  2015-07-04 1750 144MHZ     SSB  9A1E          59  124    59  106    0                                 @  JN85QT
+  2015-07-04 1752 144MHZ     SSB  IK2PTR/4      59  125    59  037    0                                    JN45QA
+  2015-07-04 1756 144MHZ     SSB  S51DSW        59  126    59  007    0                                    JN76KG
+  2015-07-04 1800 144MHZ     SSB  OE5JSL        59  127    59  050    0                                    JN78OD ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-04 1802 144MHZ     SSB  OM3TZZ        59  128    59  200    0                                 @  JN88NG
+  2015-07-04 1806 144MHZ     SSB  S50TG         59  129    59  012    0                                 @  JN65XU
+  2015-07-04 1811 144MHZ     SSB  OM3KXR        59  130    59  060    0                                 @  JN98RO
+
+  2015-07-04 1817 144MHZ     SSB  S58RU         59  131    59  011    0                                 @  JN65WM
+  2015-07-04 1820 144MHZ     SSB  S54X          59  132    59  002    0                                    JN76SJ
+  2015-07-04 1823 144MHZ     SSB  YU7C          59  133    59  119    0                                 @  JN95SS
+  2015-07-04 1826 144MHZ     SSB  OK1KOB        59  134    59  116    0                                 @  JO70UK
+  2015-07-04 1828 144MHZ     SSB  DJ2IT         59  135    59  057    0                                 @  JN58TD
+  2015-07-04 1829 144MHZ     SSB  DM5TI         59  136    59  005    0                                 @  JN68FF
+  2015-07-04 1831 144MHZ     SSB  IT9IPQ        59  137    59  036    0                                    JM78SG
+  2015-07-04 1833 144MHZ     SSB  YT7W          59  138    59  122    0                                    KN04OW
+  2015-07-04 1833 144MHZ     SSB  YO2LYN        59  139    59  142    0                                 @  KN15AE
+  2015-07-04 1834 144MHZ     SSB  YU7CD         59  140    59  038    0                                    KN05QC
+
+  2015-07-04 1836 144MHZ     SSB  S57CV         59  141    59  005    0                                    JN76MP
+  2015-07-04 1836 144MHZ     SSB  9A5IP         59  142    59  002    0                                    JN74OC
+  2015-07-04 1837 144MHZ     SSB  IK8YSW        59  143    59  040    0                                    JN70FQ
+  2015-07-04 1840 144MHZ     SSB  S56HCE        59  144    59  019    0                                 @  JN75AP
+  2015-07-04 1843 144MHZ     SSB  9A6NDD        59  145    59  002    0                                 @  JN85AU
+  2015-07-04 1844 144MHZ     SSB  I4ERN         59  146    59  030    0                                    JN64GA
+  2015-07-04 1845 144MHZ     SSB  IV3UT         59  147    59  011    0                                    JN66OB
+  2015-07-04 1847 144MHZ     SSB  OL1Z          59  148    59  080    0                                 @  JN88AU
+  2015-07-04 1849 144MHZ     SSB  F1NSR/P       59  149    59  063    0                                    JN34UB
+  2015-07-04 1850 144MHZ     SSB  IK4CBO        59  150    59  049    0                                    JN54DS
+
+X 2015-07-04 1851 144MHZ     SSB  IZ1ERW        59  151    59  002    0                                    JN45AM ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 1857 144MHZ     SSB  OM3RJA        59  152    59  073    0                                 @  JN97BW ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  18:57:00  GMT 145 MHz SSB OM3RKA 59(9) 73#JN97BW S56K 59(9) 152#JN76KI)
+  2015-07-04 1858 144MHZ     SSB  F5VKV         59  153    59  021    0                                    JN33RR
+  2015-07-04 1904 144MHZ     SSB  LZ2FO         59  154    59  008    0                                 @  KN13KX
+  2015-07-04 1905 144MHZ     SSB  LZ4FR         59  155    59  049    0                                    KN13KX
+  2015-07-04 1909 144MHZ     SSB  Z35U          59  156    59  011    0                                    KN01SV
+  2015-07-04 1913 144MHZ     SSB  LZ7J          59  157    59  104    0                                 @  KN22PR
+  2015-07-04 1916 144MHZ     SSB  YT0A          59  158    59  062    0                                    KN04FU
+  2015-07-04 1917 144MHZ     SSB  YT7DQ         59  159    59  071    0                                    JN95WS
+  2015-07-04 1919 144MHZ     SSB  IZ1POA        59  160    59  241    0                                    JN44OQ
+
+  2015-07-04 1922 144MHZ     SSB  YU1INO        59  161    59  056    0                                    KN13HI
+  2015-07-04 1928 144MHZ     SSB  UR5W          59  162    59  118    0                                 @  KN18IW
+  2015-07-04 1933 144MHZ     SSB  OM3WOR        59  163    59  067    0                                 @  JN98DF
+  2015-07-04 1936 144MHZ     SSB  LZ2ZY         59  164    59  076    0                                 @  KN13OT
+  2015-07-04 1939 144MHZ     SSB  YU7GM         59  165    59  094    0                                 @  KN05EI
+  2015-07-04 1940 144MHZ     SSB  9A6K          59  166    59  090    0                                 @  JN95HN
+  2015-07-04 1942 144MHZ     SSB  YO2KBQ/P      59  167    59  023    0                                 @  KN06TD
+  2015-07-04 1943 144MHZ     SSB  9A7D          59  168    59  087    0                                 @  JN95CI
+  2015-07-04 1944 144MHZ     SSB  S52ME         59  169    59  003    0                                    JN76TM
+  2015-07-04 1946 144MHZ     SSB  I0FHZ         59  170    59  085    0                                    JN62AP
+
+  2015-07-04 1953 144MHZ     SSB  E77Y          59  171    59  077    0                                 @  JN83XT
+  2015-07-04 1955 144MHZ     SSB  OM3RBS        59  172    59  100    0                                 @  JN98HE
+  2015-07-04 1956 144MHZ     SSB  OK1KQI        59  173    59  063    0                                 @  JO80CH
+  2015-07-04 1957 144MHZ     SSB  OK2KOP        59  174    59  144    0                                 @  JO80NE
+  2015-07-04 1958 144MHZ     SSB  OK1KMP        59  175    59  153    0                                 @  JO70SM
+  2015-07-04 2001 144MHZ     SSB  OK2VIR        59  176    59  043    0                                 @  JN99DS
+  2015-07-04 2004 144MHZ     SSB  OK2EZ         59  177    59  293    0                                 @  JN99BS
+  2015-07-04 2005 144MHZ     SSB  OK1LL         59  178    59  088    0                                    JO70MC
+  2015-07-04 2006 144MHZ     SSB  OK6T          59  179    59  188    0                                 @  JO80BJ
+  2015-07-04 2010 144MHZ     SSB  9A3AQ         59  180    59  018    0                                 @  JN75WS
+
+  2015-07-04 2013 144MHZ     SSB  9A1BJK/P      59  181    59  051    0                                 @  JN75CH
+  2015-07-04 2015 144MHZ     SSB  OK2VLT        59  182    59  114    0                                 @  JN99CS
+  2015-07-04 2018 144MHZ     SSB  HG1VN         59  183    59  022    0                                    JN87HG
+  2015-07-04 2019 144MHZ     SSB  OK1KKI        59  184    59  186    0                                    JN79NF
+  2015-07-04 2022 144MHZ     SSB  OM3KMA        59  185    59  122    0                                 @  JN88RP
+  2015-07-04 2024 144MHZ     SSB  HA7MB         59  186    59  067    0                                 @  KN07BM
+  2015-07-04 2029 144MHZ     SSB  HA8UJ         59  187    59  039    0                                    JN96TW
+  2015-07-04 2032 144MHZ     SSB  HA8JP         59  188    59  018    0                                 @  KN07OC
+  2015-07-04 2033 144MHZ     SSB  YU5RY         59  189    59  069    0                                 @  KN04RL
+  2015-07-04 2034 144MHZ     SSB  9A2C          59  190    59  025    0                                    JN95IN
+
+  2015-07-04 2038 144MHZ     SSB  YU1UO         59  191    59  049    0                                    KN04ET
+  2015-07-04 2043 144MHZ     SSB  OK2RAS        59  192    59  099    0                                 @  JN99FP
+  2015-07-04 2044 144MHZ     SSB  HG3X          59  193    59  306    0                                 @  JN96EE
+  2015-07-04 2048 144MHZ     SSB  S50TA         59  194    59  006    0                                 @  JN76HD
+X 2015-07-04 2054 144MHZ     SSB  S59BL         59  195    59  001    0                                    JN76OH ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2107 144MHZ     SSB  S57Q          59  196    59  292    0                                 @  JN76PB
+X 2015-07-04 2120 144MHZ     SSB  DO1GPP'       59  197    59  082    0                                    JO71FU ERROR(S): QSO_ERROR_INVALID_CALLSIGN, QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(DO1GPP(91))
+  2015-07-04 2122 144MHZ     SSB  OK1KEP        59  198    59  064    0                                 @  JO70OR
+  2015-07-04 2133 144MHZ     SSB  9A1CEQ        59  199    59  047    0                                 @  JN85ER
+  2015-07-04 2137 144MHZ     SSB  IK3UNA        59  200    59  220    0                                    JN55NO
+
+  2015-07-04 2143 144MHZ     SSB  HG1Z          59  201    59  274    0                                 @  JN86KU
+  2015-07-04 2145 144MHZ     SSB  OM2DT         59  202    59  087    0                                 @  JN88RT
+  2015-07-04 2145 144MHZ     SSB  OE3MDB        59  203    59  050    0                                    JN88JB
+  2015-07-04 2147 144MHZ     SSB  OK2KLD        59  204    59  144    0                                 @  JN89PU
+  2015-07-04 2151 144MHZ     SSB  OM3KTR        59  205    59  121    0                                 @  JN88VL
+  2015-07-04 2153 144MHZ     SSB  SP6MRM        59  206    59  069    0                                    JO81KG
+  2015-07-04 2157 144MHZ     SSB  OE8HSF        59  207    59  018    0                                    JN76GW
+  2015-07-04 2159 144MHZ     SSB  OE3EMC        59  208    59  039    0                                    JN78JO
+  2015-07-04 2200 144MHZ     SSB  OK2UUJ        59  209    59  030    0                                 @  JO80NB
+  2015-07-04 2201 144MHZ     SSB  S58M          59  210    59  199    0                                 @  JN76JC
+
+  2015-07-04 2202 144MHZ     SSB  IK4FWF        59  211    59  033    0                                    JN54QM
+  2015-07-04 2212 144MHZ     SSB  IK7LMX        59  212    59  050    0                                    JN80XP
+  2015-07-04 2215 144MHZ     SSB  YO7LBX/P      59  213    59  097    0                                 @  KN15UI
+  2015-07-04 2216 144MHZ     SSB  HA8TJ         59  214    59  028    0                                    JN96UV
+  2015-07-04 2221 144MHZ     SSB  YO5PQP/P      59  215    59  034    0                                    KN17VP
+  2015-07-04 2225 144MHZ     SSB  YT90NS        59  216    59  014    0                                 @  JN95WG
+  2015-07-04 2226 144MHZ     SSB  S53XX         59  217    59  006    0                                 @  JN66TK
+  2015-07-04 2228 144MHZ     SSB  HA5KDQ        59  218    59  362    0                                 @  JN97LN
+  2015-07-04 2229 144MHZ     SSB  YR8D          59  219    59  116    0                                 @  KN27OD
+  2015-07-04 2234 144MHZ     SSB  OK2OAS        59  220    59  099    0                                 @  JN89DO
+
+  2015-07-04 2237 144MHZ     SSB  OM3W          59  221    59  457    0                                 @  JN99CH
+  2015-07-04 2248 144MHZ     SSB  DL1MHJ        59  222    59  054    0                                 @  JN58TE
+  2015-07-04 2248 144MHZ     SSB  I7CSB         59  223    59  022    0                                    JN71QQ
+  2015-07-04 2252 144MHZ     SSB  OK1IAP        59  224    59  066    0                                 @  JN79AC
+  2015-07-04 2253 144MHZ     SSB  IW2CTQ        59  225    59  141    0                                    JN44PS
+  2015-07-04 2257 144MHZ     SSB  DK2CB         59  226    59  066    0                                 @  JO71IX
+X 2015-07-04 2259 144MHZ     SSB  DR1H          59  227    59  562    0                                 @  JN59OP ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 2307 144MHZ     SSB  OM6W          59  228    59  316    0                                 @  JN99LJ
+  2015-07-04 2312 144MHZ     SSB  OM2RL         59  229    59  077    0                                 @  JN88NR
+  2015-07-04 2314 144MHZ     SSB  OK1UYR        59  230    59  130    0                                 @  JO80EG
+
+  2015-07-04 2320 144MHZ     CW   OE5NNN        599 231    599 153    0                                    JN78EB
+  2015-07-04 2322 144MHZ     CW   S52IT         599 232    599 013    0                                 @  JN76AA
+  2015-07-04 2327 144MHZ     CW   OK1OAZ        599 233    599 100    0                                 @  JO70FC
+  2015-07-04 2328 144MHZ     CW   OK7CM         599 234    599 087    0                                 @  JO70KJ
+  2015-07-04 2331 144MHZ     CW   OK1RAR        599 235    599 153    0                                 @  JN79CX
+  2015-07-04 2332 144MHZ     CW   OK1ANP        599 236    599 021    0                                 @  JN78FX
+  2015-07-04 2334 144MHZ     CW   DL8VL         599 237    599 188    0                                 @  JO71FG
+  2015-07-04 2335 144MHZ     CW   OK1KJO        599 238    599 216    0                                 @  JO60OK
+  2015-07-04 2337 144MHZ     CW   OL4N          599 239    599 335    0                                 @  JO60VR
+X 2015-07-04 2354 144MHZ     CW   DK1JU         599 240    599 017    0                                 @  JN58TC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  23:55:00  GMT 145 MHz CW DK1JU 59(9) 17#JN58TC S56K 59(9) 230#JN76KI)
+
+  2015-07-05 0003 144MHZ     CW   E71W          599 241    599 051    0                                 @  JN93GT
+  2015-07-05 0008 144MHZ     CW   S53FO         599 242    599 006    0                                 @  JN76ID
+  2015-07-05 0011 144MHZ     CW   HA6W          599 243    599 372    0                                 @  KN08FB
+X 2015-07-05 0012 144MHZ     CW   S52AA         599 244    599 007    0                                 @  JN76HD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:12:00  GMT 145 MHz CW S52AA 59(9) 7#JN76HD S56K 59(9) 144#JN76KI)
+  2015-07-05 0019 144MHZ     CW   YU1BBV        599 245    599 093    0                                 @  KN04GR
+X 2015-07-05 0024 144MHZ     CW   OK1KPA        599 246    599 299    0                                 @  JN79US ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:23:00  GMT 145 MHz CW OK1KPA 59(9) 299#JN79US S56K 59(9) 146#JN76KI)
+X 2015-07-05 0026 144MHZ     CW   YO2KAR        599 247    599 072    0                                 @  KN15IU ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0029 144MHZ     CW   LZ4BF         599 248    599 081    0                                 @  KN23LD
+  2015-07-05 0037 144MHZ     CW   S59R          599 249    599 411    0                                 @  JN76OM
+  2015-07-05 0039 144MHZ     CW   OM3KDX        599 250    599 171    0                                 @  KN18DQ
+
+  2015-07-05 0043 144MHZ     CW   HG7KLF        599 251    599 204    0                                 @  JN97WW
+X 2015-07-05 0047 144MHZ     CW   YO5OHY        599 252    599 044    0                                 @  KN17SP ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:45:00  GMT 145 MHz CW YO5OHY 59(9) 44#KN17SP S56K 59(9) 151#JN76KI)
+  2015-07-05 0058 144MHZ     CW   SN7L          599 253    599 485    0                                    JO70SS
+X 2015-07-05 0100 144MHZ     CW   OK1KFX        599 254    599 128    0                                 @  JN79FV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE, QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:52:00  GMT 145 MHz CW OK1KFX 59(9) 128#JN79FV S56K 59(9) 154#JN76UI)
+  2015-07-05 0102 144MHZ     CW   HG7B          599 255    599 339    0                                 @  JN97LW
+X 2015-07-05 0103 144MHZ     CW   OK1KRY        599 256    599 178    0                                 @  JN69TV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  01:03:00  GMT 145 MHz CW OK1KRY 59(9) 178#JN69TV S57K 59(9) 256#JN76KI)
+  2015-07-05 0107 144MHZ     CW   OK1XZ/P       599 257    599 016    0                                    JO80HC
+  2015-07-05 0108 144MHZ     CW   OK2KGU        599 258    599 096    0                                 @  JN89IG
+  2015-07-05 0114 144MHZ     CW   HA4N          599 259    599 115    0                                    JN96LX
+  2015-07-05 0128 144MHZ     CW   S57O          599 260    599 427    0                                 @  JN86DT
+
+X 2015-07-05 0131 144MHZ     CW   DA0FF         599 261    599 641    0                                 @  JO40XL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  01:31:00  GMT 145 MHz CW DA0FF 59(9) 641#JO40XL S56K 59(9) 262#JN76KI)
+  2015-07-05 0136 144MHZ     CW   YT5W          599 262    599 085    0                                    KN04OO
+  2015-07-05 0139 144MHZ     CW   S53D          599 263    599 056    0                                 @  JN76BD
+  2015-07-05 0141 144MHZ     CW   S57N          599 264    599 186    0                                 @  JN76BL
+  2015-07-05 0143 144MHZ     CW   OM5CM         599 265    599 078    0                                 @  JN98DF
+  2015-07-05 0148 144MHZ     CW   OL1C          599 266    599 398    0                                 @  JO60UQ
+X 2015-07-05 0150 144MHZ     CW   OK1TRW        599 267    599 131    0                                 @  JO70HC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  01:50:00  GMT 145 MHz CW OK1TRW 59(9) 131#JO70HC S56K 59(9) 267#JN76KT)
+X 2015-07-05 0154 144MHZ     CW   OK/ER1LW      599 268    599 067    0                                 @  JO60UJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  01:53:00  GMT 145 MHz CW OK/ER1LW 59(9) 67#JO60KJ S56K 59(9) 268#JN76KI)
+  2015-07-05 0158 144MHZ     CW   OK7O          599 269    599 519    0                                 @  JN69OU
+  2015-07-05 0159 144MHZ     CW   OM7PY         599 270    599 061    0                                 @  JN98SM
+
+  2015-07-05 0208 144MHZ     CW   OL2J          599 271    599 226    0                                 @  JN79TI
+  2015-07-05 0209 144MHZ     CW   IQ4AX         599 272    599 283    0                                    JN54KK
+X 2015-07-05 0213 144MHZ     CW   OM6SO         599 273    599 049    0                                 @  JN99TB ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  02:13:00  GMT 145 MHz CW OM6HO 59(9) 49#JN99TB S56K 59(9) 273#JN76KI)
+  2015-07-05 0216 144MHZ     CW   OM7M          599 274    599 423    0                                 @  JN98HP
+  2015-07-05 0228 144MHZ     CW   DA0HQ         599 275    599 460    0                                 @  JN39VV
+  2015-07-05 0235 144MHZ     CW   DK0SU         599 276    599 016    0                                 @  JN48NR
+  2015-07-05 0251 144MHZ     CW   YT1X          599 277    599 306    0                                    JN94XC
+  2015-07-05 0305 144MHZ     CW   OK2KOE        599 278    599 166    0                                 @  JN89SS
+  2015-07-05 0314 144MHZ     CW   DL0HTW        599 279    599 380    0                                 @  JO60QU
+X 2015-07-05 0325 144MHZ     CW   OM4C          599 280    599 113    0                                 @  KN19AA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  03:26:00  GMT 145 MHz CW OM4C 59(9) 113#KN09AA S56K 59(9) 180#JN76KI), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:26:00  GMT 145 MHz CW OM4C 59(9) 113#KN09AA S56K 59(9) 180#JN76KI)
+
+  2015-07-05 0344 144MHZ     CW   OM0TT         599 281    599 089    0                                 @  KN08XQ
+  2015-07-05 0349 144MHZ     CW   YT5R          599 282    599 071    0                                    KN13EU
+  2015-07-05 0358 144MHZ     CW   YU1MI         599 283    599 045    0                                    KN03QW
+  2015-07-05 0431 144MHZ     SSB  OM6A          59  284    59  487    0                                 @  JN99JC
+  2015-07-05 0434 144MHZ     SSB  OK6R          59  285    59  160    0                                 @  JN79OW
+  2015-07-05 0436 144MHZ     SSB  OL7C          59  286    59  518    0                                 @  JO60JJ
+X 2015-07-05 0441 144MHZ     SSB  DL0C          59  287    59  078    0                                 @  JO72HD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-05  04:41:00  GMT 145 MHz SSB DL0C/P 59(9) 78#JO72HD S56K 59(9) 287#JN76KI)
+  2015-07-05 0446 144MHZ     SSB  OE5BGN/P      59  288    59  461    0                                    JN68WS
+  2015-07-05 0453 144MHZ     SSB  OL4W          59  289    59  373    0                                 @  JO70LR
+  2015-07-05 0457 144MHZ     SSB  OL3Y          59  290    59  484    0                                    JN69JJ
+
+  2015-07-05 0501 144MHZ     SSB  OL4A          59  291    59  582    0                                 @  JO60RN
+X 2015-07-05 0502 144MHZ     SSB  DR1GAP        59  292    59  262    0                                 @  JN48LE ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  05:03:00  GMT 145 MHz SSB DH1GAP 59(9) 262#JN48LE S56K 59(9) 292#JN76KI)
+  2015-07-05 0509 144MHZ     SSB  OK1KFH        59  293    59  333    0                                 @  JN69VN
+  2015-07-05 0511 144MHZ     SSB  OK1KQH        59  294    59  353    0                                 @  JN79GO
+X 2015-07-05 0514 144MHZ     SSB  DK0NA         59  295    59  345    0                                 @  JO50TI ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0528 144MHZ     SSB  OE1W          59  296    59  477    0                                    JN77TX
+  2015-07-05 0532 144MHZ     SSB  S530AZV       59  297    59  009    0                                    JN65UM
+  2015-07-05 0537 144MHZ     SSB  OK2KWS        59  298    59  212    0                                 @  JN89NV
+  2015-07-05 0538 144MHZ     SSB  OK1KUO        59  299    59  276    0                                 @  JO80FF
+  2015-07-05 0540 144MHZ     SSB  DO2AMS        59  300    59  105    0                                 @  JO61TL
+
+  2015-07-05 0543 144MHZ     SSB  OK1KCB        59  301    59  112    0                                 @  JN79GB
+  2015-07-05 0546 144MHZ     SSB  9A2KO         59  302    59  031    0                                 @  JN75IE
+  2015-07-05 0558 144MHZ     SSB  IK5RWX        59  303    59  004    0                                    JN52US
+  2015-07-05 0601 144MHZ     SSB  OM3CVV        59  304    59  058    0                                 @  JN88TR
+  2015-07-05 0602 144MHZ     SSB  IZ4BEG        59  305    59  008    0                                    JN64CE
+  2015-07-05 0609 144MHZ     SSB  DG0WA         59  306    59  026    0                                    JO50HI
+  2015-07-05 0611 144MHZ     SSB  DL4WA         59  307    59  066    0                                 @  JO60BO
+X 2015-07-05 0614 144MHZ     SSB  9A3ZM         59  308    59  008    0                                 @  JN85VI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  06:16:00  GMT 145 MHz SSB 9A3ZM 59(9) 8#JN85UI S56K 59(9) 308#JN76KI)
+  2015-07-05 0621 144MHZ     SSB  OK4C          59  309    59  441    0                                 @  JN79BU
+  2015-07-05 0639 144MHZ     SSB  SP8MCP        59  310    59  039    0                                    KN09RR
+
+  2015-07-05 0647 144MHZ     SSB  S54MTB        59  311    59  003    0                                 @  JN75OT
+  2015-07-05 0648 144MHZ     SSB  OM5MO         59  312    59  038    0                                    JN98EJ
+  2015-07-05 0703 144MHZ     SSB  9A4OP         59  313    59  008    0                                 @  JN75UR
+  2015-07-05 0710 144MHZ     SSB  S51TX         59  314    59  011    0                                    JN76IG
+  2015-07-05 0716 144MHZ     SSB  OM3RRC        59  315    59  093    0                                 @  JN99EH
+  2015-07-05 0726 144MHZ     SSB  OE6V          59  316    59  340    0                                    JN76VT
+  2015-07-05 0736 144MHZ     SSB  E70W          59  317    59  032    0                                    JN94IM
+  2015-07-05 0740 144MHZ     SSB  OK1SC         59  318    59  025    0                                    JO70OB
+  2015-07-05 0742 144MHZ     SSB  OE6MOG        59  319    59  002    0                                    JN77HE
+X 2015-07-05 0744 144MHZ     SSB  9A3EO         59  320    59  002    0                                    JN73TT ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-05 0747 144MHZ     SSB  YU2ECP        59  321    59  076    0                                    KN04GL
+X 2015-07-05 0756 144MHZ     SSB  OK2KWX        59  322    59  303    0                                 @  JN89KK ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  07:56:00  GMT 145 MHz SSB OK2KWX 59(9) 303#JN89QQ S56K 59(9) 322#JN76KI)
+  2015-07-05 0757 144MHZ     SSB  9A1MI         59  323    59  007    0                                    JN85EV
+  2015-07-05 0758 144MHZ     SSB  IK1YNZ/4      59  324    59  037    0                                    JN54ML
+  2015-07-05 0801 144MHZ     SSB  IW5BUX/4      59  325    59  003    0                                    JN54PF
+  2015-07-05 0803 144MHZ     SSB  S53BH         59  326    59  009    0                                    JN76FC
+  2015-07-05 0811 144MHZ     SSB  9A1Z          59  327    59  027    0                                 @  JN86FJ
+  2015-07-05 0813 144MHZ     SSB  9A4CW         59  328    59  122    0                                 @  JN95AE
+X 2015-07-05 0817 144MHZ     SSB  OK2KDJ        59  329    59  083    0                                 @  JN99CM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  08:17:00  GMT 145 MHz SSB OK2KDJ 59(9) 83#JN99CM S56K 59(9) 349#JN76KI)
+  2015-07-05 0818 144MHZ     SSB  SP6KEP        59  330    59  248    0                                    JO90CK
+
+  2015-07-05 0819 144MHZ     SSB  S59DXU        59  331    59  006    0                                    JN76RI
+  2015-07-05 0820 144MHZ     SSB  SP9S          59  332    59  080    0                                    JN99QU
+  2015-07-05 0829 144MHZ     SSB  9A1DAB        59  333    59  005    0                                 @  JN95BL
+  2015-07-05 0841 144MHZ     SSB  OM3KFV        59  334    59  167    0                                 @  JN99LD
+  2015-07-05 0854 144MHZ     SSB  OM3MW         59  335    59  021    0                                    JN98BX
+  2015-07-05 0855 144MHZ     SSB  OK2RTI        59  336    59  072    0                                 @  JN89FL
+  2015-07-05 0858 144MHZ     SSB  OM/HA6PJ      59  337    59  122    0                                 @  JN98SM
+  2015-07-05 0904 144MHZ     SSB  OM3ID         59  338    59  082    0                                 @  JN88ME
+  2015-07-05 0909 144MHZ     SSB  OK1AXG        59  339    59  082    0                                 @  JO80BJ
+  2015-07-05 0910 144MHZ     SSB  DO6UL/P       59  340    59  124    0                                 @  JO60WR
+
+  2015-07-05 0913 144MHZ     SSB  IW7EAP        59  341    59  039    0                                    JN81KC
+  2015-07-05 0913 144MHZ     SSB  9A9R          59  342    59  112    0                                 @  JN85OQ
+  2015-07-05 0914 144MHZ     SSB  DL0FTL        59  343    59  102    0                                 @  JO61SA
+  2015-07-05 0915 144MHZ     SSB  IV3SXI        59  344    59  025    0                                    JN65RT
+X 2015-07-05 0917 144MHZ     SSB  OK2R          59  345    59  079    0                                 @  JN89JM ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0920 144MHZ     SSB  DL1FAR        59  346    59  097    0                                 @  JO40CB
+  2015-07-05 0921 144MHZ     SSB  DF4MAA        59  347    59  024    0                                 @  JN58WH
+  2015-07-05 0922 144MHZ     SSB  DK0BM         59  348    59  105    0                                 @  JN58UJ
+  2015-07-05 0925 144MHZ     SSB  DM3W          59  349    59  202    0                                 @  JO62XE
+  2015-07-05 0930 144MHZ     SSB  DL6FAW        59  350    59  222    0                                    JO40AQ
+
+  2015-07-05 0932 144MHZ     SSB  E73CV         59  351    59  009    0                                    JN84OS
+  2015-07-05 0945 144MHZ     SSB  4O5ARJ        59  352    59  018    0                                    JN92RL
+  2015-07-05 0949 144MHZ     SSB  HB9CLN        59  353    59  120    0                                    JN37XA
+  2015-07-05 0950 144MHZ     SSB  S56LXN        59  354    59  003    0                                    JN76HF
+  2015-07-05 0954 144MHZ     SSB  S59DEM        59  355    59  639    0                                 @  JN75DS
+X 2015-07-05 0957 144MHZ     SSB  IZ3VTH        59  356    59  112    0                                 @  JN65DM ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0959 144MHZ     SSB  S52VJ         59  357    59  006    0                                    JN76AK
+  2015-07-05 1001 144MHZ     SSB  OE8MFQ        59  358    59  002    0                                    JN76GI ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-05 1013 144MHZ     SSB  I5WBE/3       59  359    59  006    0                                    JN66IN
+  2015-07-05 1024 144MHZ     SSB  S57MHR        59  360    59  003    0                                    JN75CQ
+
+  2015-07-05 1034 144MHZ     SSB  OM7JM         59  361    59  068    0                                    JN98SL
+  2015-07-05 1036 144MHZ     SSB  I4BME         59  362    59  066    0                                    JN54QL
+  2015-07-05 1039 144MHZ     SSB  DK0OG         59  363    59  005    0                                 @  JN68GI
+  2015-07-05 1041 144MHZ     SSB  S53M          59  364    59  009    0                                 @  JN86CR
+  2015-07-05 1042 144MHZ     SSB  DL2RM         59  365    59  093    0                                    JN68BP
+  2015-07-05 1043 144MHZ     SSB  DL2MRE        59  366    59  090    0                                 @  JO60SX
+  2015-07-05 1047 144MHZ     SSB  9A2BW         59  367    59  023    0                                 @  JN83GJ
+  2015-07-05 1052 144MHZ     SSB  DM4TNF        59  368    59  063    0                                 @  JO61SL
+X 2015-07-05 1059 144MHZ     MIXEDOE1WSA        599 369    59  021    0                                    JN88FF ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 1102 144MHZ     SSB  S51DD         59  370    59  007    0                                    JN76WK
+
+X 2015-07-05 1112 144MHZ     CW   DL2DXA        599 371    599 004    0                                 @  JO61VC ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 1116 144MHZ     CW   DK3YO         599 372    599 034    0                                    JO61HN ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 1121 144MHZ     CW   HA2MJ         599 373    599 070    0                                 @  JN97DQ
+  2015-07-05 1124 144MHZ     CW   DL0KR/P       599 374    599 160    0                                 @  JN58FG
+  2015-07-05 1130 144MHZ     CW   OK1BMW        599 375    599 023    0                                 @  JO70EI
+  2015-07-05 1132 144MHZ     CW   OK1KEO        599 376    599 142    0                                 @  JN79GS
+  2015-07-05 1134 144MHZ     CW   DL2VL         599 377    599 018    0                                 @  JO60XX
+  2015-07-05 1136 144MHZ     CW   OK1KSD        599 378    599 124    0                                 @  JO70JF
+X 2015-07-05 1138 144MHZ     CW   OK1BMJ        599 379    599 189    0                                 @  JN89UE ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  11:38:00  GMT 145 MHz CW OK2BMJ 59(9) 189#JN89UE S56K 59(9) 379#JN76KI)
+  2015-07-05 1140 144MHZ     CW   OK1KJD        599 380    599 101    0                                    JN79GD
+
+  2015-07-05 1142 144MHZ     CW   DF0GEB        599 381    599 423    0                                 @  JO51DI
+  2015-07-05 1145 144MHZ     CW   DL5RDO        599 382    599 025    0                                    JN59KK
+  2015-07-05 1150 144MHZ     CW   I1AXE         599 383    599 198    0                                    JN34QM
+  2015-07-05 1153 144MHZ     CW   DF1CF         599 384    599 004    0                                    JN57FP
+X 2015-07-05 1157 144MHZ     CW   OK2KYZ        599 385    599 227    0                                 @  JN89XN ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  11:57:00  GMT 145 MHz CW OK2KYZ 59(9) 227#JN89XN S56K 59(9) 538#JN76KI)
+  2015-07-05 1202 144MHZ     CW   SP1JNY        599 386    599 086    0                                    JO73GD ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-05 1204 144MHZ     CW   OK1FHI        599 387    599 137    0                                 @  JO70GS
+  2015-07-05 1208 144MHZ     CW   OK1DQT        599 388    599 031    0                                 @  JO70IB
+  2015-07-05 1211 144MHZ     CW   DL6ZB         599 389    599 001    0                                    JN58TS
+  2015-07-05 1212 144MHZ     CW   OL9W          599 390    599 514    0                                 @  JN99CL
+
+X 2015-07-05 1217 144MHZ     CW   DL3DQL        599 391    599 122    0                                 @  JO61PS ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  12:17:00  GMT 145 MHz CW DL3DQL 59(9) 122#JO61PH S56K 59(9) 391#JN76KI)
+  2015-07-05 1219 144MHZ     CW   I6BQI         599 392    599 002    0                                    JN72AK
+X 2015-07-05 1222 144MHZ     CW   DL0ZI         599 393    599 062    0                                 @  JO60JV ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 1229 144MHZ     CW   9A2EY         599 394    599 091    0                                 @  JN75XV
+  2015-07-05 1240 144MHZ     CW   YO5TI         599 395    599 060    0                                    KN27GD
+  2015-07-05 1243 144MHZ     CW   YO3FFF/P      599 396    599 113    0                                 @  KN24ND
+X 2015-07-05 1245 144MHZ     CW   HA5FD         599 397    599 106    0                                 @  JN97NN ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  12:45:00  GMT 145 MHz CW HA5FB 59(9) 106#JN97NN S56K 59(9) 397#JN76KI)
+  2015-07-05 1250 144MHZ     CW   YU7ZX         599 398    599 114    0                                 @  KN05FJ
+  2015-07-05 1252 144MHZ     CW   YO5AMF        599 399    599 073    0                                    KN07XB
+  2015-07-05 1255 144MHZ     CW   HA5FM         599 400    599 043    0                                    JN97NN
+
+X 2015-07-05 1258 144MHZ     CW   9A3BO         599 401    599 003    0                                    JN85QT ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 1302 144MHZ     CW   I1RJP         599 402    599 039    0                                    JN45BO
+  2015-07-05 1316 144MHZ     SSB  OK1UJQ        59  403    59  013    0                                    JO70GC
+  2015-07-05 1331 144MHZ     SSB  S56ZIV        59  404    59  006    0                                 @  JN75BS
+  2015-07-05 1345 144MHZ     SSB  E73RB         59  405    59  014    0                                    JN84OS
+  2015-07-05 1346 144MHZ     SSB  9A1IW         59  406    59  021    0                                 @  JN75SL
+  2015-07-05 1347 144MHZ     SSB  9A2KI         59  407    59  007    0                                    JN95BF
+  2015-07-05 1354 144MHZ     SSB  IN3JJI/3      59  408    59  215    0                                    JN55MQ
+  2015-07-05 1355 144MHZ     SSB  DJ7GK         59  409    59  021    0                                    JN68KX
+X 2015-07-05 1357 144MHZ     SSB  S57UBA        59  410    59  001    0                                    JN76NI ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-05 1359 144MHZ     SSB  IV3MPI        59  411    59  017    0                                    JN65SV

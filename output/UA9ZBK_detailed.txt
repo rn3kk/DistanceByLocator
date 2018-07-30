@@ -1,0 +1,39 @@
+Callsign: UA9ZBK
+QTH Locator: NO21XX
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      20            2    0         4320
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               20            2    0         4320
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1517 144MHZ     SSB  UA9OAP/9      59  001    59  008    103                               @  NO21UB
+  2015-07-04 1522 144MHZ     SSB  UA9YAD        59  002    59  005    67                                @  NO22NH
+  2015-07-04 1526 144MHZ     SSB  UB8ZAC        59  003    59  004    1                                 @  NO21XX
+  2015-07-04 1528 144MHZ     SSB  UB8ZAD        59  004    59  005    1                                 @  NO21XX
+X 2015-07-04 1801 144MHZ     SSB  RA9OD         59  005    59  028    0                                 @  NO51FE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:01:00  GMT 145 MHz SSB RA9OD 59(9) 28#NO15FE UA9ZBK 59(9) 5#NO21XX)
+  2015-07-04 1803 144MHZ     SSB  RA9OEG        59  006    59  026    373                               @  NO14MU
+  2015-07-04 1804 144MHZ     SSB  UA9OK         59  007    59  025    371                               @  NO15XC
+  2015-07-04 1805 144MHZ     SSB  RZ9OXA        59  008    59  021    341                               @  NO14PO
+X 2015-07-04 1807 144MHZ     SSB  RC9YC         59  009    59  042    0                                 @  NO13UE ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1830 144MHZ     SSB  R9OBA         59  010    59  022    350                               @  NO14MO
+
+  2015-07-04 1911 144MHZ     SSB  RA9YI         59  011    59  017    211                               @  NO13VI
+  2015-07-04 2308 144MHZ     SSB  UA9YJM        59  012    59  036    224                               @  NO13VM
+  2015-07-04 2310 144MHZ     SSB  RA9YMI        59  013    59  032    224                               @  NO13VM
+  2015-07-04 2328 144MHZ     SSB  RA9YHK        59  014    59  062    143                               @  NO33AG
+  2015-07-04 2343 144MHZ     SSB  RA9OAS        59  015    59  034    391                               @  NO15LA
+  2015-07-05 0007 144MHZ     SSB  RC9U          59  016    59  036    164                               @  NO33RD
+  2015-07-05 0056 144MHZ     SSB  RA9ODA        59  017    59  028    385                               @  NO14MX
+  2015-07-05 0114 144MHZ     SSB  UA9OWA        59  018    59  063    427                               @  NO15IH
+  2015-07-05 0121 144MHZ     SSB  R8OAC         59  019    59  023    401                               @  NO15JB
+  2015-07-05 0233 144MHZ     SSB  UB9YAK        59  020    59  066    143                               @  NO33AG
+

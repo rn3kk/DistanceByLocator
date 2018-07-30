@@ -1,0 +1,22 @@
+Callsign: UZ7HO
+QTH Locator: KO60LA
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       5            2    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0422 144MHZ     SSB  UY1HY         59  001    59  053    0                                 @  KO60MA
+  2015-07-05 0423 144MHZ     SSB  UZ2HZ         59  002    59  088    0                                 @  KN69RA
+X 2015-07-05 0526 144MHZ     SSB  UR5ETN        59  003    59  049    0                                 @  KN78CL ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0550 144MHZ     SSB  UR5HVR        59  004    59  028    0                                    KN69TA
+X 2015-07-05 0607 144MHZ     SSB  RW3WR         59  005    59  199    0                                 @  KO71IM ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND

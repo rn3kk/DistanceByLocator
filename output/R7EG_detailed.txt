@@ -1,0 +1,48 @@
+Callsign: R7EG
+QTH Locator: LN14BF
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      18            3    0         2401
+  435 MHz      11            2    0         3106
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               29            5    0         5507
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1416 432MHZ     SSB  RA6HVB        59  001    59  002    138                               @  LN14CU
+  2015-07-04 1420 432MHZ     SSB  UA6HHE        59  002    59  002    186                               @  LN05XB
+  2015-07-04 1425 432MHZ     SSB  RN6MA         59  003    59  004    550                               @  LN06UQ
+  2015-07-04 1526 432MHZ     SSB  R7AB          59  004    59  021    358                               @  KN94WD
+X 2015-07-04 1528 432MHZ     SSB  R6YA          59  005    59  007    0                                 @  LN04MF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:28:00  GMT 435 MHz SSB R6YA 59(9) 7#LN04MF R7EG 59(9) #0)
+  2015-07-04 1549 432MHZ     SSB  R7HN          59  006    59  003    144                               @  LN13IR
+  2015-07-04 1711 432MHZ     SSB  RT7G          59  007    59  016    188                               @  LN05WB
+  2015-07-04 1750 432MHZ     SSB  R7BR          59  008    59  020    332                               @  LN05KK
+  2015-07-04 2114 432MHZ     SSB  UB6A          59  009    59  016    392                                  LN05CI
+  2015-07-05 0443 432MHZ     SSB  R6DZ          59  010    59  089    818                               @  KN96CQ
+
+X 2015-07-05 0505 432MHZ     SSB  RA6LGV        59  011    59  033    0                                 @  KN97TG ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1410 144MHZ     SSB  UA6EC         59  001    59  001    8                                 @  LN14AE
+  2015-07-04 1413 144MHZ     SSB  RA6HVB        59  002    59  003    69                                @  LN14CU
+  2015-07-04 1427 144MHZ     SSB  RN6MA         59  003    59  003    275                               @  LN06UQ
+  2015-07-04 1518 144MHZ     SSB  R7AB          59  004    59  038    179                               @  KN94WD
+  2015-07-04 1520 144MHZ     SSB  R6AM          59  005    59  016    102                               @  LN04PW
+  2015-07-04 1522 144MHZ     SSB  R6YA          59  006    59  010    86                                @  LN04MF
+  2015-07-04 1623 144MHZ     SSB  R7HN          59  007    59  001    72                                @  LN13IR
+  2015-07-04 1629 144MHZ     SSB  RZ6A          59  008    59  017    243                               @  LN05AU
+  2015-07-04 1640 144MHZ     SSB  UA6HHE        59  009    59  009    93                                @  LN05XB
+
+X 2015-07-04 1642 144MHZ     SSB  UA6FA         59  010    59  009    0                                 @  LN13GU ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1645 144MHZ     SSB  RV6FZ         59  011    59  009    0                                    LN04XX ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RV6FX(14))
+  2015-07-04 1655 144MHZ     SSB  RW6HB         59  012    59  010    121                               @  LN13QO
+  2015-07-04 1710 144MHZ     SSB  RT7G          59  013    59  035    94                                @  LN05WB
+  2015-07-04 1718 144MHZ     SSB  UB6A          59  014    59  010    196                                  LN05CI
+  2015-07-05 0306 144MHZ     SSB  R7BR          59  015    59  046    166                               @  LN05KK
+  2015-07-05 0446 144MHZ     SSB  R6DZ          59  016    59  150    409                               @  KN96CQ
+X 2015-07-05 0458 144MHZ     SSB  RA6LGV        59  017    59  050    0                                 @  KN97TG ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0630 144MHZ     SSB  RX6APY        59  018    59  063    288                               @  KN94GQ

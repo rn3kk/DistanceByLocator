@@ -1,0 +1,62 @@
+Callsign: R3EK
+QTH Locator: KO83AA
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      32           11    1         4663
+  435 MHz       9            7    0          286
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               41           18    1         4949
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1408 144MHZ     SSB  RO3E          59  001    599 003    0                                    KO82HV ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RO2E(58))
+X 2015-07-04 1414 144MHZ     SSB  R2EA          59  002    59  006    0                                 @  KO82JI ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1429 144MHZ     SSB  R5DC/3        59  003    59  015    135                               @  KO83SU
+  2015-07-04 1433 144MHZ     SSB  RW3WR         59  004    59  029    189                               @  KO71IM
+  2015-07-04 1622 144MHZ     SSB  UR3LBL        59  005    59  024    310                               @  KO80AF
+  2015-07-04 1626 144MHZ     SSB  RM7T/3        59  006    59  065    274                               @  KO90CW
+X 2015-07-04 1728 144MHZ     CW   RC3ZB         599 007    599 026    0                                 @  KO81OB ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 1734 144MHZ     CW   UT4L/P        599 008    599 026    0                                 @  KN89KJ ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1802 144MHZ     SSB  RZ3EL         59  009    59  012    34                                @  KO82GW
+X 2015-07-04 1855 144MHZ     SSB  R2DU          59  010    59  046    0                                 @  KO94UR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:55:00  GMT 145 MHz SSB R2DU 59(9) 46#KO84UR R3EK 59(9) 10#KO83AA)
+
+  2015-07-04 1901 144MHZ     SSB  RN3AC/3       59  011    59  025    446                               @  KO76FW
+  2015-07-04 1911 144MHZ     SSB  RW3DVW        59  012    59  032    230                               @  KO84QW
+  2015-07-04 1915 144MHZ     SSB  RD3BA         59  013    59  045    275                               @  KO75RL
+  2015-07-04 1933 144MHZ     SSB  RK3DWW/3      59  014    59  030    40                                @  KO82DQ
+  2015-07-04 1956 144MHZ     CW   RC3P          599 015    599 085    144                               @  KO93CA
+  2015-07-04 2038 144MHZ     SSB  UT8LE         59  016    59  036    342                               @  KN79WW
+  2015-07-04 2102 144MHZ     CW   RK2Y          599 017    599 017    126                               @  KO73CH
+X 2015-07-04 2104 144MHZ     CW   RK3R          59  018    599 065    0                                 @  KO82NO ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 2105 144MHZ     SSB  RN3ZJJ        59  019    59  038    0                                 @  KO70WO ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0424 144MHZ     SSB  UA3XCR        59  020    59  083    134                               @  KO73IW
+
+  2015-07-05 0507 144MHZ     CW   RK3XWO        599 021    599 071    208                               @  KO84DV
+  2015-07-05 0545 144MHZ     SSB  UV2L/P        59  022    59  096    398                               @  KN89AK
+  2015-07-05 0607 144MHZ     SSB  US5AEP        59  023    59  128    301                               @  KO70LJ
+X 2015-07-05 0726 144MHZ     CW   RA3AK         599 024    599 005    0                                    KO95DL ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-05 0726 144MHZ     CW   RA3A          599 025    599 005    0                                    KO95DL ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RX3A(60), RA4A(30))
+  2015-07-05 0813 144MHZ     SSB  R3ZP          59  026    59  037    243                               @  KO80NW
+  2015-07-05 0820 144MHZ     SSB  RW3WR         59  027    59  211    0  DUP                            @  KO71IM
+  2015-07-05 0905 144MHZ     SSB  UA3LID        59  028    59  094    245                               @  KO64PM
+X 2015-07-05 0954 144MHZ     SSB  R3PG          59  029    59  976    0                                 @  KO84UJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  09:51:00  GMT 145 MHz SSB R3PG 59(9) 76#KO84UJ R3EK 59(9) 29#KO83AA)
+  2015-07-05 1000 144MHZ     SSB  RA3DEM        59  030    59  081    391                               @  KO96CH
+
+  2015-07-05 1009 144MHZ     SSB  RW3WP         59  031    59  111    198                               @  KO91CT
+X 2015-07-05 1025 144MHZ     SSB  R2YAA         59  032    59  029    0                                 @  KO71DH ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  10:25:00  GMT 145 MHz SSB R2YAA 59(9) 29#KO73DH R3EK 59(9) 32#KO83AA)
+X 2015-07-04 1515 432MHZ     SSB  RO3E          59  001    59  017    0                                    KO82HV ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RO2E(7))
+  2015-07-04 1523 432MHZ     SSB  RK3DWW/3      59  002    59  020    80                                @  KO82DQ
+X 2015-07-04 1804 432MHZ     SSB  RZ3EL         59  003    59  013    0                                 @  KO82GW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:04:00  GMT 435 MHz SSB RZ3EL 59(9) 1#KO82GW R3EK 59(9) 10#KO83AA), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:04:00  GMT 435 MHz SSB RZ3EL 59(9) 1#KO82GW R3EK 59(9) 10#KO83AA)
+X 2015-07-04 2020 432MHZ     SSB  R5DC/3        59  004    59  037    0                                 @  KO83SU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:20:00  GMT 435 MHz SSB R5DC/3 59(9) 37#KO83SU R3EK 59(9) 16#KO83AA)
+  2015-07-04 2155 432MHZ     CW   RW3PX         599 005    599 063    206                               @  KO83RJ
+X 2015-07-05 0607 432MHZ     CW   RW3L          599 006    599 063    0                                    KO73RJ ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-05 0620 432MHZ     CW   R2EA          599 007    599 078    0                                 @  KO82JI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+X 2015-07-05 0622 432MHZ     CW   UA3XCR        599 008    599 070    0                                 @  KO73IW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+
+X 2015-07-05 0638 432MHZ     SSB  UA3M          59  009    59  078    0                                 @  KO70VQ ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE, QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND

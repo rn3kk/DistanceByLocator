@@ -1,0 +1,30 @@
+Callsign: RG7A
+QTH Locator: KN93VN
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      12            0    0         3552
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            0    0         3552
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1407 145MHZ     SSB  R6DZ          59  001    59  007    368                               @  KN96CQ
+  2015-07-04 1412 145MHZ     SSB  RK6YYY        59  002    59  005    126                               @  LN04AQ
+  2015-07-04 1415 145MHZ     CW   RX7K          599 003    599 005    412                               @  KN75MB
+  2015-07-04 1417 145MHZ     CW   UA6AX         599 004    599 001    179                               @  KN95LB
+  2015-07-04 1442 145MHZ     CW   R7AB          599 005    599 024    65                                @  KN94WD
+  2015-07-04 1450 145MHZ     SSB  UA7KN         59  006    59  032    357                               @  KN85BK
+  2015-07-04 1458 145MHZ     SSB  UA6BI         59  007    59  008    166                               @  KN94DO
+  2015-07-04 1548 145MHZ     CW   R7KR          599 008    599 022    330                               @  KN85FI
+  2015-07-04 1550 145MHZ     CW   RU6K          599 009    599 026    459                               @  KN74DT
+  2015-07-04 1601 145MHZ     CW   R6CS          599 010    599 030    294                               @  KN95BW
+
+  2015-07-04 1603 145MHZ     CW   R6KW          599 011    599 034    450                               @  KN75GC
+  2015-07-04 1641 145MHZ     CW   UA7R/5        599 012    599 028    346                               @  KN85CI

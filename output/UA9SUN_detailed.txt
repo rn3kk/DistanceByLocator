@@ -1,0 +1,30 @@
+Callsign: UA9SUN
+QTH Locator: LO81QM
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      12            3    0         1502
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            3    0         1502
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1624 144MHZ     SSB  R9SAM         59  001    59  007    78                                   LO81EU
+X 2015-07-04 1625 144MHZ     SSB  RX9TM         59  002    59  006    0                                 @  LO91AF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  16:25:00  GMT 145 MHz SSB RX9TM 59(9) 6#LO91AE UA9SUN 59(9) 2#LO81QM)
+  2015-07-04 1815 144MHZ     SSB  RX9SN         59  003    59  010    214                                  LO72EB
+  2015-07-04 1819 144MHZ     SSB  RA9SOA        59  004    59  015    219                               @  LO72DA
+  2015-07-04 1823 144MHZ     SSB  RC8SAB        59  005    59  007    164                               @  LO71MT
+X 2015-07-04 1851 144MHZ     SSB  UN7IV         59  006    59  002    0                                    LO80OG ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0033 144MHZ     SSB  R9SCB         59  007    59  008    146                                  LO72RC
+  2015-07-05 0042 144MHZ     SSB  R9SAT         59  008    59  005    163                                  LO71MS
+  2015-07-05 0102 144MHZ     SSB  RK8T          59  009    59  047    136                               @  LO91PT
+  2015-07-05 0211 144MHZ     SSB  UA9SIV        59  010    59  005    213                               @  LO71DK
+
+  2015-07-05 0251 144MHZ     SSB  RX9SR         59  011    59  009    169                                  LO71LT
+X 2015-07-05 0318 144MHZ     SSB  RZ9AYA        59  012    59  055    0                                 @  LO94QD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  03:19:00  GMT 145 MHz SSB RZ9AYA 59(9) 54#LO94QD UA9SUN 59(9) 12#LO81QM)

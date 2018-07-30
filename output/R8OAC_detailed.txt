@@ -1,0 +1,64 @@
+Callsign: R8OAC
+QTH Locator: NO15JB
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      29            4    0         1934
+  435 MHz      14            2    0          464
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               43            6    0         2398
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1415 144MHZ     SSB  RV9OW         59  001    59  005    1                                 @  NO15JB
+  2015-07-04 1435 144MHZ     SSB  R9OBF         59  002    59  009    5                                 @  NO15KB
+  2015-07-04 1436 144MHZ     SSB  R9OBO         59  003    59  012    14                                   NO14KW
+  2015-07-04 1438 144MHZ     SSB  RW9OWM        59  004    59  006    10                                @  NO14KX
+  2015-07-04 1441 144MHZ     SSB  UA9OWA        59  005    59  009    28                                @  NO15IH
+  2015-07-04 1443 144MHZ     SSB  RA9ODA        59  006    59  015    18                                @  NO14MX
+  2015-07-04 1448 144MHZ     SSB  R9OBA         59  007    59  012    53                                @  NO14MO
+  2015-07-04 1450 144MHZ     SSB  UA9OTC        59  008    59  011    40                                @  NO14MR
+  2015-07-04 1450 144MHZ     SSB  UB9OBL        59  009    59  002    10                                @  NO14KX
+X 2015-07-04 1455 144MHZ     SSB  RA9OAS        59  010    59  017    0                                 @  NO15LA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:55:00  GMT 145 MHz SSB RA9OAS 59(9) 17#NO15LA R8OAS 59(9) 10#NO15JB)
+
+  2015-07-04 1459 144MHZ     SSB  RA9OD         59  011    59  005    25                                @  NO15FE
+  2015-07-04 1554 144MHZ     SSB  UA9OUI        59  012    59  006    5                                    NO15KB
+  2015-07-04 1559 144MHZ     SSB  RA9OEG        59  013    59  011    28                                @  NO14MU
+  2015-07-04 1602 144MHZ     SSB  UA9OLB        59  014    59  021    32                                @  NO15KI
+X 2015-07-04 1610 144MHZ     SSB  R9OY          59  015    59  006    0                                 @  NO14LO ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1631 144MHZ     SSB  UB9OCT        59  016    59  013    7                                    NO15KC
+  2015-07-04 1632 144MHZ     SSB  UA9OGZ        59  017    59  016    10                                @  NO14KX
+  2015-07-04 1652 144MHZ     SSB  UA9OK         59  018    59  011    74                                @  NO15XC
+  2015-07-04 1740 144MHZ     SSB  RV9PP         59  019    59  016    10                                @  NO15LB
+X 2015-07-04 1823 144MHZ     SSB  RC9YC         59  020    59  040    0                                 @  NO13UE ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:23:00  GMT 145 MHz SSB RC9YC 59(9) 40#NO13UE R8OAC 59(9) 20#NO15YB)
+
+  2015-07-05 0015 144MHZ     SSB  RZ9OXA        59  021    59  028    60                                @  NO14PO
+  2015-07-05 0103 144MHZ     SSB  UB8ZAD        59  022    59  018    401                               @  NO21XX
+  2015-07-05 0121 144MHZ     SSB  UA9ZBK        59  023    59  019    401                               @  NO21XX
+  2015-07-05 0158 144MHZ     SSB  UB9YAK        59  024    59  064    290                               @  NO33AG
+  2015-07-05 0159 144MHZ     SSB  RA9YHK        59  025    59  074    290                               @  NO33AG
+  2015-07-05 0612 144MHZ     SSB  UA9OBA        59  026    59  015    10                                @  NO14KX
+  2015-07-05 0701 144MHZ     SSB  R9OBS         59  027    59  066    81                                @  NO14RK
+X 2015-07-05 0959 144MHZ     SSB  R8OBZ         59  028    59  023    0                                    NO14OX ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 1305 144MHZ     SSB  UB9OAF        59  029    59  004    31                                @  NO14NU
+  2015-07-04 1502 432MHZ     SSB  R9OBF         59  001    59  002    10                                @  NO15KB
+
+  2015-07-04 1504 432MHZ     SSB  UA9OWA        59  002    59  005    56                                @  NO15IH
+X 2015-07-04 1512 432MHZ     SSB  RW9PP         59  003    59  006    0                                 @  NO15LB ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  15:12:00  GMT 435 MHz SSB RV9PP 59(9) 6#NO15LB R8OAC 59(9) 3#NO15JB)
+  2015-07-04 1603 432MHZ     SSB  UA9OLB        59  004    59  005    64                                @  NO15KI
+  2015-07-04 1628 432MHZ     SSB  RW9OWM        59  005    59  002    20                                @  NO14KX
+  2015-07-04 1657 432MHZ     SSB  RA9OD         59  006    59  002    50                                @  NO15FE
+  2015-07-04 1659 432MHZ     SSB  UA9OGZ        59  007    59  001    20                                @  NO14KX
+  2015-07-04 1704 432MHZ     SSB  RA9OEG        59  008    59  003    56                                @  NO14MU
+  2015-07-04 1930 432MHZ     SSB  R9OBA         59  009    59  011    106                               @  NO14MO
+X 2015-07-05 0415 432MHZ     SSB  R9OY          59  010    59  006    0                                 @  NO14LO ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0436 432MHZ     SSB  UB9OCT        59  011    59  004    14                                   NO15KC
+
+  2015-07-05 0536 432MHZ     SSB  R9OBO         59  012    59  006    28                                   NO14KW
+  2015-07-05 0543 432MHZ     SSB  UB9OBL        59  013    59  005    20                                @  NO14KX
+  2015-07-05 0615 432MHZ     SSB  UA9OBA        59  014    59  004    20                                @  NO14KX

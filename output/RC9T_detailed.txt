@@ -1,0 +1,19 @@
+Callsign: RC9T
+QTH Locator: LO91CE
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       2            2    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                2            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1548 144MHZ     SSB  RX9TM         59  001    59  001    0                                 @  LO91AF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:48:00  GMT 145 MHz SSB RX9TM 59(9) 1#LO91AE RC9T 59(9) 1#LO91CE)
+X 2015-07-04 1600 144MHZ     SSB  RU9S          59  002    59  002    0                                    LO91FF ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE

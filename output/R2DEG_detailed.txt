@@ -1,0 +1,24 @@
+Callsign: R2DEG
+QTH Locator: KO86RA
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            0    0          537
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                7            0    0          537
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1639 144MHZ     SSB  R2ADL         59  001    59  021    25                                @  KO85PT
+  2015-07-04 2041 144MHZ     SSB  R3AA          59  002    59  010    20                                   KO86UD
+  2015-07-04 2209 144MHZ     SSB  RT2M          59  003    59  093    137                               @  KO97GC
+  2015-07-05 0435 144MHZ     SSB  RK5D          59  004    59  063    29                                @  KO86WD
+  2015-07-05 0453 144MHZ     SSB  UA3X          59  005    59  074    127                               @  KO84JW
+  2015-07-05 0521 144MHZ     SSB  RA3DEM        59  006    59  071    56                                @  KO96CH
+  2015-07-05 0616 144MHZ     SSB  RA3ACY        59  007    59  059    143                                  KO84RR

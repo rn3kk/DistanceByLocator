@@ -1,0 +1,80 @@
+Callsign: RY9MAA
+QTH Locator: MO65QA
+Category: MULTI-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      36            1    0         2970
+  435 MHz      22            1    0         1094
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               58            2    0         4064
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1418 432MHZ     SSB  RV9MA         59  001    59  003    20                                @  MO65SA
+  2015-07-04 1418 432MHZ     SSB  RA9MA         59  002    59  007    42                                @  MO64MX
+  2015-07-04 1419 432MHZ     SSB  RU9MB         59  003    59  003    20                                @  MO65SA
+  2015-07-04 1419 432MHZ     SSB  R9MAO         59  004    59  002    20                                   MO64PW
+X 2015-07-04 1419 432MHZ     SSB  RK9MWO        59  005    59  002    0                                 @  MO74BV ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:19:00  GMT 435 MHz SSB RK9MWO 59(9) 2#MO74BV RY9MAA 59(9) 4#MO65QA)
+  2015-07-04 1422 432MHZ     SSB  RT9M          59  006    59  005    148                               @  MO75GB
+  2015-07-04 1423 432MHZ     SSB  RK9M          59  007    59  005    54                                   MO64QS
+  2015-07-04 1425 432MHZ     SSB  UA9MQC        59  008    59  002    80                                @  MO65NI
+  2015-07-04 1454 432MHZ     SSB  RC9M          59  009    59  009    14                                @  MO64RX
+  2015-07-04 1515 432MHZ     SSB  UA9MJW        59  010    59  008    184                               @  MO74BH
+
+  2015-07-04 1515 432MHZ     SSB  UA9ML         59  011    59  005    22                                @  MO64SX
+  2015-07-04 1516 432MHZ     SSB  UA9MBQ        59  012    59  007    18                                @  MO64QW
+  2015-07-04 1517 432MHZ     SSB  R9MM          59  013    59  015    62                                @  MO65MF
+  2015-07-04 1518 432MHZ     SSB  UA9MCD        59  014    59  007    28                                @  MO64RV
+  2015-07-04 1520 432MHZ     SSB  RU9MC         59  015    59  004    10                                @  MO65PA
+  2015-07-04 1546 432MHZ     SSB  RL9M          59  016    59  011    36                                @  MO64TW
+  2015-07-04 1549 432MHZ     SSB  RA9MKH        59  017    59  008    124                               @  MO74AO
+  2015-07-04 1633 432MHZ     SSB  R8MZ          59  018    59  003    36                                @  MO65TC
+  2015-07-04 1636 432MHZ     SSB  UA9MCY        59  019    59  010    42                                @  MO64MX
+  2015-07-04 1713 432MHZ     SSB  RC9MAA        59  020    59  002    76                                @  MO65JC
+
+  2015-07-04 1748 432MHZ     SSB  UA9MKW        59  021    59  011    36                                @  MO64TW
+  2015-07-05 0921 432MHZ     SSB  RA9MDJ        59  022    59  001    22                                @  MO64SX
+  2015-07-04 1401 144MHZ     SSB  RK9MWO        59  001    59  001    49                                @  MO74BV
+  2015-07-04 1401 144MHZ     SSB  RU9MB         59  002    59  001    10                                @  MO65SA
+  2015-07-04 1401 144MHZ     SSB  UA9MQA        59  003    59  001    56                                   MO74CU
+  2015-07-04 1402 144MHZ     SSB  UA9MBQ        59  004    59  002    9                                 @  MO64QW
+  2015-07-04 1404 144MHZ     SSB  UA9MQC        59  005    59  002    40                                @  MO65NI
+  2015-07-04 1406 144MHZ     SSB  RA9MX         59  006    59  006    1                                 @  MO65QA
+  2015-07-04 1408 144MHZ     SSB  R9MM          59  007    59  008    31                                @  MO65MF
+  2015-07-04 1409 144MHZ     SSB  UA9MHG        59  008    59  002    217                               @  MO76EV
+
+  2015-07-04 1412 144MHZ     SSB  RL9M          59  009    59  006    18                                @  MO64TW
+  2015-07-04 1413 144MHZ     SSB  UA9ML         59  010    59  007    11                                @  MO64SX
+  2015-07-04 1414 144MHZ     SSB  RT9M          59  011    59  008    74                                @  MO75GB
+  2015-07-04 1415 144MHZ     SSB  RK9M          59  012    59  009    27                                   MO64QS
+  2015-07-04 1428 144MHZ     SSB  RA9MA         59  013    59  003    21                                @  MO64MX
+  2015-07-04 1443 144MHZ     SSB  R9MAO         59  014    59  010    10                                   MO64PW
+  2015-07-04 1444 144MHZ     SSB  RA9MKR        59  015    59  002    65                                @  MO65RO
+  2015-07-04 1450 144MHZ     SSB  RA9MDJ        59  016    59  009    11                                @  MO64SX
+  2015-07-04 1453 144MHZ     SSB  RC9M          59  017    59  017    7                                 @  MO64RX
+  2015-07-04 1507 144MHZ     SSB  RU9MR         59  018    59  014    5                                 @  MO65RA
+
+  2015-07-04 1509 144MHZ     SSB  RC9MAA        59  019    59  018    38                                @  MO65JC
+  2015-07-04 1511 144MHZ     SSB  RA9MKH        59  020    59  004    62                                @  MO74AO
+  2015-07-04 1513 144MHZ     SSB  UA9MJW        59  021    59  009    92                                @  MO74BH
+  2015-07-04 1522 144MHZ     SSB  RO9N          59  022    59  015    10                                @  MO64RW
+  2015-07-04 1524 144MHZ     SSB  RK9Y          59  023    59  023    363                               @  MO93AF
+  2015-07-04 1538 144MHZ     SSB  UA9MCY        59  024    59  002    21                                @  MO64MX
+  2015-07-04 1541 144MHZ     SSB  UA9MB         59  025    59  012    98                                @  MO54WT
+  2015-07-04 1554 144MHZ     SSB  UB9MBD        59  026    59  006    4                                    MO64QX
+X 2015-07-04 1556 144MHZ     SSB  RK9MXW        59  027    59  003    0                                 @  MO74AI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:56:00  GMT 145 MHz SSB RK9MXW 59(9) 4#MO74AI RY9MAA 59(9) 27#MO65QA)
+  2015-07-04 1631 144MHZ     SSB  R8MZ          59  028    59  021    18                                @  MO65TC
+
+  2015-07-04 1645 144MHZ     SSB  UA9NS         59  029    59  006    125                               @  MO54VI
+  2015-07-04 1647 144MHZ     SSB  R9MZAN        59  030    59  003    146                               @  MO54RH
+  2015-07-04 1649 144MHZ     SSB  R9MZAO        59  031    59  003    146                               @  MO54RH
+  2015-07-04 1749 144MHZ     SSB  UA9MKW        59  032    59  013    18                                @  MO64TW
+  2015-07-04 1932 144MHZ     SSB  UA9MJH        59  033    59  005    1                                 @  MO65QA
+  2015-07-04 2305 144MHZ     SSB  RT9L          59  034    59  027    544                               @  MO27RD
+  2015-07-05 0406 144MHZ     SSB  UN7CL         59  035    59  015    308                               @  MO44GW
+  2015-07-05 0549 144MHZ     SSB  UA9OSS        59  036    59  003    314                               @  MO95DI

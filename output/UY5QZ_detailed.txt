@@ -1,0 +1,31 @@
+Callsign: UY5QZ
+QTH Locator: KN77NT
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      13            1    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               13            1    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1424 145MHZ     SSB  UZ2Q/P        59  001    59  005    0                                 @  KN77NT
+X 2015-07-04 1431 145MHZ     SSB  UR4QXR/P      59  002    59  044    0                                    KN77SE ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(UR4QXS/P(75))
+  2015-07-04 1737 145MHZ     CW   UR4EWZ        599 003    599 054    0                                 @  KN87CX
+  2015-07-04 1745 145MHZ     SSB  UT7EL         59  004    59  054    0                                 @  KN77EN
+  2015-07-05 0353 145MHZ     SSB  UR1E/P        59  005    59  104    0                                 @  KN68OA
+  2015-07-05 0402 145MHZ     CW   UT2QQ         599 006    599 060    0                                 @  KN77SI
+  2015-07-05 0420 145MHZ     CW   RU6K          599 007    599 068    0                                 @  KN74DT
+  2015-07-05 0428 145MHZ     CW   UW7E/P        599 008    599 104    0                                 @  KN78MO
+  2015-07-05 0443 145MHZ     SSB  UX0QQ         59  009    59  105    0                                 @  KN87HH
+  2015-07-05 0455 145MHZ     SSB  US4IEK        59  010    59  107    0                                 @  KN87UX
+
+  2015-07-05 0523 145MHZ     SSB  UT0EZ         59  011    59  066    0                                 @  KN67SU
+  2015-07-05 0528 145MHZ     CW   UY5QO         599 012    599 047    0                                 @  KN77MT
+  2015-07-05 0530 145MHZ     CW   UT7QF         599 013    599 021    0                                 @  KN77MV

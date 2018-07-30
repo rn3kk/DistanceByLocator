@@ -1,0 +1,30 @@
+Callsign: UA9UNG
+QTH Locator: NO33VR
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      11            3    0          503
+  435 MHz       1            0    0           70
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            3    0          573
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1454 432MHZ     SSB  RW9V          59  001    59  009    70                                @  NO33QM
+  2015-07-04 1401 144MHZ     SSB  RC9UB         59  001    59  001    7                                 @  NO33WQ
+  2015-07-04 1403 144MHZ     SSB  RZ9UO         59  002    59  002    78                                @  NO33HV
+  2015-07-04 1410 144MHZ     SSB  RK8U          59  003    59  004    82                                @  NO43MR
+  2015-07-04 1413 144MHZ     SSB  RZ8U          59  004    59  010    43                                @  NO33NR
+X 2015-07-04 1416 144MHZ     SSB  RG8U          59  005    59  002    0                                 @  NO33NR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:16:00  GMT 145 MHz SSB RG8U 59(9) 2#NO33QU UA9UNG 59(9) 5#NO33VR)
+  2015-07-04 1417 144MHZ     SSB  RW9UZZ        59  007    59  009    7                                 @  NO33WQ
+  2015-07-04 1418 144MHZ     SSB  RV9UDW        59  008    59  002    34                                @  NO33PP
+X 2015-07-04 1418 144MHZ     SSB  RK9UZZ        59  009    59  004    0                                 @  NO33GW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:18:00  GMT 145 MHz SSB RK9UZZ 59(9) 4#NO33GW UA9UNG 59(9) 9#NO33UR)
+X 2015-07-04 1417 144MHZ     SSB  RZ9UMA        59  006    59  003    0                                 @  NO33HV ERROR(S): QSO_ERROR_SENT_NUMBER_ORDER_ERROR, QSO_ERROR_TIME_ORDER_ERROR
+
+  2015-07-04 1439 144MHZ     SSB  RA9YHK        59  010    59  014    126                               @  NO33AG
+  2015-07-04 1440 144MHZ     SSB  UB9YAK        59  011    59  014    126                               @  NO33AG

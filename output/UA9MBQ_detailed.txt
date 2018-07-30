@@ -1,0 +1,91 @@
+Callsign: UA9MBQ
+QTH Locator: MO64QW
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      35            4    0         2417
+  435 MHz      21            3    0         2286
+  1.3 GHz      12            1    0         2464
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               68            8    0         7167
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1504 1.3GHZ     SSB  RC9M          59  001    59  002    28                                @  MO64RX
+  2015-07-04 1537 1.3GHZ     SSB  R9MM          59  002    59  005    152                               @  MO65MF
+  2015-07-04 1539 1.3GHZ     SSB  RA9MKH        59  003    59  003    224                               @  MO74AO
+  2015-07-04 1549 1.3GHZ     SSB  RT9M          59  004    59  003    300                               @  MO75GB
+  2015-07-04 1619 1.3GHZ     SSB  RA9MA         59  005    59  002    84                                @  MO64MX
+  2015-07-04 1620 1.3GHZ     SSB  UA9MCY        59  006    59  001    84                                @  MO64MX
+  2015-07-04 1712 1.3GHZ     SSB  UA9MKW        59  007    59  003    60                                @  MO64TW
+  2015-07-04 1718 1.3GHZ     SSB  RK9Y          59  008    59  007    1432                              @  MO93AF
+  2015-07-05 0202 1.3GHZ     SSB  UA9MJH        59  009    59  005    36                                @  MO65QA
+  2015-07-05 0210 1.3GHZ     SSB  UA9MJ         59  010    59  004    20                                @  MO64RW
+
+X 2015-07-05 0215 1.3GHZ     SSB  UA9NNN        59  011    59  003    0                                    MO65QW ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0230 1.3GHZ     SSB  UA9ML         59  012    59  004    44                                @  MO64SX
+  2015-07-04 1502 432MHZ     SSB  UA9MCD        59  001    59  003    14                                @  MO64RV
+  2015-07-04 1503 432MHZ     SSB  R9MAO         59  002    59  007    10                                   MO64PW
+  2015-07-04 1503 432MHZ     SSB  RC9M          59  003    59  014    14                                @  MO64RX
+  2015-07-04 1512 432MHZ     SSB  RV9MA         59  004    59  013    28                                @  MO65SA
+  2015-07-04 1513 432MHZ     SSB  RO9N          59  005    59  009    10                                @  MO64RW
+  2015-07-04 1515 432MHZ     SSB  RK9M          59  006    59  013    36                                   MO64QS
+  2015-07-04 1516 432MHZ     SSB  RY9MAA        59  007    59  012    18                                @  MO65QA
+  2015-07-04 1517 432MHZ     SSB  UA9MJW        59  008    59  009    168                               @  MO74BH
+
+  2015-07-04 1520 432MHZ     SSB  RU9MC         59  009    59  005    20                                @  MO65PA
+  2015-07-04 1535 432MHZ     SSB  R9MM          59  010    59  017    76                                @  MO65MF
+  2015-07-04 1541 432MHZ     SSB  RA9MKH        59  011    59  005    112                               @  MO74AO
+  2015-07-04 1552 432MHZ     SSB  RT9M          59  012    59  011    150                               @  MO75GB
+  2015-07-04 1617 432MHZ     SSB  UA9MCY        59  013    59  002    42                                @  MO64MX
+  2015-07-04 1617 432MHZ     SSB  RA9MA         59  014    59  011    42                                @  MO64MX
+X 2015-07-04 1700 432MHZ     SSB  UA9NNN        59  015    59  003    0                                    MO65QW ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1706 432MHZ     SSB  RK9Y          59  016    59  018    716                               @  MO93AF
+X 2015-07-04 1708 432MHZ     SSB  UA9MKW        59  017    59  005    0                                 @  MO64TW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:08:00  GMT 435 MHz SSB UA9MKW 59(9) 5#MO64TW UA9MBQ 59(9) 16#MO64QW)
+X 2015-07-05 0205 432MHZ     SSB  UA9MJH        59  018    59  014    0                                 @  MO65QA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  02:05:00  GMT 435 MHz SSB UA9MJH 59(9) 14#MO65QA UA9MBQ 59(9) 19#MO64QW)
+
+  2015-07-05 0228 432MHZ     SSB  UA9ML         59  019    59  012    22                                @  MO64SX
+  2015-07-05 1032 432MHZ     SSB  UN7CL         59  020    59  009    616                               @  MO44GW
+  2015-07-05 1228 432MHZ     CW   UA9MB         599 021    599 003    192                               @  MO54WT
+  2015-07-04 1401 144MHZ     SSB  RT9M          59  001    59  001    75                                @  MO75GB
+  2015-07-04 1402 144MHZ     SSB  RY9MAA        59  002    59  004    9                                 @  MO65QA
+  2015-07-04 1403 144MHZ     SSB  R9MM          59  003    59  004    38                                @  MO65MF
+  2015-07-04 1403 144MHZ     SSB  UA9MQA        59  004    59  004    54                                   MO74CU
+  2015-07-04 1410 144MHZ     SSB  UA9ML         59  005    59  005    11                                @  MO64SX
+  2015-07-04 1410 144MHZ     SSB  RU9MB         59  006    59  006    14                                @  MO65SA
+  2015-07-04 1413 144MHZ     SSB  RL9M          59  007    59  008    15                                @  MO64TW
+
+  2015-07-04 1416 144MHZ     SSB  RO9N          59  008    59  002    5                                 @  MO64RW
+  2015-07-04 1417 144MHZ     SSB  UA9MQC        59  009    59  007    48                                @  MO65NI
+  2015-07-04 1419 144MHZ     SSB  RK9M          59  010    59  013    18                                   MO64QS
+  2015-07-04 1420 144MHZ     SSB  RA9MX         59  011    59  012    9                                 @  MO65QA
+  2015-07-04 1421 144MHZ     SSB  RC9MAA        59  012    59  004    41                                @  MO65JC
+  2015-07-04 1423 144MHZ     SSB  R9MAO         59  013    59  007    5                                    MO64PW
+  2015-07-04 1423 144MHZ     SSB  RC9M          59  014    59  008    7                                 @  MO64RX
+  2015-07-04 1424 144MHZ     SSB  RK9MWO        59  015    59  006    48                                @  MO74BV
+  2015-07-04 1432 144MHZ     SSB  RK9Y          59  016    59  011    358                               @  MO93AF
+  2015-07-04 1445 144MHZ     SSB  RA9MKR        59  017    59  003    74                                @  MO65RO
+
+  2015-07-04 1453 144MHZ     SSB  RA9MA         59  018    59  014    21                                @  MO64MX
+  2015-07-04 1457 144MHZ     SSB  UA9MJW        59  019    59  006    84                                @  MO74BH
+X 2015-07-04 1500 144MHZ     SSB  UA9NNN        59  020    59  003    0                                    MO65QW ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1528 144MHZ     SSB  UA9MB         59  021    59  010    96                                @  MO54WT
+  2015-07-04 1542 144MHZ     SSB  RA9MKH        59  022    59  005    56                                @  MO74AO
+  2015-07-04 1544 144MHZ     SSB  RU9MR         59  023    59  020    10                                @  MO65RA
+  2015-07-04 1601 144MHZ     SSB  RK9MXW        59  024    59  008    77                                @  MO74AI
+  2015-07-04 1602 144MHZ     SSB  R8MZ          59  025    59  020    24                                @  MO65TC
+  2015-07-04 1605 144MHZ     SSB  UA9MCY        59  026    59  007    21                                @  MO64MX
+X 2015-07-04 1639 144MHZ     SSB  UA9NS         59  027    59  004    0                                 @  MO54VI ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+
+X 2015-07-04 1700 144MHZ     SSB  UAA9NNA       59  028    59  003    0                                    MO65QW ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1703 144MHZ     SSB  UA9MKW        59  029    59  005    15                                @  MO64TW
+X 2015-07-05 0030 144MHZ     SSB  UA9NNB        59  030    59  003    0                                    MO64QW ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0039 144MHZ     SSB  UN7CL         59  031    59  012    308                               @  MO44GW
+  2015-07-05 0046 144MHZ     SSB  UA9MJH        59  032    59  012    9                                 @  MO65QA
+  2015-07-05 0104 144MHZ     SSB  RT9L          59  033    59  038    548                               @  MO27RD
+  2015-07-05 0121 144MHZ     SSB  UB9MBD        59  034    59  012    4                                    MO64QX
+  2015-07-05 0547 144MHZ     SSB  UA9OSS        59  035    59  002    315                               @  MO95DI

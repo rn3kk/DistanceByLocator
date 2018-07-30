@@ -1,0 +1,20 @@
+Callsign: UA9OSS
+QTH Locator: MO95DI
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       3            0    0          908
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                3            0    0          908
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0504 144MHZ     SSB  UA9OWA        59  001    59  070    279                               @  NO15IH
+  2015-07-05 0547 144MHZ     SSB  UA9MBQ        59  002    59  035    315                               @  MO64QW
+  2015-07-05 0548 144MHZ     SSB  RY9MAA        59  003    59  036    314                               @  MO65QA

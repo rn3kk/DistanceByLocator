@@ -1,0 +1,26 @@
+Callsign: RK9AA
+QTH Locator: MO04SB
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       9            2    0          476
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                9            2    0          476
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0500 144MHZ     SSB  RK9AY         59  001    59  062    71                                @  MO03FX
+  2015-07-05 0506 144MHZ     SSB  UA9ACA        59  002    59  052    118                               @  LO94VI
+  2015-07-05 0509 144MHZ     SSB  UA9AE         59  003    59  024    32                                @  MO04SI
+  2015-07-05 0510 144MHZ     SSB  RZ9AYA        59  004    59  062    141                               @  LO94QD
+X 2015-07-05 0514 144MHZ     SSB  UN7LDX        59  005    59  021    0                                 @  MO03RX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  05:14:00  GMT 145 MHz SSB UN7LDX 59(9) 21#MO03XR RK9AA 59(9) 5#MO04SB)
+  2015-07-05 0524 144MHZ     SSB  UN1WB         59  006    59  037    40                                @  MO03VR
+  2015-07-05 0602 144MHZ     SSB  UN1WA         59  007    59  039    37                                @  MO03SR
+X 2015-07-05 0610 144MHZ     SSB  RX9AFQ        59  008    59  008    0                                 @  MO04TB ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0611 144MHZ     SSB  UN1WF         59  009    59  049    37                                @  MO03TR

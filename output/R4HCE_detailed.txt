@@ -1,0 +1,22 @@
+Callsign: R4HCE
+QTH Locator: LO43SH
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       5            2    0          998
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            2    0          998
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1742 144MHZ     SSB  RT4D          59  001    59  004    331                               @  LO21TM
+  2015-07-04 1828 144MHZ     SSB  RA9SOA        59  002    59  017    350                               @  LO72DA
+X 2015-07-04 1848 144MHZ     SSB  RC4I          59  003    59  035    0                                 @  LO54KA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+X 2015-07-04 1910 144MHZ     SSB  R4HF          59  004    59  002    0                                    LO53CH ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1917 144MHZ     SSB  RX4CQ         59  005    59  012    317                               @  LO30LW

@@ -1,0 +1,32 @@
+Callsign: RW6HB
+QTH Locator: LN13QO
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      14            4    0         2179
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               14            4    0         2179
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1429 144MHZ     SSB  RA6HVB        59  001    59  006    167                               @  LN14CU
+  2015-07-04 1510 144MHZ     SSB  R7MR          59  002    59  012    561                               @  LN08UM
+  2015-07-04 1518 144MHZ     SSB  RT7G          59  003    59  011    201                               @  LN05WB
+X 2015-07-04 1519 144MHZ     SSB  R7BR          59  004    59  014    0                                 @  LN05KK ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:17:00  GMT 145 MHz SSB R7BR 59(9) 14#LN05KK RW6HB 59(9) 4#LN13QQ)
+X 2015-07-04 1523 144MHZ     SSB  RY6YYY        59  005    59  019    0                                    LN04AX ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RK6YYY(35))
+  2015-07-04 1535 144MHZ     SSB  R6YA          59  006    59  012    199                               @  LN04MF
+  2015-07-04 1601 144MHZ     SSB  RZ6A          59  007    59  015    362                               @  LN05AU
+X 2015-07-04 1651 144MHZ     SSB  R7AB          59  008    59  055    0                                 @  KN94WD ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1656 144MHZ     SSB  UA6HHE        59  009    59  011    0                                 @  LN05XB ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1657 144MHZ     SSB  R7EG          59  010    59  012    121                               @  LN14BF
+
+  2015-07-04 1717 144MHZ     SSB  UB6A          59  011    59  008    317                                  LN05CI
+  2015-07-04 1739 144MHZ     SSB  UA6EC         59  012    59  011    124                               @  LN14AE
+  2015-07-04 1741 144MHZ     SSB  UA6FA         59  013    59  011    72                                @  LN13GU
+  2015-07-04 1743 144MHZ     SSB  R7HN          59  014    59  006    55                                @  LN13IR

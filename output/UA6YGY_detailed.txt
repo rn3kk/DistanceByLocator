@@ -1,0 +1,22 @@
+Callsign: UA6YGY
+QTH Locator: MO04TA
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       3            3    0            0
+  435 MHz       2            2    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            5    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-05 0430 432MHZ     SSB  RX9AFQ        59  001    59  009    0                                 @  MO04TB ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:30:00  GMT 435 MHz SSB RX9AFQ 59(9) 9#MO04TB UA6YGY/8 59(9) 1#MO04TA)
+X 2015-07-05 0436 432MHZ     SSB  RK9AY         59  002    59  031    0                                 @  MO03FX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:46:00  GMT 435 MHz SSB RK9AY 59(9) 31#MO03FX UA6YGY/8 59(9) 2#MO04TA), QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-05 0445 144MHZ     SSB  RK9AY         59  001    59  060    0                                 @  MO03FX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:45:00  GMT 145 MHz SSB RK9AY 59(9) 60#MO03FX UA6YGY/8 59(9) 1#MO04TA)
+X 2015-07-05 0457 144MHZ     SSB  UA9AC         59  002    59  002    0                                 @  MO04TA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:56:00  GMT 145 MHz SSB UA9AC 59(9) 2#MO04TA UA6YGY/8 59(9) 2#MO04TA)
+X 2015-07-05 0520 144MHZ     SSB  UB8AAF        59  003    59  002    0                                 @  MO04SC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  05:20:00  GMT 145 MHz SSB UB8AAF 59(9) 2#MO04SC UA6YGY/8 59(9) 3#MO04TA)

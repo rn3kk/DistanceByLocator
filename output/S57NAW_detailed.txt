@@ -1,0 +1,120 @@
+Callsign: S57NAW
+QTH Locator: JN76PB
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz      94           12    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               94           12    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1400 432MHZ     SSB  S51ZO         59  001    59  002    0                                 @  JN86DR
+  2015-07-04 1401 432MHZ     SSB  HA1KYY        59  002    59  003    0                                 @  JN87FI
+  2015-07-04 1402 432MHZ     SSB  S59P          59  003    59  003    0                                 @  JN86AO
+  2015-07-04 1403 432MHZ     SSB  S53D          59  004    59  004    0                                 @  JN76BD
+  2015-07-04 1405 432MHZ     SSB  S59DGO        59  005    59  003    0                                 @  JN75FO
+  2015-07-04 1407 432MHZ     SSB  E70A          59  006    59  005    0                                 @  JN94GG
+  2015-07-04 1410 432MHZ     SSB  S52LY         59  007    59  005    0                                 @  JN76AA
+  2015-07-04 1416 432MHZ     SSB  OL3Z          59  008    59  020    0                                 @  JN79FX
+  2015-07-04 1422 432MHZ     SSB  S50C          59  009    59  012    0                                 @  JN76JG
+  2015-07-04 1426 432MHZ     SSB  IZ4JMU        59  010    59  011    0                                    JN54WE
+
+  2015-07-04 1430 432MHZ     SSB  9A1CMS        59  011    59  006    0                                 @  JN86DM
+  2015-07-04 1438 432MHZ     SSB  HA6W          59  012    59  028    0                                 @  KN08FB
+  2015-07-04 1440 432MHZ     SSB  I3NPF/4       59  013    59  013    0                                    JN63DV
+  2015-07-04 1441 432MHZ     SSB  IK3SSG        59  014    59  012    0                                    JN55XH
+  2015-07-04 1444 432MHZ     SSB  OM3KII        59  015    59  036    0                                 @  JN88UU
+  2015-07-04 1451 432MHZ     SSB  DQ7A          59  016    59  013    0                                 @  JN59RJ
+  2015-07-04 1454 432MHZ     SSB  I4CIV         59  017    59  012    0                                    JN63FX
+  2015-07-04 1517 432MHZ     SSB  9A3DF         59  018    59  012    0                                 @  JN86HF
+  2015-07-04 1522 432MHZ     SSB  OM3KTR        59  019    59  030    0                                 @  JN88VL
+  2015-07-04 1525 432MHZ     SSB  IZ7UMS        59  020    59  016    0                                    JN81GD
+
+  2015-07-04 1529 432MHZ     SSB  9A2UV         59  021    59  008    0                                 @  JN95GM
+  2015-07-04 1533 432MHZ     SSB  S51WX         59  022    59  010    0                                 @  JN75OS
+  2015-07-04 1536 432MHZ     SSB  S58M          59  023    59  005    0                                 @  JN76JC
+  2015-07-04 1546 432MHZ     SSB  HG7G          59  024    59  004    0                                 @  JN97LF
+X 2015-07-04 1548 432MHZ     SSB  HG5W          59  025    59  013    0                                 @  JN97HG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:48:00  GMT 435 MHz SSB HG5W 59(9) 13#JN97HG S57NA 59(9) 25#JN76PB)
+  2015-07-04 1549 432MHZ     SSB  9A1CEQ        59  026    59  009    0                                 @  JN85ER
+  2015-07-04 1553 432MHZ     SSB  HG7F          59  027    59  034    0                                 @  JN97KR
+  2015-07-04 1555 432MHZ     SSB  S57LM         59  028    59  007    0                                 @  JN76HD
+  2015-07-04 1617 432MHZ     SSB  9A0C          59  029    59  007    0                                 @  JN85AO
+  2015-07-04 1625 432MHZ     CW   OK2A          599 030    599 101    0                                 @  JO60JJ
+
+  2015-07-04 1645 432MHZ     SSB  HA8XI         59  031    59  029    0                                 @  JN96SW
+  2015-07-04 1653 432MHZ     SSB  HA5KDQ        59  032    59  084    0                                 @  JN97LN
+  2015-07-04 1701 432MHZ     CW   UT5DV         599 033    599 014    0                                 @  KN18DO
+  2015-07-04 1713 432MHZ     CW   YU1LA         599 034    599 020    0                                    KN04FR
+  2015-07-04 1726 432MHZ     CW   9A5G          599 035    599 003    0                                 @  JN75GK
+  2015-07-04 1731 432MHZ     CW   YT0A          599 036    599 038    0                                    KN04FU
+  2015-07-04 1734 432MHZ     SSB  S57CN         59  037    59  006    0                                 @  JN75PS
+  2015-07-04 1748 432MHZ     SSB  OK1RN         59  038    59  122    0                                 @  JN79QJ
+  2015-07-04 1757 432MHZ     SSB  OK2I          59  039    59  051    0                                 @  JN89XX
+  2015-07-04 1803 432MHZ     SSB  S51WC         59  040    59  002    0                                 @  JN75OT
+
+X 2015-07-04 1816 432MHZ     SSB  OK1KFB        59  041    59  057    0                                 @  JN79BC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:16:00  GMT 435 MHz SSB OK1KFB 59(9) 57#JN79BC S57NAW 59(9) 21#JN76PB)
+  2015-07-04 1823 432MHZ     SSB  S53O          59  042    59  008    0                                 @  JN86AT
+  2015-07-04 1834 432MHZ     CW   OK1VUF        599 043    599 043    0                                 @  JN79IO
+X 2015-07-04 1841 432MHZ     SSB  S53FO         59  044    59  010    0                                 @  JN75ID ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  18:41:00  GMT 435 MHz SSB S53FO 59(9) 10#JN76ID S57NAW 59(9) 44#JN76PB)
+  2015-07-04 1901 432MHZ     SSB  9A1GIJ        59  045    59  003    0                                 @  JN85KV
+X 2015-07-04 1912 432MHZ     SSB  S51GF         59  046    59  013    0                                 @  JN75AV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1916 432MHZ     SSB  DO/OM0AB      59  047    59  107    0                                 @  JN59UK
+  2015-07-04 1922 432MHZ     SSB  OE8FNK/P      59  048    59  029    0                                    JN66UO
+X 2015-07-04 1926 432MHZ     SSB  9A1CFI        59  049    59  004    0                                 @  JN75OC ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1931 432MHZ     SSB  OK2C          59  050    59  051    0                                 @  JN99AJ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  19:31:00  GMT 435 MHz SSB OK2C 59(9) 51#JN99AJ S57NAL 59(9) 50#JN76PB)
+
+  2015-07-04 1933 432MHZ     SSB  9A6K          59  051    59  038    0                                 @  JN95HN
+  2015-07-04 1942 432MHZ     CW   I3NGL         599 052    599 015    0                                    JN65DR
+  2015-07-04 2003 432MHZ     SSB  OK1XFJ        59  053    59  101    0                                 @  JN69GX
+  2015-07-04 2014 432MHZ     SSB  OK5K          59  054    59  087    0                                 @  JN89VP
+  2015-07-04 2025 432MHZ     SSB  9A4VM         59  055    59  014    0                                 @  JN85FS
+  2015-07-04 2037 432MHZ     SSB  IZ3XHV        59  056    59  019    0                                    JN66EA
+  2015-07-04 2049 432MHZ     SSB  OK1KPA        59  057    59  123    0                                 @  JN79US
+  2015-07-04 2116 432MHZ     SSB  9A6DAC        59  058    59  007    0                                 @  JN75SL
+  2015-07-04 2218 432MHZ     CW   9A2KD         599 059    599 009    0                                 @  JN85EI
+X 2015-07-04 2237 432MHZ     SSB  DK0NA         59  060    52  155    0                                 @  JO50TI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  22:37:00  GMT 435 MHz SSB DK0NA 59(9) 155#JO50TI S57NAW 59(9) 30#JN76PB)
+
+  2015-07-04 2346 432MHZ     CW   OL7Q          599 061    599 073    0                                 @  JN99FN
+  2015-07-05 0525 432MHZ     SSB  OM1RV         59  062    59  007    0                                 @  JN88NC
+X 2015-07-05 0528 432MHZ     SSB  OM3KFV        59  063    59  040    0                                 @  JN99LD ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0530 432MHZ     SSB  9A4M          59  064    59  011    0                                 @  JN85EI
+  2015-07-05 0545 432MHZ     SSB  HA5S          59  065    59  046    0                                 @  JN97FQ
+X 2015-07-05 0549 432MHZ     SSB  OM3RJB        59  066    59  043    0                                 @  JN97AT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_MODE
+  2015-07-05 0554 432MHZ     SSB  I3GWE         59  067    59  003    0                                    JN55PS
+  2015-07-05 0720 432MHZ     CW   YU7A          599 068    599 085    0                                    KN05BW
+  2015-07-05 0738 432MHZ     SSB  IQ1KW         59  069    59  040    0                                    JN34OP
+  2015-07-05 0744 432MHZ     SSB  IK3TPP        59  070    59  042    0                                    JN65CP
+
+  2015-07-05 0752 432MHZ     SSB  IK4LFI        59  071    59  025    0                                    JN54FM
+  2015-07-05 0800 432MHZ     SSB  S57UHX        59  072    59  023    0                                 @  JN65UN
+  2015-07-05 0820 432MHZ     SSB  IZ3NOC/5      59  073    59  018    0                                    JN54QF
+  2015-07-05 0828 432MHZ     SSB  S59DXU        59  074    59  001    0                                    JN76RI
+  2015-07-05 0835 432MHZ     SSB  OM5CM         59  075    59  049    0                                 @  JN98DF
+  2015-07-05 0838 432MHZ     SSB  OM3RBS        59  076    59  088    0                                 @  JN98HE
+  2015-07-05 0851 432MHZ     CW   9A2EY         599 077    599 031    0                                 @  JN75XV
+X 2015-07-05 0909 432MHZ     CW   OK2PNQ        599 078    599 047    0                                 @  JN89LE ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0956 432MHZ     CW   OK6R          599 079    599 102    0                                 @  JN79OW
+  2015-07-05 1006 432MHZ     SSB  OL9W          59  080    59  190    0                                 @  JN99CL
+
+X 2015-07-05 1019 432MHZ     SSB  YT5TAS        59  081    59  044    0                                 @  JN94SD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  10:19:00  GMT 435 MHz SSB YT5TAS 59(9) 44#JN94SD S57NAW 59(9) 81#JN75PB)
+  2015-07-05 1033 432MHZ     SSB  SQ9V          59  082    59  097    0                                    JO90BC
+  2015-07-05 1043 432MHZ     SSB  9A3AQ         59  083    59  009    0                                 @  JN75WS
+  2015-07-05 1048 432MHZ     SSB  YU1EW         59  084    59  039    0                                    KN04CP
+  2015-07-05 1101 432MHZ     CW   9A8D          599 085    599 076    0                                 @  JN95LM
+  2015-07-05 1119 432MHZ     SSB  SP9EML        59  086    59  119    0                                    JN99LJ
+  2015-07-05 1134 432MHZ     SSB  OM3WEB        59  087    59  063    0                                 @  JN97CT
+X 2015-07-05 1159 432MHZ     SSB  DL5YWM        59  088    55  008    0                                 @  JO61OC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  11:59:00  GMT 435 MHz SSB DL5YWM 59(9) 8#JO61OC S57NAW 59(9) 83#JN76PB)
+  2015-07-05 1202 432MHZ     SSB  S53M          59  089    59  002    0                                 @  JN86CR
+  2015-07-05 1224 432MHZ     SSB  S54MTB        59  090    59  002    0                                 @  JN75OT
+
+  2015-07-05 1246 432MHZ     SSB  DA0FF         59  091    59  261    0                                 @  JO40XL
+  2015-07-05 1321 432MHZ     CW   HA5HY         599 092    599 069    0                                 @  JN97PP
+  2015-07-05 1326 432MHZ     SSB  OE3A          59  093    59  161    0                                    JN77XX
+  2015-07-05 1358 432MHZ     SSB  S57KM         59  094    59  010    0                                 @  JN76HD

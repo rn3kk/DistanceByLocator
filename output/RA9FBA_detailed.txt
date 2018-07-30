@@ -1,0 +1,25 @@
+Callsign: RA9FBA
+QTH Locator: LO88FE
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       8            2    0          915
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                8            2    0          915
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1441 144MHZ     SSB  RU9FT         59  001    59  004    97                                @  LO88SU
+X 2015-07-04 1728 144MHZ     SSB  RA9FAO        59  002    59  003    0                                 @  LO78WH ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  17:28:00  GMT 145 MHz SSB R9FAO 59(9) 3#LO78WH RA9FBA 59(9) 2#LO88FE)
+X 2015-07-04 1801 144MHZ     SSB  RA9FBH        59  003    59  004    0                                 @  LO78WH ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  18:01:00  GMT 145 MHz SSB R9FBH 59(9) 4#LO78WH RA9FBA 59(9) 3#LO88FE)
+  2015-07-04 1958 144MHZ     SSB  UA9FPG        59  004    59  013    114                               @  LO89TA
+  2015-07-04 2027 144MHZ     SSB  UA9FY         59  005    59  047    92                                @  LO88WN
+  2015-07-04 2124 144MHZ     SSB  RA4NCQ        59  006    59  033    367                               @  LO58CQ
+  2015-07-04 2140 144MHZ     SSB  RW9FWR        59  007    59  040    156                               @  LO98JV
+  2015-07-04 2209 144MHZ     SSB  UA9FE         59  008    59  040    89                                @  LO87CJ

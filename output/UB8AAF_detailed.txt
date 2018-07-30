@@ -1,0 +1,21 @@
+Callsign: UB8AAF
+QTH Locator: MO04SC
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       4            1    0           83
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                4            1    0           83
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0505 144MHZ     SSB  UA9AC         59  001    59  003    10                                @  MO04TA
+X 2015-07-05 0520 144MHZ     SSB  UA6YGY/8      59  002    59  003    0                                 @  MO04TA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-05  05:20:00  GMT 145 MHz SSB UA6YGY 59(9) 3#MO04TA UB8AAF 59(9) 2#MO04SC)
+  2015-07-05 0635 144MHZ     SSB  RK9AY         59  003    59  066    72                                @  MO03FX
+  2015-07-05 0645 144MHZ     SSB  R8AAS         59  004    59  007    1                                 @  MO04SC

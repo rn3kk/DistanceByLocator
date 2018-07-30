@@ -1,0 +1,72 @@
+Callsign: R9UR
+QTH Locator: NO35AK
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      31            1    0         6153
+  435 MHz      19            0    0         7646
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               50            1    0        13799
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1412 432MHZ     SSB  UA9YJM        59  001    59  003    514                               @  NO13VM
+  2015-07-04 1413 432MHZ     SSB  RA9YMI        59  002    59  003    514                               @  NO13VM
+  2015-07-04 1445 432MHZ     SSB  RZ9U/9        59  003    59  002    230                               @  NO24JQ
+  2015-07-04 1602 432MHZ     SSB  UA0WBR        59  004    59  009    378                               @  NO44IQ
+  2015-07-04 1614 432MHZ     SSB  RD8U          59  005    59  005    228                               @  NO36FK
+  2015-07-04 1641 432MHZ     SSB  RC9YC         59  006    59  005    584                               @  NO13UE
+  2015-07-04 1704 432MHZ     SSB  RA9UKW        59  007    59  009    196                               @  NO34DN
+  2015-07-04 1749 432MHZ     SSB  RC9UB         59  008    59  012    454                               @  NO33WQ
+  2015-07-04 1750 432MHZ     SSB  RW9UZZ        59  009    59  011    454                               @  NO33WQ
+  2015-07-04 1751 432MHZ     SSB  RK9UZZ        59  010    59  023    338                               @  NO33GW
+
+  2015-07-04 1939 432MHZ     SSB  UA9OWA        59  011    59  022    420                               @  NO15IH
+  2015-07-04 2054 432MHZ     SSB  RW9V          59  012    59  021    458                               @  NO33QM
+  2015-07-05 0001 432MHZ     SSB  R9UG          59  013    59  009    224                               @  NO25DG
+  2015-07-05 0005 432MHZ     SSB  RW9HAY        59  014    59  005    224                               @  NO25DG
+  2015-07-05 0021 432MHZ     SSB  RK9YZK        59  015    59  016    540                                  NO23HD
+  2015-07-05 0059 432MHZ     SSB  RG8U          59  016    59  017    390                               @  NO33QU
+  2015-07-05 0118 432MHZ     SSB  RA9YHK        59  017    59  036    480                               @  NO33AG
+  2015-07-05 0123 432MHZ     SSB  UB9YAK        59  018    59  029    480                               @  NO33AG
+  2015-07-05 0224 432MHZ     SSB  RC9U          59  019    59  014    540                               @  NO33RD
+  2015-07-04 1401 144MHZ     SSB  RA9YMI        59  001    59  002    257                               @  NO13VM
+
+  2015-07-04 1402 144MHZ     SSB  UA9YJM        59  002    59  002    257                               @  NO13VM
+  2015-07-04 1430 144MHZ     SSB  RV9OW         59  003    59  011    210                               @  NO15JB
+  2015-07-04 1442 144MHZ     SSB  RZ9U/9        59  004    59  007    115                               @  NO24JQ
+  2015-07-04 1510 144MHZ     SSB  R9UG          59  005    59  011    112                               @  NO25DG
+  2015-07-04 1511 144MHZ     SSB  RA9ODK        59  006    59  012    112                               @  NO25DG
+  2015-07-04 1512 144MHZ     SSB  RW9UFD        59  007    59  013    112                               @  NO25DG
+  2015-07-04 1514 144MHZ     SSB  RW9HAY        59  008    59  007    112                               @  NO25DG
+  2015-07-04 1538 144MHZ     SSB  UA9OWA        59  009    59  022    210                               @  NO15IH
+X 2015-07-04 1555 144MHZ     SSB  R9UCZ         59  010    59  002    0                                    NO35BJ ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1556 144MHZ     SSB  UA0WBR        59  011    59  023    189                               @  NO44IQ
+
+  2015-07-04 1607 144MHZ     SSB  RD8U          59  012    59  015    114                               @  NO36FK
+  2015-07-04 1620 144MHZ     SSB  RA0ATB        59  013    59  014    231                               @  NO45UK
+  2015-07-04 1636 144MHZ     SSB  RC9YC         59  014    59  026    292                               @  NO13UE
+  2015-07-04 1701 144MHZ     SSB  RA9UKW        59  015    59  027    98                                @  NO34DN
+  2015-07-04 1717 144MHZ     SSB  RW9UZZ        59  016    59  035    227                               @  NO33WQ
+  2015-07-04 1718 144MHZ     SSB  RC9UB         59  017    59  035    227                               @  NO33WQ
+  2015-07-04 1722 144MHZ     SSB  RW9USA        59  018    59  036    179                               @  NO33HU
+  2015-07-04 2031 144MHZ     SSB  RK8U          59  019    59  045    270                               @  NO43MR
+  2015-07-04 2037 144MHZ     SSB  RK9UZZ        59  020    59  040    169                               @  NO33GW
+  2015-07-04 2050 144MHZ     SSB  RW9V          59  021    59  039    229                               @  NO33QM
+
+  2015-07-04 2103 144MHZ     SSB  R9UTW         59  022    59  036    221                               @  NO33QO
+  2015-07-04 2127 144MHZ     SSB  RC9U          59  023    59  016    270                               @  NO33RD
+  2015-07-04 2143 144MHZ     SSB  UA0WCV        59  024    59  025    390                                  NO42XS
+  2015-07-05 0017 144MHZ     SSB  RK9YZK        59  025    59  027    270                                  NO23HD
+  2015-07-05 0049 144MHZ     SSB  RG8U          59  026    59  035    195                               @  NO33QU
+  2015-07-05 0108 144MHZ     SSB  RA9YHK        59  027    59  065    240                               @  NO33AG
+  2015-07-05 0114 144MHZ     SSB  UB9YAK        59  028    59  055    240                               @  NO33AG
+  2015-07-05 0126 144MHZ     SSB  RV9UP         59  029    59  036    179                               @  NO33HU
+  2015-07-05 0250 144MHZ     SSB  RA9OD         59  030    59  040    228                               @  NO15FE
+  2015-07-05 0257 144MHZ     SSB  R9OBS         59  031    59  058    198                               @  NO14RK
+

@@ -1,0 +1,92 @@
+Callsign: RD3DA
+QTH Locator: KO85PT
+Category: MULTI-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      14            1    0         1199
+  435 MHz       9            1    0         1662
+  1.3 GHz      25            2    0        21592
+  5.7 GHz      13            0    0        22404
+   10 GHz       8            0    0         9966
+   24 GHz       0            0    0            0
+------------------------------------------------
+               69            4    0        56823
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1404 5.7GHZ     CW   UA3M          599 001    599 002    1548                              @  KO97VQ
+  2015-07-04 1432 5.7GHZ     CW   RD3BA         599 002    599 001    720                               @  KO75RL
+  2015-07-04 1553 5.7GHZ     CW   UF3D          599 003    599 002    396                               @  KO95AJ
+  2015-07-04 1656 5.7GHZ     CW   RW3PX         599 004    599 005    1608                              @  KO83RJ
+  2015-07-04 1710 5.7GHZ     CW   R3GC          599 005    599 006    2118                              @  KO92DQ
+  2015-07-04 1723 5.7GHZ     CW   RN3DKQ        599 006    599 001    216                               @  KO85WS
+  2015-07-04 1955 5.7GHZ     CW   UA3ATS/3      599 007    599 001    1524                              @  KO93AN
+  2015-07-04 2147 5.7GHZ     CW   RN3F          599 008    599 006    252                               @  KO86RE
+  2015-07-04 2215 5.7GHZ     CW   RW3TJ         599 009    599 006    2148                              @  LO16MB
+  2015-07-04 2242 5.7GHZ     CW   RW3WR         599 010    599 008    3036                              @  KO71IM
+
+  2015-07-05 0400 5.7GHZ     CW   R4YM          599 011    599 004    3702                              @  LO36OD
+  2015-07-05 0424 5.7GHZ     CW   UA3TCF        599 012    599 002    2826                              @  LO26IU
+  2015-07-05 0505 5.7GHZ     CW   R3GS          599 013    599 014    2310                              @  KO92SO
+  2015-07-04 1422 1.3GHZ     CW   RW3PX         599 001    599 006    1072                              @  KO83RJ
+  2015-07-04 1449 1.3GHZ     CW   RU3T          599 002    599 005    1708                              @  LO25BR
+  2015-07-04 1502 1.3GHZ     CW   RK5D          599 003    599 006    204                               @  KO86WD
+  2015-07-04 1503 1.3GHZ     CW   RX3A          599 004    599 003    320                               @  KO95DI
+  2015-07-04 1506 1.3GHZ     CW   RT2M          599 005    599 012    648                               @  KO97GC
+  2015-07-04 1510 1.3GHZ     CW   UA3M          599 006    599 003    1032                              @  KO97VQ
+  2015-07-04 1517 1.3GHZ     CW   RL3D          599 007    599 008    148                               @  KO85WV
+
+  2015-07-04 1529 1.3GHZ     CW   RN3F          599 008    599 007    168                               @  KO86RE
+  2015-07-04 1540 1.3GHZ     CW   EW6FS         599 009    599 002    2624                              @  KO35LB
+  2015-07-04 1620 1.3GHZ     CW   RK3D          599 010    599 004    588                               @  KO94MW
+  2015-07-04 1629 1.3GHZ     CW   RD3BA         599 011    599 003    480                               @  KO75RL
+  2015-07-04 1716 1.3GHZ     CW   RN3DKQ        599 012    599 012    144                               @  KO85WS
+  2015-07-04 1718 1.3GHZ     CW   R3GC          599 013    599 014    1412                              @  KO92DQ
+  2015-07-04 1740 1.3GHZ     CW   UA3DHC        599 014    599 007    192                               @  KO95AW
+  2015-07-04 1748 1.3GHZ     CW   RW3TJ         599 015    599 010    1432                              @  LO16MB
+  2015-07-04 1755 1.3GHZ     CW   R3GS          599 016    599 009    1540                              @  KO92SO
+  2015-07-04 1845 1.3GHZ     CW   UA3X          599 017    599 012    408                               @  KO84JW
+
+  2015-07-04 1921 1.3GHZ     CW   R3DX          599 018    599 002    240                               @  KO85OG
+  2015-07-04 2002 1.3GHZ     CW   UA3ATS/3      599 019    599 010    1016                              @  KO93AN
+  2015-07-04 2009 1.3GHZ     CW   RO2E          599 020    599 025    1304                              @  KO82HV
+  2015-07-04 2047 1.3GHZ     CW   RW3WR         599 021    599 022    2024                              @  KO71IM
+  2015-07-04 2314 1.3GHZ     CW   RK3AF         599 022    599 010    420                               @  KO75TX
+  2015-07-05 0310 1.3GHZ     CW   R4YM          599 023    599 020    2468                              @  LO36OD
+X 2015-07-05 0552 1.3GHZ     CW   RC3P          599 024    599 019    0                                 @  KO93CA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  05:51:00  GMT 1.3 GHz CW RC3P 59(9) 29#KO93CA RD3DA 59(9) 24#KO85PT)
+X 2015-07-05 0623 1.3GHZ     CW   RA3AES        599 025    599 016    0                                 @  KO95DL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  06:23:00  GMT 1.3 GHz CW RA3AES 59(9) 16#KO95DL RD3DA 59(9) 25#KO86PT)
+  2015-07-04 1406 10GHZ      CW   UA3M          599 001    599 001    1548                              @  KO97VQ
+  2015-07-04 1437 10GHZ      CW   RD3BA         599 002    599 001    720                               @  KO75RL
+
+  2015-07-04 1659 10GHZ      CW   RW3PX         599 003    599 003    1608                              @  KO83RJ
+  2015-07-04 1731 10GHZ      CW   UA3DHC        599 004    599 002    288                               @  KO95AW
+  2015-07-04 2228 10GHZ      CW   RW3TJ         599 005    599 004    2148                              @  LO16MB
+  2015-07-05 0618 10GHZ      CW   RA3AES        599 006    599 004    432                               @  KO95DL
+  2015-07-05 0703 10GHZ      CW   UF3D          599 007    599 007    396                               @  KO95AJ
+  2015-07-05 1041 10GHZ      CW   UA3TCF        599 008    599 002    2826                              @  LO26IU
+  2015-07-04 1737 432MHZ     CW   UA3DHC        599 001    599 012    96                                @  KO95AW
+  2015-07-04 1837 432MHZ     CW   RN3F          599 002    599 013    84                                @  KO86RE
+  2015-07-04 1842 432MHZ     CW   UA3X          599 003    599 022    204                               @  KO84JW
+  2015-07-04 1942 432MHZ     CW   UF3D          599 004    599 058    132                               @  KO95AJ
+
+  2015-07-04 2151 432MHZ     CW   RN3DKQ        599 005    599 030    72                                @  KO85WS
+  2015-07-04 2332 432MHZ     CW   RK5D          599 006    599 015    102                               @  KO86WD
+X 2015-07-05 0259 432MHZ     CW   UA3XAC        599 007    599 053    0                                 @  KO73IW ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0411 432MHZ     CW   RW3PX         599 008    599 081    536                               @  KO83RJ
+  2015-07-05 0430 432MHZ     CW   R5DC/3        599 009    599 067    436                               @  KO83SU
+  2015-07-04 1735 144MHZ     CW   UA3DHC        599 001    599 019    48                                @  KO95AW
+  2015-07-04 2130 144MHZ     CW   RL3D          599 002    599 026    37                                @  KO85WV
+  2015-07-04 2132 144MHZ     CW   RD3BA         599 003    599 064    120                               @  KO75RL
+  2015-07-04 2136 144MHZ     CW   RN3F          599 004    599 077    42                                @  KO86RE
+X 2015-07-04 2138 144MHZ     CW   UA3XAC        599 005    599 043    0                                 @  KO73IW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  21:38:00  GMT 145 MHz CW UA3XAC 59(9) 43#KO85GC RD3DA 59(9) 5#KO85PT)
+
+  2015-07-04 2142 144MHZ     CW   RU3DD         599 006    599 032    107                               @  KO84RU
+  2015-07-04 2221 144MHZ     CW   R3DX          599 007    599 063    60                                @  KO85OG
+  2015-07-04 2224 144MHZ     CW   RK9AT/3       599 008    599 077    46                                @  KO86QF
+  2015-07-04 2237 144MHZ     CW   RN3DKQ        599 009    599 040    36                                @  KO85WS
+  2015-07-04 2258 144MHZ     CW   RT2M          599 010    599 101    162                               @  KO97GC
+  2015-07-04 2302 144MHZ     CW   RK3AF         599 011    599 077    105                               @  KO75TX
+  2015-07-04 2336 144MHZ     CW   RW3PX         599 012    599 108    268                               @  KO83RJ
+  2015-07-05 0240 144MHZ     CW   UA3X          599 013    599 066    102                               @  KO84JW
+  2015-07-05 0246 144MHZ     CW   UF3D          599 014    599 083    66                                @  KO95AJ

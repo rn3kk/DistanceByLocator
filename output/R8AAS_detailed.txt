@@ -1,0 +1,30 @@
+Callsign: R8AAS
+QTH Locator: MO04SC
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            1    0          174
+  435 MHz       5            1    0          326
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               12            2    0          500
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1650 432MHZ     SSB  UN7LDX        59  001    59  011    0                                 @  MO03XR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  16:50:00  GMT 435 MHz SSB UN7LDX 59(9) 8#MO03XR R8AAS 59(9) 1#MO04SC)
+  2015-07-04 1652 432MHZ     SSB  UN1WE         59  002    59  014    86                                @  MO03UR
+  2015-07-04 1655 432MHZ     SSB  RX9AFQ        59  003    59  007    14                                @  MO04TB
+  2015-07-04 1752 432MHZ     SSB  RK9AY         59  004    59  019    144                               @  MO03FX
+  2015-07-04 1804 432MHZ     SSB  UN1WA         59  005    59  009    82                                @  MO03SR
+  2015-07-04 1649 144MHZ     SSB  UN7LDX        59  001    59  011    49                                @  MO03XR
+  2015-07-04 1654 144MHZ     SSB  RX9AFQ        59  002    59  007    7                                 @  MO04TB
+  2015-07-04 1715 144MHZ     SSB  UN1WG         59  003    59  008    49                                   MO03VQ
+  2015-07-04 1730 144MHZ     SSB  UA9AE         59  004    59  014    27                                @  MO04SI
+X 2015-07-04 1751 144MHZ     SSB  RK9AY         59  005    59  024    0                                 @  MO03FX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:51:00  GMT 145 MHz SSB RK9AY 59(9) 26#MO03FX R8AAS 59(9) 5#MO04SC)
+
+  2015-07-04 1803 144MHZ     SSB  UN1WA         59  006    59  019    41                                @  MO03SR
+  2015-07-05 0645 144MHZ     SSB  UB8AAF        59  007    59  004    1                                 @  MO04SC

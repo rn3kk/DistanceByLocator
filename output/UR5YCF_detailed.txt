@@ -1,0 +1,41 @@
+Callsign: UR5YCF
+QTH Locator: KN28UP
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      22            2    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               22            2    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1622 144MHZ     SSB  UR5SBD        59  001    59  008    0                                    KN28LE
+  2015-07-04 1624 144MHZ     SSB  UR5SFL        59  002    59  004    0                                 @  KN28LE
+X 2015-07-04 1648 144MHZ     SSB  UR5YEI        59  003    59  002    0                                 @  KN39DF ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 1759 144MHZ     SSB  US5WFQ        59  004    59  044    0                                 @  KN18QU
+  2015-07-04 1813 144MHZ     SSB  UT7TT         59  005    59  025    0                                 @  KN38JO
+  2015-07-04 1813 144MHZ     SSB  UT4TA         59  006    59  025    0                                 @  KN38HQ
+X 2015-07-04 1826 144MHZ     SSB  UR1YDD        59  007    59  012    0                                 @  KN28XG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:27:00  GMT 145 MHz SSB UR1YDD 59(9) 12#KN28XG UR5YCF 59(9) 7#KN27UP)
+  2015-07-04 1851 144MHZ     SSB  UR5SD         59  008    59  027    0                                    KN28SM
+  2015-07-04 1909 144MHZ     SSB  UW1S          59  009    59  017    0                                 @  KN28CF
+  2015-07-04 1914 144MHZ     SSB  UR5YBF        59  010    59  003    0                                 @  KN39DF
+
+  2015-07-04 1945 144MHZ     SSB  UT4UWE/P      59  011    59  014    0                                    KN27PX
+  2015-07-04 1947 144MHZ     SSB  UT5T          59  012    59  021    0                                    KN38HQ
+  2015-07-04 1953 144MHZ     SSB  UT2SW         59  013    59  027    0                                 @  KN19WB
+  2015-07-05 0211 144MHZ     SSB  UR5SB         59  014    59  011    0                                 @  KN19WA
+  2015-07-05 0259 144MHZ     SSB  UT7NI         59  015    59  035    0                                    KN39TD
+  2015-07-05 0325 144MHZ     SSB  UT3SO         59  016    59  027    0                                 @  KN18XX
+  2015-07-05 0327 144MHZ     SSB  UR5SO         59  017    59  026    0                                 @  KN18XX
+  2015-07-05 0418 144MHZ     SSB  UR5YAF        59  018    59  002    0                                 @  KN39DF
+  2015-07-05 0429 144MHZ     SSB  UR5SAC        59  019    59  019    0                                 @  KN28QV
+  2015-07-05 0440 144MHZ     SSB  US7SB/P       59  020    59  068    0                                 @  KN28QV
+
+  2015-07-05 0455 144MHZ     SSB  UR5BFX        59  021    59  047    0                                 @  KN29TN
+  2015-07-05 0553 144MHZ     SSB  UW8SM         59  022    59  020    0                                 @  KN28IV

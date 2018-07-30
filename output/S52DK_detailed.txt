@@ -1,0 +1,23 @@
+Callsign: 9A/S52DK/P
+QTH Locator: JN74PB
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       6            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                6            0    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 0908 144MHZ     SSB  IZ6SAC        59  0001   59  0049   0                                    JN63MP
+  2015-07-05 0914 144MHZ     SSB  I5PVA/6       59  0002   59  0578   0                                    JN63GN
+  2015-07-05 1015 144MHZ     SSB  IZ6RCR        59  0003   59  0019   0                                    JN62FH ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+  2015-07-05 1028 144MHZ     SSB  9A5G          59  0004   59  0200   0                                 @  JN75GK
+  2015-07-05 1032 144MHZ     SSB  9A1N          59  0005   59  0312   0                                 @  JN85LI
+  2015-07-05 1140 144MHZ     SSB  I5MZY/4       59  0006   59  0290   0                                    JN54OL

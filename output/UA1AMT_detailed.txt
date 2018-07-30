@@ -1,0 +1,20 @@
+Callsign: UA1AMT
+QTH Locator: KO69DX
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       3            3    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                3            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 2006 145MHZ     CW   UA1ANA/1      599 001    599 001    0                                 @  KO69UC ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 2013 145MHZ     CW   RA1TRA/1T     599 002    599 001    0                                    KO58NM ERROR(S): QSO_ERROR_INVALID_DXCC, QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 2117 145MHZ     CW   R1DX          599 003    599 004    0                                 @  KO49MP ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

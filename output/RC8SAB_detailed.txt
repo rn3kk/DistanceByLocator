@@ -1,0 +1,29 @@
+Callsign: RC8SAB
+QTH Locator: LO71MT
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      11            1    0          782
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               11            1    0          782
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1407 144MHZ     SSB  R9SAM         59  001    59  002    91                                   LO81EU
+  2015-07-04 1408 144MHZ     SSB  RA9SOA        59  002    59  002    56                                @  LO72DA
+  2015-07-04 1505 144MHZ     SSB  RX9SN         59  003    59  001    53                                   LO72EB
+  2015-07-04 1644 144MHZ     SSB  RA9SK         59  004    59  002    9                                    LO71MR
+  2015-07-04 1652 144MHZ     SSB  RX9SR         59  005    59  003    5                                    LO71LT
+X 2015-07-04 1822 144MHZ     SSB  RA9SBU        59  006    59  006    0                                 @  LO81QM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:22:00  GMT 145 MHz SSB RA9SBU 59(9) 6#LO81QM RC9SAB 59(9) 6#LO71MT)
+  2015-07-04 1823 144MHZ     SSB  UA9SUN        59  007    59  005    164                               @  LO81QM
+  2015-07-05 0100 144MHZ     SSB  R9SCB         59  008    59  010    43                                   LO72RC
+  2015-07-05 0105 144MHZ     SSB  RK8T          59  009    59  049    291                               @  LO91PT
+  2015-07-05 0112 144MHZ     SSB  R9SAT         59  010    59  007    4                                    LO71MS
+
+  2015-07-05 0118 144MHZ     SSB  UA9SIV        59  011    59  002    66                                @  LO71DK

@@ -1,0 +1,77 @@
+Callsign: RA1QFY
+QTH Locator: KO98BX
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      36            3    0        13247
+  435 MHz      13            1    0         7936
+  1.3 GHz       6            0    0         7408
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               55            4    0        28591
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1458 1.3GHZ     CW   RN3F          599 001    599 004    1248                              @  KO86RE
+  2015-07-04 1544 1.3GHZ     CW   RT2M          599 002    599 015    836                               @  KO97GC
+  2015-07-04 1556 1.3GHZ     CW   UA3M          599 003    599 004    692                               @  KO97VQ
+  2015-07-04 2203 1.3GHZ     CW   RN3DKQ        599 004    599 019    1424                              @  KO85WS
+  2015-07-04 2353 1.3GHZ     CW   RK3MWC        599 005    599 009    724                               @  LO07BR
+  2015-07-05 1104 1.3GHZ     CW   RW3PX         599 006    599 049    2484                              @  KO83RJ
+  2015-07-04 1455 432MHZ     CW   RN3F          599 001    599 001    624                               @  KO86RE
+  2015-07-04 1546 432MHZ     CW   RT2M          599 002    599 018    418                               @  KO97GC
+  2015-07-04 1555 432MHZ     CW   UA3M          599 003    599 004    346                               @  KO97VQ
+  2015-07-04 1716 432MHZ     CW   UA3DHC        599 004    599 011    676                               @  KO95AW
+
+X 2015-07-04 1800 432MHZ     CW   RU3MS         599 005    599 003    0                                 @  KO98HA ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 2003 432MHZ     CW   RM1M/3        599 006    599 007    626                               @  KO67WG
+  2015-07-04 2027 432MHZ     CW   UA3X          599 007    599 024    912                               @  KO84JW
+  2015-07-04 2148 432MHZ     CW   UF3D          599 008    599 064    796                               @  KO95AJ
+  2015-07-04 2158 432MHZ     CW   RN3DKQ        599 009    599 031    712                               @  KO85WS
+  2015-07-04 2213 432MHZ     CW   RW3PX         599 010    599 064    1242                              @  KO83RJ
+  2015-07-04 2350 432MHZ     CW   RK3MWC        599 011    599 018    362                               @  LO07BR
+  2015-07-05 0004 432MHZ     CW   R3MW          599 012    599 010    418                               @  LO07DL
+  2015-07-05 1258 432MHZ     CW   RX3A          599 013    599 049    804                               @  KO95DI
+  2015-07-04 1429 144MHZ     CW   RA3UAG        599 001    599 009    275                               @  LO06GU
+
+  2015-07-04 1434 144MHZ     CW   RT2M          599 002    599 027    209                               @  KO97GC
+  2015-07-04 1453 144MHZ     CW   RN3F          599 003    599 026    312                               @  KO86RE
+  2015-07-04 1512 144MHZ     CW   UA1ANA/1      599 004    599 007    252                               @  KO69UC
+  2015-07-04 1523 144MHZ     CW   RA1TM         599 005    599 005    306                               @  KO67OX
+  2015-07-04 1710 144MHZ     CW   UA3DHC        599 006    599 018    338                               @  KO95AW
+  2015-07-04 1732 144MHZ     CW   RK3DHU        599 007    599 013    315                               @  KO86UD
+  2015-07-04 1751 144MHZ     CW   UA3M          599 008    599 026    173                               @  KO97VQ
+X 2015-07-04 1754 144MHZ     CW   UA3MM         599 009    599 009    0                                 @  KO98LC ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:54:00  GMT 145 MHz CW UA3MM 59(9) 8#KO98LC RA1QFY 59(9) 9#KO98BX)
+  2015-07-04 1756 144MHZ     CW   RU3MS         599 010    599 015    110                               @  KO98HA
+  2015-07-04 2001 144MHZ     CW   RM1M/3        599 011    599 028    313                               @  KO67WG
+
+  2015-07-04 2020 144MHZ     CW   RW3PX         599 012    599 086    621                               @  KO83RJ
+  2015-07-04 2024 144MHZ     CW   UA3X          599 013    599 058    456                               @  KO84JW
+  2015-07-04 2125 144MHZ     CW   R3DX          599 014    599 060    415                               @  KO85OG
+  2015-07-04 2208 144MHZ     CW   RN3DKQ        599 015    599 039    356                               @  KO85WS
+  2015-07-04 2222 144MHZ     CW   RK9AT/3       599 016    599 076    308                               @  KO86QF
+  2015-07-04 2227 144MHZ     CW   RA4W          599 017    599 047    918                               @  LO66PX
+  2015-07-04 2240 144MHZ     CW   RD3BA         599 018    599 071    420                               @  KO75RL
+X 2015-07-04 2247 144MHZ     CW   RV3AQ         59A 019    59A 075    0                                 @  KO95VN ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  22:48:00  GMT 145 MHz CW RV3AQ 59(9) 75#KO95VN RA1QFC 59(9) 19#KO98BX)
+  2015-07-04 2249 144MHZ     CW   UA3LID        599 020    599 070    576                               @  KO64PM
+  2015-07-04 2252 144MHZ     CW   RW3TJ         599 021    599 085    436                               @  LO16MB
+
+  2015-07-04 2257 144MHZ     CW   LY2BUU        59A 022    59A 037    943                               @  KO15XH
+  2015-07-04 2302 144MHZ     CW   YL2PJ         59A 023    59A 019    692                               @  KO36QM
+  2015-07-04 2306 144MHZ     CW   RK3AF         59A 024    59A 078    365                               @  KO75TX
+  2015-07-04 2322 144MHZ     CW   R4YM          599 025    599 048    625                               @  LO36OD
+  2015-07-04 2326 144MHZ     CW   RM1A          59A 026    59A 028    462                               @  KO59BU
+  2015-07-04 2348 144MHZ     CW   RK3MWC        599 027    599 047    181                               @  LO07BR
+  2015-07-05 0001 144MHZ     CW   R3MW          599 028    599 028    209                               @  LO07DL
+  2015-07-05 0514 144MHZ     SSB  RA3VGV        59  029    59  059    347                               @  LO06PI
+  2015-07-05 0630 144MHZ     CW   RU3VV         599 030    599 046    405                               @  LO05IO
+X 2015-07-05 0844 144MHZ     CW   RK3DWW/3      599 031    599 066    0                                 @  KO82DQ ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  08:41:00  GMT 145 MHz CW RK3DWW/3 59(9) 76#KO82DQ RA1QFY 59(9) 31#KO98BX)
+
+  2015-07-05 0916 144MHZ     CW   UA3ARF        599 032    599 045    350                               @  KO85QU
+  2015-07-05 0929 144MHZ     SSB  RA3DEM        59  033    59  074    296                               @  KO96CH
+  2015-07-05 0947 144MHZ     CW   RK3D          599 034    599 067    452                               @  KO94MW
+  2015-07-05 1250 144MHZ     CW   UA3F          599 035    599 046    409                               @  KO95JH
+  2015-07-05 1254 144MHZ     CW   RX3A          599 036    599 077    402                               @  KO95DI

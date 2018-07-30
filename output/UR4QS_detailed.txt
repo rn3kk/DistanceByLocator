@@ -1,0 +1,24 @@
+Callsign: UR4QS
+QTH Locator: KN76OJ
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            2    0          634
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                7            2    0          634
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1510 145MHZ     SSB  R6DG          59  001    59  002    178                               @  KN85JF
+  2015-07-04 1517 145MHZ     SSB  UR5QRB        59  002    59  005    127                               @  KN86JS
+  2015-07-04 1527 145MHZ     SSB  UR6GWH/P      59  003    59  004    42                                @  KN76JD
+  2015-07-04 1530 145MHZ     SSB  RX7K          59  004    59  017    148                               @  KN75MB
+X 2015-07-04 1536 145MHZ     SSB  UA6CGX/P      59  005    59  001    0                                 @  KN85JF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-04  15:37:00  GMT 145 MHz SSB UA6CGX 59(9) 1#KN85JF UR4QS 59(9) 5#KN76OJ)
+X 2015-07-04 1538 145MHZ     SSB  R6KTV         59  006    59  004    0                                    KN85BK ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1614 145MHZ     SSB  UA7R/5        59  007    59  023    139                               @  KN85CI

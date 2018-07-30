@@ -1,0 +1,19 @@
+Callsign: RA4AR
+QTH Locator: LN28HV
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       1            0    0           23
+  435 MHz       1            0    0           56
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                2            0    0           79
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1532 432MHZ     CW   RN4AT         599 001    599 005    56                                @  LN29LA
+  2015-07-04 1537 144MHZ     CW   UA4BI         599 002    599 004    23                                @  LN28GQ

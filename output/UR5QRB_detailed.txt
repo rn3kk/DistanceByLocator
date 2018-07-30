@@ -1,0 +1,33 @@
+Callsign: UR5QRB
+QTH Locator: KN86JS
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      12            3    0         1557
+  435 MHz       3            0    0          910
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               15            3    0         2467
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1619 432MHZ     SSB  UA7R/5        59  001    59  015    326                               @  KN85CI
+  2015-07-04 1924 432MHZ     SSB  US5QGL        59  002    59  002    2                                 @  KN86JS
+  2015-07-04 2019 432MHZ     SSB  RU6K          59  003    59  020    582                               @  KN74DT
+  2015-07-04 1403 144MHZ     SSB  UA7R/5        59  001    59  003    163                               @  KN85CI
+  2015-07-04 1409 144MHZ     SSB  RX7K          59  002    59  004    233                               @  KN75MB
+X 2015-07-04 1445 144MHZ     SSB  R6KTV         59  003    59  001    0                                    KN85BK ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1501 144MHZ     SSB  R6DG          59  004    59  001    171                               @  KN85JF
+  2015-07-04 1518 144MHZ     SSB  UR4QS         59  005    59  002    127                               @  KN76OJ
+X 2015-07-04 1603 144MHZ     SSB  UA6CGX/P      59  006    59  003    0                                 @  KN85JF ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-04  16:03:00  GMT 145 MHz SSB UA6CGX 59(9) 3#KN85JF UR5QRB 59(9) 6#KN86JS)
+  2015-07-04 1920 144MHZ     SSB  RX6DI         59  007    59  013    268                               @  LN06BA
+
+  2015-07-04 1923 144MHZ     SSB  US5QGL        59  008    59  003    1                                 @  KN86JS
+  2015-07-04 2015 144MHZ     SSB  RU6K          59  009    59  056    291                               @  KN74DT
+  2015-07-04 2035 144MHZ     SSB  UR4QXS/P      59  010    59  058    105                               @  KN77SE
+  2015-07-05 0335 144MHZ     SSB  UR7QDO        59  011    59  036    198                               @  KN77EL
+X 2015-07-05 0339 144MHZ     SSB  UT2QQ         59  012    59  058    0                                 @  KN77SI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:39:00  GMT 145 MHz SSB UT2QQ 59(9) 58#KN77SI UR5QRB 59(9) 12#KN86JC)

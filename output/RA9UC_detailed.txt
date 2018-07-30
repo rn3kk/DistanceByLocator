@@ -1,0 +1,35 @@
+Callsign: RA9UC
+QTH Locator: NO33OT
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      17            0    0          833
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               17            0    0          833
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1414 145MHZ     SSB  RW9UZZ        59  001    59  007    45                                @  NO33WQ
+  2015-07-04 1415 145MHZ     SSB  RZ8U          59  002    59  011    10                                @  NO33NR
+  2015-07-04 1418 145MHZ     SSB  RV9UV         59  003    59  004    49                                   NO34GA
+  2015-07-04 1419 145MHZ     SSB  RW9USA        59  004    59  013    38                                @  NO33HU
+  2015-07-04 1428 145MHZ     SSB  RV9UDW        59  005    59  005    19                                @  NO33PP
+  2015-07-04 1429 145MHZ     SSB  RC9UB         59  006    59  012    45                                @  NO33WQ
+  2015-07-04 1431 145MHZ     SSB  RZ9UGN        59  007    59  007    18                                @  NO33OP
+  2015-07-04 1434 145MHZ     SSB  RA9YHK        59  008    59  010    97                                @  NO33AG
+  2015-07-04 1434 145MHZ     SSB  UB9YAK        59  009    59  010    97                                @  NO33AG
+  2015-07-04 1439 145MHZ     SSB  RW9V          59  010    59  010    34                                @  NO33QM
+
+  2015-07-04 1443 145MHZ     SSB  RK8U          59  011    59  015    120                               @  NO43MR
+  2015-07-04 1445 145MHZ     SSB  RZ9UO         59  012    59  010    39                                @  NO33HV
+  2015-07-04 1446 145MHZ     SSB  RZ9UMA        59  013    59  010    39                                @  NO33HV
+  2015-07-04 1450 145MHZ     SSB  RK9UZZ        59  014    59  010    45                                @  NO33GW
+  2015-07-04 1534 145MHZ     SSB  R9UTW         59  015    59  011    25                                @  NO33QO
+  2015-07-04 2157 145MHZ     SSB  RC9U          59  016    59  024    75                                @  NO33RD
+  2015-07-05 0455 145MHZ     SSB  RV9UP         59  017    59  055    38                                @  NO33HU

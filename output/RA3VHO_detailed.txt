@@ -1,0 +1,24 @@
+Callsign: RA3VHO
+QTH Locator: LO16BF
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       5            0    0          754
+  435 MHz       2            0    0          392
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                7            0    0         1146
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1432 435MHZ     SSB  RA3VGV        59  001    59  003    106                               @  LO06PI
+  2015-07-04 1442 435MHZ     SSB  RA3TLU        59  002    59  001    286                               @  LO15WJ
+  2015-07-04 1429 145MHZ     SSB  RX3A          59  001    59  009    258                               @  KO95DI
+  2015-07-04 1431 145MHZ     SSB  RA3VGV        59  002    59  007    53                                @  LO06PI
+  2015-07-04 1438 145MHZ     SSB  RA3DEM        59  003    59  020    241                               @  KO96CH
+  2015-07-04 1440 145MHZ     SSB  RA3TLU        59  004    59  005    143                               @  LO15WJ
+  2015-07-04 1447 145MHZ     SSB  RW3TJ         59  005    59  026    59                                @  LO16MB

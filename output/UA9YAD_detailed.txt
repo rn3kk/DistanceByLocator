@@ -1,0 +1,24 @@
+Callsign: UA9YAD
+QTH Locator: NO22NH
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       7            1    0          658
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                7            1    0          658
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1403 144MHZ     SSB  RA9YHK        59  001    59  001    123                               @  NO33AG
+  2015-07-04 1404 144MHZ     SSB  UB9YAK        59  002    59  001    123                               @  NO33AG
+  2015-07-04 1419 144MHZ     SSB  UA9OAP/9      59  003    59  002    144                               @  NO21UB
+  2015-07-04 1436 144MHZ     SSB  UB8ZAC        59  004    59  001    67                                @  NO21XX
+X 2015-07-04 1508 144MHZ     SSB  UB8ZAD        59  006    59  004    0                                 @  NO21XX ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1522 144MHZ     SSB  UA9ZBK        59  005    59  002    0                                 @  NO21XX ERROR(S): QSO_ERROR_SENT_NUMBER_ORDER_ERROR
+  2015-07-04 1607 144MHZ     SSB  RW9V          59  007    59  017    201                               @  NO33QM

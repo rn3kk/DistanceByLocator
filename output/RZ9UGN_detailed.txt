@@ -1,0 +1,28 @@
+Callsign: RZ9UGN
+QTH Locator: NO33OP
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       8            2    0          222
+  435 MHz       2            1    0           50
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               10            3    0          272
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1451 432MHZ     SSB  RW9V          59  001    59  006    0                                 @  NO33QM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  14:50:00  GMT 435 MHz SSB RW9V 59(9) 8#NO33QM RZ9UGN 59(9) 1#NO33OP)
+  2015-07-04 1603 432MHZ     SSB  RG8U          59  002    59  010    50                                @  NO33QU
+  2015-07-04 1405 144MHZ     SSB  RW9UZZ        59  001    59  003    44                                @  NO33WQ
+  2015-07-04 1407 144MHZ     SSB  RZ8U          59  002    59  006    10                                @  NO33NR
+X 2015-07-04 1412 144MHZ     SSB  RA9YHR        59  003    59  003    0                                    NO33AG ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(RA9YHK(68))
+X 2015-07-04 1413 144MHZ     SSB  UB9YAK        59  004    59  003    0                                 @  NO33AG ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:12:00  GMT 145 MHz SSB UB9YAK 59(9) 3#NO33AG RA9UGN 59(9) 4#NO33OP)
+  2015-07-04 1426 144MHZ     SSB  RG8U          59  005    59  008    25                                @  NO33QU
+  2015-07-04 1430 144MHZ     SSB  RV9UDW        59  006    59  006    5                                 @  NO33PP
+  2015-07-04 1431 144MHZ     SSB  RA9UC         59  007    59  007    18                                @  NO33OT
+  2015-07-04 1438 144MHZ     SSB  RK8U          59  008    59  013    120                               @  NO43MR
+

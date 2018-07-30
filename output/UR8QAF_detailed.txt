@@ -1,0 +1,25 @@
+Callsign: UR8QAF/A
+QTH Locator: KN77DF
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       3            1    0          713
+  435 MHz       5            2    0         2328
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                8            3    0         3041
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1802 432MHZ     SSB  RU7M          59  006    59  035    0                                 @  KN97LN ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 2037 432MHZ     SSB  RX6APY        59  012    59  031    864                               @  KN94GQ
+X 2015-07-04 2055 432MHZ     SSB  R7AB          59  015    59  052    0                                 @  KN94WD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  20:55:00  GMT 435 MHz SSB R7AB 59(9) 52#KN94WD UR8QAF/A 59(9) 17#KN77DF)
+  2015-07-04 2155 432MHZ     SSB  RW3WR         59  019    59  061    954                               @  KO71IM
+  2015-07-04 2215 432MHZ     SSB  UA7R/5        59  021    59  035    510                               @  KN85CI
+  2015-07-04 1655 144MHZ     SSB  R6KW          59  029    59  042    236                               @  KN75GC
+  2015-07-04 2002 144MHZ     SSB  RW3WR         59  043    59  127    477                               @  KO71IM
+X 2015-07-04 2217 144MHZ     SSB  UA7R/P        59  048    59  057    0                                 @  KN85CI ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN(Cross Check QSO: 2015-Jul-04  22:16:00  GMT 145 MHz SSB UA7R/5 59(9) 57#KN85CI UR8QAF/A 59(9) 48#KN77DF)

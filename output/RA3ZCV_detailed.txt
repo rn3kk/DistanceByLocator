@@ -1,0 +1,22 @@
+Callsign: RA3ZCV
+QTH Locator: KO90AA
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       2            0    0            0
+  435 MHz       2            0    0            0
+  1.3 GHz       1            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+                5            0    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 2036 1.3GHZ     SSB  RN3ZR         59  001    59  003    0                                 @  KO90AG
+  2015-07-04 1903 432MHZ     SSB  RN3ZR         59  001    59  010    0                                 @  KO90AG
+  2015-07-04 1905 432MHZ     SSB  UR0LR         59  002    59  001    0                                 @  KN89KF
+  2015-07-04 1900 144MHZ     SSB  RN3ZR         59  001    59  026    0                                 @  KO90AG
+  2015-07-04 1907 144MHZ     SSB  UR0LR         59  002    59  001    0                                 @  KN89KF

@@ -1,0 +1,95 @@
+Callsign: UC2K
+QTH Locator: KO04XL
+Category: MULTI-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      49           21    1         4746
+  435 MHz      14            6    0         1502
+  1.3 GHz       8            5    0         2028
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               71           32    1         8276
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1920 1.3GHZ     SSB  LY3A          59  001    59  008    0                                 @  KO25DB ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 2135 1.3GHZ     SSB  UA2F          59  002    59  002    544                                  JO94XV
+X 2015-07-04 2200 1.3GHZ     SSB  EW6FS         59  003    59  006    0                                 @  KO35LB ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE, QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-04 2212 1.3GHZ     SSB  LY2FN         59  004    59  004    0                                 @  KO14XV ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE, QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 0612 1.3GHZ     SSB  EU4AP         59  005    59  005    0                                    KO13PP ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0615 1.3GHZ     SSB  SP2WPY        59  006    59  009    900                                  JO94FL
+  2015-07-05 0616 1.3GHZ     SSB  LY2R/P        59  007    59  003    584                               @  KO15KQ
+X 2015-07-05 0637 1.3GHZ     SSB  EW3UV/P       59  008    59  002    0                                    KO09EN ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 1444 144MHZ     SSB  LY3TR         59  001    59  012    0                                 @  KO14MW ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1445 144MHZ     SSB  LY3PEJ        59  002    59  005    0                                 @  KO15CL ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+
+X 2015-07-04 1446 144MHZ     SSB  LY2DR         59  003    59  006    0                                 @  KO15CL ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 1446 144MHZ     SSB  LY2HQ         59  004    59  010    0                                 @  KO15OV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1522 144MHZ     SSB  LY3VP/P       59  005    59  006    87                                   KO15LA
+  2015-07-04 1558 144MHZ     SSB  RA2FB         59  006    59  006    65                                @  KO05WB
+  2015-07-04 1559 144MHZ     SSB  RA2FX         59  007    59  002    64                                @  KO05XB
+X 2015-07-04 1601 144MHZ     SSB  R2FAS/P       59  008    59  001    0                                    KO04KP ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1603 144MHZ     SSB  LY5C/P        59  009    59  018    167                               @  KO15MU
+X 2015-07-04 1728 144MHZ     SSB  LY2R/P        59  010    59  026    0                                 @  KO15KQ ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 1731 144MHZ     SSB  EU4NC         59  011    59  007    134                               @  KO13TS
+  2015-07-04 1733 144MHZ     SSB  RK2FWK/P      59  012    59  002    4                                    KO04XK
+
+X 2015-07-04 1802 144MHZ     SSB  LY2A          59  014    59  017    0                                    KO15JC ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(LY3A(54), LY2SA(34), LY2NA(16))
+  2015-07-04 1826 144MHZ     SSB  LY3E          59  015    59  005    210                               @  KO25ES
+  2015-07-04 1828 144MHZ     SSB  EW4WQ         59  016    59  031    268                               @  KO23VO
+  2015-07-04 1830 144MHZ     SSB  LY2SA         59  017    59  028    115                               @  KO14UG
+X 2015-07-04 1834 144MHZ     SSB  EU1RZ/2       59  018    59  017    0                                 @  KO34SB ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  18:34:00  GMT 145 MHz SSB EU1RZ/2 59(9) 17#KO34SB UC2K 59(9) 18#KO04VL)
+  2015-07-04 1836 144MHZ     SSB  EU3AI         59  019    59  012    295                               @  KO22CE
+  2015-07-04 1838 144MHZ     SSB  UA2FT         59  020    59  012    74                                @  KO04LT
+  2015-07-04 1911 144MHZ     CW   UA2F          599 021    599 038    136                                  JO94XL ERROR(S): QSO_ERROR_STATISTICALLY_WRONG_QTH_LOCATOR
+X 2015-07-04 1915 144MHZ     CW   EU3BD         599 022    599 127    0                                 @  KO32BX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  19:13:00  GMT 145 MHz CW EU3BD 59(9) 27#KO32BX UC2K 59(9) 22#KO04XL)
+X 2015-07-04 1920 144MHZ     CW   LY3SS         599 023    599 007    0                                    KO25VL ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(LY2SS(5))
+
+  2015-07-04 1922 144MHZ     CW   UA2FL         599 024    599 018    99                                @  KO04FQ
+  2015-07-04 1926 144MHZ     CW   EW1DO         599 025    599 019    388                               @  KO33WX
+X 2015-07-04 1928 144MHZ     CW   EU1PI         599 026    599 018    0                                 @  KO33SU ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  19:31:00  GMT 145 MHz CW EU1AI 59(9) 18#KO33SU UC2K 59(9) 26#KO04XL)
+X 2015-07-04 1932 144MHZ     CW   LY2CG         599 027    599 005    0                                 @  KO24JT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  19:33:00  GMT 145 MHz CW LY2CG 59(9) 5#KO24PT UC2K 59(9) 27#KO04XL)
+X 2015-07-04 2134 144MHZ     SSB  EW4AX         59  028    59  010    0                                 @  KO13TS ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  21:35:00  GMT 145 MHz SSB EU4AX 59(9) 10#KO13TS UC2K 59(9) 28#KO04XL)
+  2015-07-04 2141 144MHZ     SSB  LY2HM         59  029    59  048    167                               @  KO15CX
+  2015-07-04 2150 144MHZ     SSB  LY2FN         59  030    59  022    136                               @  KO14XV
+  2015-07-04 2154 144MHZ     SSB  LY3BRA        59  031    59  023    130                               @  KO14WU
+X 2015-07-04 2154 144MHZ     SSB  LY3IZ/P       59  032    59  032    0                                 @  KO25QL ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-04 2242 144MHZ     SSB  RA2FAC        59  033    59  021    138                                  JO94XW
+
+X 2015-07-04 2311 144MHZ     SSB  EU4AG         59  034    59  024    0                                 @  KO23VO ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-05 0344 144MHZ     SSB  OZ4GX         59  035    59  116    0                                    JO57?? ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(OZ5GX(84))
+  2015-07-05 0550 144MHZ     SSB  EU4CK         59  037    59  026    204                               @  KO23IO
+  2015-07-05 0600 144MHZ     SSB  LY3VB         59  038    59  026    185                                  KO15QW
+  2015-07-05 0600 144MHZ     SSB  EW4MK         59  039    59  017    157                               @  KO23BU
+  2015-07-05 0601 144MHZ     SSB  LY1KAP/P      59  040    59  052    268                               @  KO25VL
+X 2015-07-05 0602 144MHZ     SSB  LY3UV/P       59  041    59  034    0                                 @  KO24EN ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE, QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  06:17:00  GMT 145 MHz SSB LY3UV/P 59(9) 39#KO24EN UC2K 59(9) 47#KO04XL), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  06:17:00  GMT 145 MHz SSB LY3UV/P 59(9) 39#KO24EN UC2K 59(9) 47#KO04XL)
+  2015-07-05 0603 144MHZ     SSB  LY2BUU        59  042    59  050    157                               @  KO15XH
+X 2015-07-05 0609 144MHZ     SSB  LY3PDX        59  043    59  018    0                                 @  KO14QL ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-05 0612 144MHZ     SSB  LY3BBM        59  044    59  020    0                                 @  KO15XF ERROR(S): QSO_ERROR_WRONG_CALLSIGN_AGAINST_CALLSIGN_DATABASE(LY3BBM/P), QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+
+X 2015-07-05 0614 144MHZ     SSB  LY4MA         59  045    59  026    0                                 @  KO14XW ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 0615 144MHZ     SSB  LY1V          59  046    59  017    0                                    KO15PW ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(LY1R(18), LY1U(16))
+  2015-07-05 0617 144MHZ     SSB  LY3UV/P       59  047    59  039    0  DUP                            @  KO24EN
+  2015-07-05 0618 144MHZ     SSB  LY1CR         59  048    59  025    112                               @  KO15CL
+  2015-07-05 0900 144MHZ     SSB  EW4VX         59  049    59  013    134                               @  KO13TS
+  2015-07-05 0950 144MHZ     SSB  SN9D          59  050    59  469    462                                  JO90PP
+  2015-07-05 1145 144MHZ     SSB  SN1D          59  051    59  134    390                                  JO83BQ
+X 2015-07-04 1915 432MHZ     SSB  LY3A          59  001    59  012    0                                 @  KO25DB ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-04 2105 432MHZ     SSB  RK2FWK/P      59  002    59  004    8                                    KO04XK
+  2015-07-04 2110 432MHZ     SSB  RA2FB         59  003    59  005    130                               @  KO05WB
+
+  2015-07-04 2111 432MHZ     SSB  LY3TR         59  004    59  010    172                               @  KO14MW
+  2015-07-04 2112 432MHZ     SSB  RA2FX         59  005    59  006    128                               @  KO05XB
+X 2015-07-04 2214 432MHZ     SSB  LY2FN         59  006    59  016    0                                 @  KO14XV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE, QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  22:10:00  GMT 435 MHz SSB LY2FN 59(9) 15#KO14XV UC2K 59(9) 6#KO04XL)
+X 2015-07-04 2320 432MHZ     SSB  EU4AG         59  007    59  005    0                                 @  KO23VO ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+X 2015-07-04 2323 432MHZ     SSB  EU4AX         59  001    59  001    0                                 @  KO13TS ERROR(S): QSO_ERROR_SENT_NUMBER_ORDER_ERROR, QSO_ERROR_DUPLICATE_SENT_NUMBER, QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  23:23:00  GMT 435 MHz SSB EU4AX 59(9) 1#KO13TS UC2K 59(9) 8#KO04XL)
+  2015-07-04 2325 432MHZ     SSB  EW4VX         59  009    59  001    268                               @  KO13TS
+  2015-07-05 0635 432MHZ     SSB  LY3UV/P       59  010    59  016    312                               @  KO24EN
+X 2015-07-05 0640 432MHZ     SSB  LY3PEJ        59  011    59  018    0                                 @  KO15CL ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0700 432MHZ     SSB  LY2DR         59  012    59  015    224                               @  KO15CL
+  2015-07-05 0700 432MHZ     SSB  LY3BRA        59  013    59  015    260                               @  KO14WU
+
+X 2015-07-05 0902 432MHZ     SSB  UA2FT         59  014    59  004    0                                 @  KO04LT ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE

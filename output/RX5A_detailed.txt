@@ -1,0 +1,28 @@
+Callsign: RX5A
+QTH Locator: KO84QS
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz       0            0    0            0
+  435 MHz       0            0    0            0
+  1.3 GHz      10            1    0         6292
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               10            1    0         6292
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 2201 1.3GHZ     CW   UA3XCR        599 001    599 010    780                               @  KO73IW
+X 2015-07-04 2244 1.3GHZ     CW   R5DC/3        599 002    599 025    0                                 @  KO83SU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  22:47:00  GMT 1.3 GHz CW R5DC/3 59(9) 25#KO83SU RX5A 59(9) 2#KO85QS)
+  2015-07-04 2324 1.3GHZ     CW   R2DU          599 003    599 013    84                                @  KO84UR
+  2015-07-04 2337 1.3GHZ     CW   RO2E          599 004    599 031    856                               @  KO82HV
+  2015-07-05 0041 1.3GHZ     CW   RW3PX         599 005    599 042    608                               @  KO83RJ
+  2015-07-05 0057 1.3GHZ     CW   RW3WR         599 006    599 033    1608                              @  KO71IM
+  2015-07-05 0126 1.3GHZ     CW   UA3ATS/3      599 007    599 012    564                               @  KO93AN
+  2015-07-05 0350 1.3GHZ     CW   UA3XAC        599 008    599 018    256                               @  KO85GC
+  2015-07-05 0405 1.3GHZ     CW   RD3BA         599 009    599 023    580                               @  KO75RL
+  2015-07-05 0440 1.3GHZ     CW   R3GC          599 010    599 031    956                               @  KO92DQ
+

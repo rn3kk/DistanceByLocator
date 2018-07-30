@@ -1,0 +1,36 @@
+Callsign: UR5ZEE
+QTH Locator: KN56XX
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      16            3    0            0
+  435 MHz       2            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               18            3    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1839 435MHZ     SSB  UR4ZWL/P      59  001    59  003    0                                 @  KN57UF
+  2015-07-05 0638 435MHZ     SSB  UR5ZJE        59  002    59  001    0                                 @  KN56XW
+  2015-07-04 1502 145MHZ     SSB  UR4ZWL/P      59  001    59  006    0                                 @  KN57UF
+  2015-07-04 1505 145MHZ     SSB  UR5ZJE        59  002    59  002    0                                 @  KN56XW
+  2015-07-04 1547 145MHZ     SSB  UW7E/P        59  003    59  023    0                                 @  KN78MO
+  2015-07-04 1750 145MHZ     SSB  UR1E/P        59  004    59  061    0                                 @  KN68OA
+  2015-07-04 1758 145MHZ     SSB  UV7E          59  005    59  049    0                                 @  KN67XR
+  2015-07-04 1800 145MHZ     SSB  UT5EV         59  006    59  022    0                                 @  KN78OP
+  2015-07-04 1804 145MHZ     SSB  UR3GS         59  007    59  027    0                                 @  KN66QR
+  2015-07-04 1809 145MHZ     SSB  UW5EFF        59  008    59  028    0                                    KN68TD
+
+  2015-07-04 1847 145MHZ     SSB  US7VF         59  009    59  059    0                                 @  KN58SI
+  2015-07-04 1934 145MHZ     SSB  UR5ZFQ        59  010    59  004    0                                    KN56XW
+  2015-07-05 0211 145MHZ     SSB  UV5ELH        59  011    59  039    0                                 @  KN67QV
+X 2015-07-05 0233 145MHZ     SSB  UR5ETN        59  012    59  040    0                                 @  KN78CL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  02:33:00  GMT 145 MHz SSB UR5ETN 59(9) 40#KN68CL UR5ZEE 59(9) 12#KN56XX)
+  2015-07-05 0626 145MHZ     SSB  US7GY         59  013    59  045    0                                 @  KN66LC
+X 2015-07-05 1115 145MHZ     SSB  UV5ETR        59  014    59  022    0                                    KN67RV ERROR(S): QSO_ERROR_SIMILAR_CALLSIGNS_FOUND_IN_CALLSIGN_DATABASE(UV5ETP(19))
+  2015-07-05 1240 145MHZ     SSB  UV5EIF        59  015    59  045    0                                 @  KN67RV
+X 2015-07-05 1241 145MHZ     SSB  UT0EZ         59  016    59  077    0                                 @  KN67SU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  12:42:00  GMT 145 MHz SSB UT0EZ 59(9) 77#KN67SU UT5ZEE 59(9) 16#KN56XX)

@@ -1,0 +1,87 @@
+Callsign: UN1WA
+QTH Locator: MO03SR
+Category: MULTI-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      42           13    0         4517
+  435 MHz      22            5    1         3102
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               64           18    1         7619
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+X 2015-07-04 1403 432MHZ     SSB  UN1WE         59  1      59  1      0                                 @  MO03UR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:03:00  GMT 435 MHz SSB UN1WE 59(9) 1#MO03UR UN1WA 59(9) 1#MO03SE)
+  2015-07-04 1409 432MHZ     SSB  UN1WB         59  2      59  2      32                                @  MO03VR
+  2015-07-04 1423 432MHZ     SSB  UN1WF         59  3      59  4      10                                @  MO03TR
+  2015-07-04 1427 432MHZ     SSB  UN7LDX        59  4      59  4      54                                @  MO03XR
+X 2015-07-04 1431 432MHZ     SSB  RK9AY         59  5      59  5      0                                 @  MO03FX ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:31:00  GMT 435 MHz SSB RK9AY 59(9) 5#MO03FX UN1WA 59(9) 6#MO03SR)
+  2015-07-04 1438 432MHZ     SSB  UN1WD         59  6      59  2      22                                @  MO03US
+X 2015-07-04 1519 432MHZ     SSB  RZ9A          59  7      59  3      0                                 @  LO94XA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  15:19:00  GMT 435 MHz SSB RZ9A 59(9) 3#LO94XA UN1WR 59(9) 7#MO03SR)
+X 2015-07-04 1740 432MHZ     SSB  R9AT          59  8      59  10     0                                 @  MO05IA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:40:00  GMT 435 MHz SSB R9AT 59(9) 10#MO05UI UN1WA 59(9) 8#MO03SR)
+  2015-07-04 1804 432MHZ     SSB  R8AAS         59  9      59  5      82                                @  MO04SC
+  2015-07-04 1827 432MHZ     SSB  RM8A          59  10     59  18     296                               @  MO04CT
+
+  2015-07-04 1838 432MHZ     SSB  UA9ACA        59  11     59  8      266                               @  LO94VI
+  2015-07-05 0034 432MHZ     SSB  RA8AA         59  12     59  26     286                               @  MO05TA
+X 2015-07-05 0038 432MHZ     SSB  UA9QDX        59  13     59  8      0                                 @  MO25PT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  00:38:00  GMT 435 MHz SSB UA9QDX 59(9) 8#MO25PL UN1WA 59(9) 13#MO03SR)
+  2015-07-05 0105 432MHZ     SSB  R8AZ          59  14     59  31     436                               @  LO94KW
+  2015-07-05 0147 432MHZ     SSB  RZ9AYA        59  15     59  27     298                               @  LO94QD
+  2015-07-05 0230 432MHZ     SSB  RA9AT         59  16     59  33     360                                  MO05UI
+  2015-07-05 0238 432MHZ     SSB  RA9AAA        59  17     59  26     292                               @  MO05NA
+  2015-07-05 0257 432MHZ     SSB  UN1WC         59  18     59  4      42                                @  MO03UN
+  2015-07-05 0319 432MHZ     SSB  UN1WE         59  19     59  29     0  DUP                            @  MO03UR
+  2015-07-05 0647 432MHZ     SSB  R8ACC         59  20     59  29     268                               @  MO04QW
+
+  2015-07-05 0750 432MHZ     SSB  UN1WG         59  21     59  4      34                                   MO03VQ
+  2015-07-05 0750 432MHZ     SSB  RT8B          59  22     59  15     324                               @  MO05QE
+  2015-07-04 1413 144MHZ     SSB  UN1WG         59  1      59  3      17                                   MO03VQ
+X 2015-07-04 1414 144MHZ     SSB  UN1WE         59  2      59  3      0                                 @  MO03UR ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  14:13:00  GMT 145 MHz SSB UN1WE 59(9) 3#MO03UR UN1WA 59(9) 4#MO03SR)
+  2015-07-04 1414 144MHZ     SSB  UN1WB         59  3      59  6      16                                @  MO03VR
+  2015-07-04 1425 144MHZ     SSB  UN1WD         59  4      59  6      11                                @  MO03US
+  2015-07-04 1430 144MHZ     SSB  RK9AY         59  5      59  6      76                                @  MO03FX
+  2015-07-04 1436 144MHZ     SSB  UN7LDX        59  6      59  5      27                                @  MO03XR
+  2015-07-04 1516 144MHZ     SSB  RZ9A          59  7      59  16     108                               @  LO94XA
+X 2015-07-04 1544 144MHZ     SSB  RX9AFQ        59  8      59  5      0                                 @  MO04TB ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  15:44:00  GMT 145 MHz SSB RX9AFQ 59(9) 6#MO04TB UN1WA 59(9) 8#MO03SR)
+
+  2015-07-04 1551 144MHZ     SSB  RM9CM         59  9      59  17     417                               @  MO07NL
+  2015-07-04 1607 144MHZ     SSB  RA9AJW        59  10     59  17     158                               @  MO05PD
+  2015-07-04 1640 144MHZ     SSB  UN1WF         59  11     59  17     5                                 @  MO03TR
+X 2015-07-04 1703 144MHZ     SSB  R8ACC         59  12     59  23     0                                 @  MO04QW ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:02:00  GMT 145 MHz SSB R8ACC 59(9) 22#MO04QW UN1WA 59(9) 12#MO03SR)
+  2015-07-04 1707 144MHZ     SSB  RA8AA         59  13     59  1      143                               @  MO05TA
+  2015-07-04 1713 144MHZ     SSB  RV9AJ         59  14     59  10     105                               @  MO04GL
+  2015-07-04 1716 144MHZ     SSB  RT8B          59  15     59  2      162                               @  MO05QE
+  2015-07-04 1717 144MHZ     SSB  UB8ASV        59  16     59  20     180                               @  MO05UI
+  2015-07-04 1733 144MHZ     SSB  RZ9AWJ        59  17     59  28     134                               @  MO14MN
+X 2015-07-04 1738 144MHZ     SSB  R9AT          59  18     59  12     0                                 @  MO05IA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-04  17:38:00  GMT 145 MHz SSB R9AT 59(9) 12#MO05UI UN1WA 59(9) 18#MO03SR)
+
+  2015-07-04 1803 144MHZ     SSB  R8AAS         59  19     59  6      41                                @  MO04SC
+  2015-07-04 1825 144MHZ     SSB  RM8A          59  20     59  29     148                               @  MO04CT
+  2015-07-04 1837 144MHZ     SSB  UA9ACA        59  21     59  10     133                               @  LO94VI
+  2015-07-05 0005 144MHZ     SSB  RA9CCK        59  22     59  34     301                               @  MO06WK
+X 2015-07-05 0006 144MHZ     SSB  RV9CVA        59  23     59  39     0                                 @  MO06ST ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  00:06:00  GMT 145 MHz SSB RV9CVA 59(9) 38#MO06ST UN1WA 59(9) 23#MO03SR)
+  2015-07-05 0013 144MHZ     SSB  RT9L          59  24     59  35     452                               @  MO27RD
+X 2015-07-05 0016 144MHZ     SSB  RA9LR         59  25     59  30     0                                 @  MO27RD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  00:16:00  GMT 145 MHz SSB RA9LR 59(9) 30#MO27TC UN1WA 59(9) 25#MO03SR)
+  2015-07-05 0019 144MHZ     SSB  UA9AE         59  26     59  19     69                                @  MO04SI
+X 2015-07-05 0024 144MHZ     SSB  RK8T          59  27     59  42     0                                 @  LO91PT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:24:00  GMT 145 MHz SSB RK8T 59(9) 42#LO91PT UN1WA 59(9) 27#MO03SP)
+X 2015-07-05 0037 144MHZ     SSB  UA9QDX        59  28     59  24     0                                 @  MO25PT ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  00:37:00  GMT 145 MHz SSB UA9QDX 59(9) 24#MO25PL UN1WA 59(9) 28#MO03SR)
+
+X 2015-07-05 0102 144MHZ     SSB  RA9CGR        59  29     59  29     0                                 @  LO86VR ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0104 144MHZ     SSB  R8AZ          59  30     59  46     218                               @  LO94KW
+  2015-07-05 0125 144MHZ     SSB  UN1WC         59  31     59  10     21                                @  MO03UN
+X 2015-07-05 0146 144MHZ     SSB  RZ9AYA        59  32     59  52     0                                 @  LO94QD ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  01:46:00  GMT 145 MHz SSB RZ9AYA 59(9) 52#LO94QD UN1WA 59(9) 3#MO03SR)
+  2015-07-05 0229 144MHZ     SSB  RA9BZ         59  33     59  45     176                               @  MO05KG
+  2015-07-05 0233 144MHZ     SSB  RX9AKK        59  34     59  18     162                               @  MO05QE
+  2015-07-05 0237 144MHZ     SSB  RA9AAA        59  35     59  42     146                               @  MO05NA
+  2015-07-05 0331 144MHZ     SSB  RW9FWR        59  36     59  50     598                               @  LO98JV
+  2015-07-05 0336 144MHZ     SSB  RA9CMI        59  37     59  24     361                               @  MO06RX
+  2015-07-05 0349 144MHZ     SSB  RA9AHE        59  38     59  23     95                                @  MO03HB
+
+  2015-07-05 0602 144MHZ     SSB  RK9AA         59  39     59  7      37                                @  MO04SB
+X 2015-07-05 0640 144MHZ     SSB  RC8C          59  40     59  45     0                                 @  LO96JE ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  06:40:00  GMT 145 MHz SSB RC8CA 59(9) 45#LO96JE UN1WA 59(9) 40#MO03SR)
+X 2015-07-05 0653 144MHZ     SSB  RU9FT         59  41     59  62     0                                 @  LO88SU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  06:53:00  GMT 145 MHz SSB RU9FT 59(9) 52#LO88SU UN1WA 59(9) 41#MO03CR), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  06:53:00  GMT 145 MHz SSB RU9FT 59(9) 52#LO88SU UN1WA 59(9) 41#MO03CR)
+X 2015-07-05 0703 144MHZ     SSB  UN7LZ/P       59  42     59  2      0                                 @  MO03UN ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND

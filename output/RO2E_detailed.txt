@@ -1,0 +1,279 @@
+Callsign: RO2E
+QTH Locator: KO82HV
+Category: MULTI-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz     115            1  114            0
+  435 MHz      83            1   82            0
+  1.3 GHz      41            3    0        47432
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+              239            5  196        47432
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1405 1.3GHZ     CW   R2DU          599 001    599 001    860                               @  KO84UR
+  2015-07-04 1406 1.3GHZ     CW   RK3DWW/3      599 002    599 001    128                               @  KO82DQ
+  2015-07-04 1409 1.3GHZ     CW   RW3PX         599 003    599 004    312                               @  KO83RJ
+  2015-07-04 1423 1.3GHZ     CW   RW3WR         599 004    599 003    800                               @  KO71IM
+  2015-07-04 1437 1.3GHZ     CW   UA3X          599 005    599 003    908                               @  KO84JW
+  2015-07-04 1441 1.3GHZ     CW   RK5D          599 006    599 003    1480                              @  KO86WD
+  2015-07-04 1447 1.3GHZ     CW   RT2M          599 007    599 010    1932                              @  KO97GC
+X 2015-07-04 1449 1.3GHZ     CW   RN3DK         599 008    599 005    0                                 @  KO85WS ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-04  14:49:00  GMT 1.3 GHz CW RN3DKQ 59(9) 5#KO85WS RO2E 59(9) 8#KO82HV)
+  2015-07-04 1500 1.3GHZ     CW   RA3DGP        599 009    599 001    1292                              @  KO95FO
+  2015-07-04 1522 1.3GHZ     CW   R5DC/3        599 010    599 008    488                               @  KO83SU
+
+  2015-07-04 1544 1.3GHZ     CW   RN3QRY        599 011    599 002    996                               @  KO91OH
+  2015-07-04 1702 1.3GHZ     CW   R3GC          599 012    599 013    456                               @  KO92DQ
+X 2015-07-04 1703 1.3GHZ     CW   RC3P          599 013    599 007    0                                 @  KO93CA ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-04  17:03:00  GMT 1.3 GHz CW RC3P 59(9) 7#KO93CA RO2E 59(9) 12#KO82HV)
+  2015-07-04 1708 1.3GHZ     CW   R3GS          599 014    599 008    792                               @  KO92SO
+  2015-07-04 1713 1.3GHZ     CW   RW3TJ         599 015    599 009    2172                              @  LO16MB
+  2015-07-04 1720 1.3GHZ     CW   RA3WDK        599 016    599 004    536                               @  KO81BR
+  2015-07-04 1732 1.3GHZ     CW   UA3XCR        599 017    599 002    684                               @  KO73IW
+  2015-07-04 1812 1.3GHZ     CW   RU3T          599 018    599 014    2312                              @  LO25BR
+  2015-07-04 1817 1.3GHZ     CW   RM7T/3        599 019    599 010    972                               @  KO90CW
+  2015-07-04 1827 1.3GHZ     CW   UA3ATS/3      599 020    599 007    476                               @  KO93AN
+
+  2015-07-04 1847 1.3GHZ     CW   UA3M          599 021    599 011    2272                              @  KO97VQ
+  2015-07-04 1902 1.3GHZ     CW   RN3F          599 022    599 014    1476                              @  KO86RE
+  2015-07-04 1938 1.3GHZ     CW   R3RW          599 023    599 004    1212                              @  LO03NG
+  2015-07-04 1954 1.3GHZ     CW   RA3TLU        599 024    599 008    2188                              @  LO15WJ
+  2015-07-04 2007 1.3GHZ     CW   RD3DA         599 025    599 020    1304                              @  KO85PT
+  2015-07-04 2038 1.3GHZ     CW   UA3LID        599 026    599 012    1132                              @  KO64PM
+  2015-07-04 2058 1.3GHZ     CW   UA3DHC        599 027    599 014    1400                              @  KO95AW
+  2015-07-04 2137 1.3GHZ     CW   RT7A/6        599 028    599 005    2364                              @  LN08BB
+  2015-07-04 2205 1.3GHZ     CW   RN3DKQ        599 029    599 020    1316                              @  KO85WS
+  2015-07-04 2325 1.3GHZ     CW   UF3D          599 030    599 026    1168                              @  KO95AJ
+
+  2015-07-04 2338 1.3GHZ     CW   RX5A          599 031    599 004    856                               @  KO84QS
+  2015-07-05 0000 1.3GHZ     CW   RT4D          599 032    599 007    2524                              @  LO21TM
+  2015-07-05 0012 1.3GHZ     CW   RK3R          599 033    599 016    1216                              @  LO02NO
+X 2015-07-05 0055 1.3GHZ     CW   RD3BA         599 034    599 012    0                                 @  KO75RL ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_CALLSIGN_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  00:56:00  GMT 1.3 GHz CW RD3BA 59(9) 12#KO75RL R02E 59(9) 34#KO82HV)
+  2015-07-05 0108 1.3GHZ     CW   EW6FS         599 035    599 009    2700                              @  KO35LB
+  2015-07-05 0146 1.3GHZ     CW   RK3AF         599 036    599 014    1392                              @  KO75TX
+  2015-07-05 0211 1.3GHZ     CW   RA3AES        599 037    599 010    1224                              @  KO95DL
+  2015-07-05 0213 1.3GHZ     CW   RK3XWO        599 038    599 007    892                               @  KO84DV
+  2015-07-05 0417 1.3GHZ     CW   UA3XAC        599 039    599 022    980                               @  KO85GC
+  2015-07-05 0656 1.3GHZ     SSB  UA3RUF        59  040    59  008    1116                              @  LO02JU
+
+  2015-07-05 0824 1.3GHZ     CW   RK3D          599 041    599 017    1104                              @  KO94MW
+X 2015-07-04 1400 435MHZ     CW   KO82HV        599 001               0                                    UA3LID599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1402 435MHZ     CW   KO82HV        599 002               0  DUP                               RW3WR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1406 435MHZ     CW   KO82HV        599 003               0  DUP                               RN3QR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1408 435MHZ     CW   KO82HV        599 004               0  DUP                               RW3PX599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1411 435MHZ     CW   KO82HV        599 005               0  DUP                               R2EA599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1413 435MHZ     CW   KO82HV        599 006               0  DUP                               RK3DWW/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1416 435MHZ     CW   KO82HV        599 007               0  DUP                               RC3ZB599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1418 435MHZ     CW   KO82HV        599 008               0  DUP                               RM7T/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1419 435MHZ     CW   KO82HV        599 009               0  DUP                               UY7LO599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1423 435MHZ     CW   KO82HV        599 010               0  DUP                               R5DC/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1430 435MHZ     SSB  KO82HV        59  011               0  DUP                               RW3WP59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1442 435MHZ     CW   KO82HV        599 012               0  DUP                               RN3DKQ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1445 435MHZ     SSB  KO82HV        59  013               0  DUP                               RA3VGV59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1448 435MHZ     CW   KO82HV        599 014               0  DUP                               UF3D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1501 435MHZ     CW   KO82HV        599 015               0  DUP                               UT4L/P599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1508 435MHZ     CW   KO82HV        599 016               0  DUP                               UT4LA599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1514 435MHZ     SSB  KO82HV        59  017               0  DUP                               R3EK59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1515 435MHZ     SSB  KO82HV        59  018               0  DUP                               UA3RSG59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1527 435MHZ     CW   KO82HV        599 019               0  DUP                               UX4IJ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1545 435MHZ     CW   KO82HV        599 020               0  DUP                               UA3F599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1549 435MHZ     CW   KO82HV        599 021               0  DUP                               RX3A599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1604 435MHZ     CW   KO82HV        599 022               0  DUP                               UR4EWP/P599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1628 435MHZ     SSB  KO82HV        59  023               0  DUP                               R3DX59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1635 435MHZ     CW   KO82HV        599 024               0  DUP                               UA3XCR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1639 435MHZ     CW   KO82HV        599 025               0  DUP                               UA3XAC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1644 435MHZ     CW   KO82HV        599 026               0  DUP                               UR5LX599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1701 435MHZ     CW   KO82HV        599 027               0  DUP                               R3GS599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1708 435MHZ     CW   KO82HV        599 028               0  DUP                               RN3ZR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1711 435MHZ     CW   KO82HV        599 029               0  DUP                               UR5AS599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1716 435MHZ     CW   KO82HV        599 030               0  DUP                               UT2HC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1726 435MHZ     CW   KO82HV        599 031               0  DUP                               RK3XWO599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1728 435MHZ     CW   KO82HV        599 032               0  DUP                               RU3DD599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1740 435MHZ     CW   KO82HV        599 033               0  DUP                               R2DU599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1747 435MHZ     CW   KO82HV        599 034               0  DUP                               RA3DGP599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1751 435MHZ     CW   KO82HV        599 035               0  DUP                               RK5D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1756 435MHZ     CW   KO82HV        599 036               0  DUP                               RC3P599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1827 435MHZ     CW   KO82HV        599 037               0  DUP                               RD3B/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1840 435MHZ     CW   KO82HV        599 038               0  DUP                               RA3XX599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1855 435MHZ     CW   KO82HV        599 039               0  DUP                               RT4D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1911 435MHZ     CW   KO82HV        599 040               0  DUP                               RG3K599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1918 435MHZ     CW   KO82HV        599 041               0  DUP                               RK3R599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1944 435MHZ     CW   KO82HV        599 042               0  DUP                               RU7M599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1953 435MHZ     CW   KO82HV        599 043               0  DUP                               RT2M599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1959 435MHZ     CW   KO82HV        599 044               0  DUP                               RU3VV599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2001 435MHZ     CW   KO82HV        599 045               0  DUP                               RV3AQ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2010 435MHZ     CW   KO82HV        599 046               0  DUP                               RA3TLU599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2035 435MHZ     CW   KO82HV        599 047               0  DUP                               UA3DHC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2057 435MHZ     CW   KO82HV        599 048               0  DUP                               ERROR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2121 435MHZ     CW   KO82HV        599 049               0  DUP                               RK3X599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 2126 435MHZ     CW   KO82HV        599 050               0  DUP                               RN3F599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2134 435MHZ     CW   KO82HV        599 051               0  DUP                               R6DZ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2142 435MHZ     CW   KO82HV        599 052               0  DUP                               RT3G599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2144 435MHZ     CW   KO82HV        599 053               0  DUP                               R3RW599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2151 435MHZ     CW   KO82HV        599 054               0  DUP                               R3GC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2212 435MHZ     CW   KO82HV        599 055               0  DUP                               UA4AQL599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2217 435MHZ     CW   KO82HV        599 056               0  DUP                               UA4CC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2251 435MHZ     SSB  KO82HV        59  057               0  DUP                               EW6WF59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2306 435MHZ     CW   KO82HV        599 058               0  DUP                               RK2Y599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2352 435MHZ     CW   KO82HV        599 059               0  DUP                               RT7A/6599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 2357 435MHZ     CW   KO82HV        599 060               0  DUP                               RA3XDR/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0002 435MHZ     CW   KO82HV        599 061               0  DUP                               RN3QRY599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0023 435MHZ     CW   KO82HV        599 062               0  DUP                               RL3D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0030 435MHZ     CW   KO82HV        599 063               0  DUP                               RK3DHU599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0045 435MHZ     CW   KO82HV        599 064               0  DUP                               RK7M599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0148 435MHZ     CW   KO82HV        599 065               0  DUP                               RW3TJ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0201 435MHZ     CW   KO82HV        599 066               0  DUP                               RW3VM599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0209 435MHZ     CW   KO82HV        599 067               0  DUP                               UA3ATS/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0247 435MHZ     CW   KO82HV        599 068               0  DUP                               RA3AES599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0250 435MHZ     CW   KO82HV        599 069               0  DUP                               UA3M599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-05 0253 435MHZ     CW   KO82HV        599 070               0  DUP                               RK3MWC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0303 435MHZ     CW   KO82HV        599 071               0  DUP                               RD3BA599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0316 435MHZ     CW   KO82HV        599 072               0  DUP                               RA3OW599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0443 435MHZ     CW   KO82HV        599 073               0  DUP                               RG3R599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0459 435MHZ     CW   KO82HV        599 074               0  DUP                               RA3DG599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0515 435MHZ     CW   KO82HV        599 075               0  DUP                               US5EII599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0519 435MHZ     CW   KO82HV        599 076               0  DUP                               UV2L/P599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0522 435MHZ     CW   KO82HV        599 077               0  DUP                               UT8AL599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0535 435MHZ     SSB  KO82HV        59  078               0  DUP                               UR4LG59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0547 435MHZ     CW   KO82HV        599 079               0  DUP                               R2ZBT599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-05 0549 435MHZ     CW   KO82HV        599 080               0  DUP                               R3ZD599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0601 435MHZ     SSB  KO82HV        59  081               0  DUP                               US4IEK59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0654 435MHZ     CW   KO82HV        599 082               0  DUP                               UA3X599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0741 435MHZ     CW   KO82HV        599 083               0  DUP                               RK3DR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+X 2015-07-04 1500 145MHZ     SSB  KO82HV        59  001               0                                    UR4LRG59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1501 145MHZ     SSB  KO82HV        59  002               0  DUP                               R2EA59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1502 145MHZ     SSB  KO82HV        59  003               0  DUP                               R3EK59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1503 145MHZ     SSB  KO82HV        59  004               0  DUP                               RW3WP59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1505 145MHZ     SSB  KO82HV        59  005               0  DUP                               R3KBF59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1506 145MHZ     SSB  KO82HV        59  006               0  DUP                               UA3QHF59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1506 145MHZ     SSB  KO82HV        59  007               0  DUP                               RD3B/359 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1507 145MHZ     SSB  KO82HV        59  008               0  DUP                               RC3P59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1511 145MHZ     SSB  KO82HV        59  009               0  DUP                               RT2M59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1513 145MHZ     SSB  KO82HV        59  010               0  DUP                               RK7M59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1514 145MHZ     SSB  KO82HV        59  011               0  DUP                               RM7T/359 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1516 145MHZ     SSB  KO82HV        59  012               0  DUP                               RT5G59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1518 145MHZ     SSB  KO82HV        59  013               0  DUP                               UR4LTX59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1518 145MHZ     SSB  KO82HV        59  014               0  DUP                               RN3ZJJ59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1520 145MHZ     SSB  KO82HV        59  015               0  DUP                               UR3LBL59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1520 145MHZ     SSB  KO82HV        59  016               0  DUP                               RZ3EL59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1522 145MHZ     SSB  KO82HV        59  017               0  DUP                               R3ZD59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1523 145MHZ     SSB  KO82HV        59  018               0  DUP                               R3ZI59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1523 145MHZ     SSB  KO82HV        59  019               0  DUP                               RC3ZB59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1524 145MHZ     SSB  KO82HV        59  020               0  DUP                               R2ZBT59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1525 145MHZ     SSB  KO82HV        59  021               0  DUP                               US5LRQ59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1527 145MHZ     SSB  KO82HV        59  022               0  DUP                               UA3XCR59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1529 145MHZ     SSB  KO82HV        59  023               0  DUP                               RN3QRY59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1532 145MHZ     SSB  KO82HV        59  024               0  DUP                               RN3F59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1535 145MHZ     SSB  KO82HV        59  025               0  DUP                               RA3ACY59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1536 145MHZ     SSB  KO82HV        59  026               0  DUP                               RK5D59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1538 145MHZ     SSB  KO82HV        59  027               0  DUP                               RN3DKQ59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1540 145MHZ     SSB  KO82HV        59  028               0  DUP                               RA3VGV59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1542 145MHZ     SSB  KO82HV        59  029               0  DUP                               RW3DVW59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1542 145MHZ     SSB  KO82HV        59  030               0  DUP                               RK3DWW59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1543 145MHZ     SSB  KO82HV        59  031               0  DUP                               R2ADL59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1544 145MHZ     SSB  KO82HV        59  032               0  DUP                               RK3AF59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1545 145MHZ     SSB  KO82HV        59  033               0  DUP                               RK9AT/359 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1546 145MHZ     SSB  KO82HV        59  034               0  DUP                               RW3TJ59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1547 145MHZ     SSB  KO82HV        59  035               0  DUP                               RU3VV59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1551 145MHZ     SSB  KO82HV        59  036               0  DUP                               R3QN59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1552 145MHZ     SSB  KO82HV        59  037               0  DUP                               R5DC/359 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1553 145MHZ     SSB  KO82HV        59  038               0  DUP                               RN3ZR59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1555 145MHZ     SSB  KO82HV        59  039               0  DUP                               R7LB59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1556 145MHZ     SSB  KO82HV        59  040               0  DUP                               UA3RN59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1557 145MHZ     SSB  KO82HV        59  041               0  DUP                               UA3RSG59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1559 145MHZ     SSB  KO82HV        59  042               0  DUP                               RA3DEM59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1600 145MHZ     SSB  KO82HV        59  043               0  DUP                               R3DX59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1603 145MHZ     SSB  KO82HV        59  044               0  DUP                               RW3PX59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1614 145MHZ     SSB  KO82HV        59  045               0  DUP                               RZ6MU/359 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1615 145MHZ     SSB  KO82HV        59  046               0  DUP                               UA3QCB59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1616 145MHZ     SSB  KO82HV        59  047               0  DUP                               UA4FKD59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1618 145MHZ     SSB  KO82HV        59  048               0  DUP                               R3PG59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1619 145MHZ     SSB  KO82HV        59  049               0  DUP                               RQ3P59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1624 145MHZ     SSB  KO82HV        59  050               0  DUP                               US5AEP59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1627 145MHZ     SSB  KO82HV        59  051               0  DUP                               UR4EWP/P59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1632 145MHZ     SSB  KO82HV        59  052               0  DUP                               RL3BZ59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1636 145MHZ     CW   KO82HV        599 053               0  DUP                               UF3D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1637 145MHZ     CW   KO82HV        599 054               0  DUP                               RK3XWO599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1640 145MHZ     CW   KO82HV        599 055               0  DUP                               R5WW599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1643 145MHZ     CW   KO82HV        599 056               0  DUP                               UC3C/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1645 145MHZ     CW   KO82HV        599 057               0  DUP                               RA3UAG599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1702 145MHZ     CW   KO82HV        599 058               0  DUP                               UA3AHM599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1706 145MHZ     CW   KO82HV        599 059               0  DUP                               UV2L/P599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1709 145MHZ     CW   KO82HV        599 060               0  DUP                               US5EII599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1712 145MHZ     CW   KO82HV        599 061               0  DUP                               UR4LIN599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1716 145MHZ     CW   KO82HV        599 062               0  DUP                               UA3XAC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1722 145MHZ     CW   KO82HV        599 063               0  DUP                               UA3X599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1725 145MHZ     SSB  KO82HV        59  064               0  DUP                               RW3WR59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1726 145MHZ     SSB  KO82HV        59  065               0  DUP                               RW3ZO59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1727 145MHZ     SSB  KO82HV        59  066               0  DUP                               R2GKH59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1730 145MHZ     SSB  KO82HV        59  067               0  DUP                               UT8LE59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1738 145MHZ     CW   KO82HV        599 068               0  DUP                               RG3K599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1742 145MHZ     CW   KO82HV        599 069               0  DUP                               RA3WT599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1754 145MHZ     CW   KO82HV        599 070               0  DUP                               RT7A/6599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1755 145MHZ     CW   KO82HV        599 071               0  DUP                               UA3QGT599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1758 145MHZ     CW   KO82HV        599 072               0  DUP                               UT4LA599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1803 145MHZ     CW   KO82HV        599 073               0  DUP                               US6EC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1829 145MHZ     CW   KO82HV        599 074               0  DUP                               RK3R599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1833 145MHZ     CW   KO82HV        599 075               0  DUP                               UA3LID599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1839 145MHZ     CW   KO82HV        599 076               0  DUP                               RV3AQ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 1845 145MHZ     CW   KO82HV        599 077               0  DUP                               UT4L/P599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1902 145MHZ     CW   KO82HV        599 078               0  DUP                               UR4VWN599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1914 145MHZ     CW   KO82HV        599 079               0  DUP                               R6DZ599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1922 145MHZ     CW   KO82HV        599 080               0  DUP                               EW6WF599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 1930 145MHZ     CW   KO82HV        599 081               0  DUP                               RX3QFM599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2012 145MHZ     SSB  KO82HV        59  082               0  DUP                               R3DE59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2018 145MHZ     CW   KO82HV        599 083               0  DUP                               RN3AC/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2022 145MHZ     CW   KO82HV        599 084               0  DUP                               RK3DWW/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2037 145MHZ     CW   KO82HV        599 085               0  DUP                               RU7M599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2042 145MHZ     CW   KO82HV        599 086               0  DUP                               UA3M599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 2050 145MHZ     CW   KO82HV        599 087               0  DUP                               R2DU599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2103 145MHZ     CW   KO82HV        599 088               0  DUP                               RA3TLU599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2107 145MHZ     CW   KO82HV        599 089               0  DUP                               RD3BA599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2118 145MHZ     CW   KO82HV        599 090               0  DUP                               RK2Y599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2125 145MHZ     SSB  KO82HV        59  091               0  DUP                               RK3D59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2133 145MHZ     CW   KO82HV        599 092               0  DUP                               UA3DHC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2234 145MHZ     CW   KO82HV        599 093               0  DUP                               RU3DD599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2241 145MHZ     CW   KO82HV        599 094               0  DUP                               RK3X599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2253 145MHZ     SSB  KO82HV        59  095               0  DUP                               UR5LX59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2309 145MHZ     CW   KO82HV        599 096               0  DUP                               UA4CC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-04 2313 145MHZ     CW   KO82HV        599 097               0  DUP                               RT4D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2330 145MHZ     CW   KO82HV        599 098               0  DUP                               RX3A599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-04 2351 145MHZ     SSB  KO82HV        59  099               0  DUP                               R2YAA59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0013 145MHZ     CW   KO82HV        599 100               0  DUP                               R4YM599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0108 145MHZ     CW   KO82HV        599 101               0  DUP                               RA3XDR/3599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0149 145MHZ     CW   KO82HV        599 102               0  DUP                               RA3AES599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0151 145MHZ     CW   KO82HV        599 103               0  DUP                               RL3D599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0154 145MHZ     CW   KO82HV        599 104               0  DUP                               UB3DDA599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0216 145MHZ     CW   KO82HV        599 105               0  DUP                               RK3DHU599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0326 145MHZ     CW   KO82HV        599 106               0  DUP                               RL3QDD599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+
+  2015-07-05 0532 145MHZ     CW   KO82HV        599 107               0  DUP                               R3RW599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0535 145MHZ     CW   KO82HV        599 108               0  DUP                               R4HV/4599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0547 145MHZ     CW   KO82HV        599 109               0  DUP                               RK3MWC599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0551 145MHZ     CW   KO82HV        599 110               0  DUP                               RA3DGP599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0630 145MHZ     CW   KO82HV        599 111               0  DUP                               RA3OW599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0639 145MHZ     SSB  KO82HV        59  112               0  DUP                               R2ZBK59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0715 145MHZ     SSB  KO82HV        59  113               0  DUP                               UR4LG59 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0829 145MHZ     CW   KO82HV        599 114               0  DUP                               RW3SK599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE
+  2015-07-05 0836 145MHZ     CW   KO82HV        599 115               0  DUP                               RK3DR599 ERROR(S): QSO_ERROR_NOT_IN_CALLSIGN_DATABASE

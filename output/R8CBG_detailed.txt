@@ -1,0 +1,35 @@
+Callsign: R8CBG
+QTH Locator: MO06HP
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      17            0    0         2990
+  435 MHz       0            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               17            0    0         2990
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1808 144MHZ     SSB  RF9C          59  001    59  018    23                                @  MO06HU
+  2015-07-04 1819 144MHZ     SSB  RM9CM         59  002    59  027    97                                @  MO07NL
+  2015-07-04 1848 144MHZ     SSB  R8CBF         59  003    59  002    19                                @  MO06IT
+  2015-07-04 1920 144MHZ     SSB  R9CCC         59  004    59  026    199                               @  LO86QV
+  2015-07-04 1922 144MHZ     SSB  RX9CBS        59  005    59  011    14                                @  MO06GS
+  2015-07-04 1925 144MHZ     SSB  RV9CVA        59  006    59  024    58                                @  MO06ST
+  2015-07-04 1928 144MHZ     SSB  RC8CA         59  007    59  014    123                               @  LO96JE
+  2015-07-04 1934 144MHZ     SSB  UA9FAI        59  008    59  026    234                               @  LO88VC
+  2015-07-04 1938 144MHZ     SSB  UA9FY         59  009    59  038    268                               @  LO88WN
+  2015-07-04 1946 144MHZ     SSB  UA9FPG        59  010    59  010    317                               @  LO89TA
+
+  2015-07-04 1951 144MHZ     SSB  RA9CCK        59  011    59  023    80                                @  MO06WK
+  2015-07-04 1953 144MHZ     SSB  UA9CFH        59  012    59  035    134                               @  MO07RS
+  2015-07-04 1958 144MHZ     SSB  RM8A          59  013    59  035    205                               @  MO04CT
+  2015-07-05 0600 144MHZ     SSB  RW9FWR        59  014    59  054    272                               @  LO98JV
+  2015-07-05 0734 144MHZ     SSB  RA4W          59  015    59  060    447                               @  LO66PX
+  2015-07-05 0753 144MHZ     SSB  R8ACC         59  016    59  059    195                               @  MO04QW
+  2015-07-05 0913 144MHZ     SSB  RU9FT         59  017    59  055    305                               @  LO88SU

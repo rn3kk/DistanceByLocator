@@ -1,0 +1,62 @@
+Callsign: RA2FX
+QTH Locator: KO05XB
+Category: SINGLE-OP, ALL
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      32            6    0         2918
+  435 MHz       9            1    0         1130
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               41            7    0         4048
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-04 1650 432MHZ     SSB  LY2DR         59  001    59  003    96                                @  KO15CL
+  2015-07-04 1651 432MHZ     SSB  LY3PEJ        59  002    59  003    96                                @  KO15CL
+  2015-07-04 1731 432MHZ     SSB  RA2FB         59  003    59  001    10                                @  KO05WB
+  2015-07-04 1931 432MHZ     SSB  RK2FWK/P      59  004    59  001    138                                  KO04XK
+  2015-07-04 2053 432MHZ     SSB  LY3TR         59  005    59  008    140                               @  KO14MW
+  2015-07-04 2113 432MHZ     SSB  UC2K          59  006    59  005    128                               @  KO04XL
+  2015-07-05 0333 432MHZ     SSB  LY1R          59  007    59  009    194                               @  KO14RV
+X 2015-07-05 0419 432MHZ     SSB  LY3BRA        59  008    59  011    0                                 @  KO14WU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  04:19:00  GMT 435 MHz SSB LY3BRA 59(9) 10#KO14WU RA2FX 59(9) 8#KO05VB), QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  04:19:00  GMT 435 MHz SSB LY3BRA 59(9) 10#KO14WU RA2FX 59(9) 8#KO05VB)
+  2015-07-05 0455 432MHZ     SSB  LY3UV/P       59  009    59  013    328                               @  KO24EN
+  2015-07-04 1554 144MHZ     SSB  RA2FB         59  001    59  004    5                                 @  KO05WB
+
+  2015-07-04 1600 144MHZ     SSB  UC2K          59  002    59  007    64                                @  KO04XL
+  2015-07-04 1603 144MHZ     SSB  LY3VP/P       59  003    59  008    63                                   KO15LA
+  2015-07-04 1610 144MHZ     SSB  LY5AT         59  004    59  001    28                                   KO15DF
+  2015-07-04 1613 144MHZ     SSB  LY2DR         59  005    59  016    48                                @  KO15CL
+  2015-07-04 1614 144MHZ     SSB  LY3PEJ        59  006    59  013    48                                @  KO15CL
+  2015-07-04 1616 144MHZ     SSB  LY5C/P        59  007    59  020    111                               @  KO15MU
+  2015-07-04 1624 144MHZ     SSB  LY3TR         59  008    59  015    70                                @  KO14MW
+  2015-07-04 1705 144MHZ     SSB  RK2FWK/P      59  009    59  001    69                                   KO04XK
+  2015-07-04 1713 144MHZ     SSB  LY2R/P        59  010    59  022    90                                @  KO15KQ
+  2015-07-04 1809 144MHZ     SSB  LY2SA         59  011    59  025    142                               @  KO14UG
+
+  2015-07-04 1814 144MHZ     SSB  LY2HQ         59  012    59  020    121                               @  KO15OV
+  2015-07-04 1829 144MHZ     SSB  UA2FT         59  013    59  009    69                                @  KO04LT
+  2015-07-04 1922 144MHZ     SSB  LY1R          59  014    59  018    97                                @  KO14RV
+  2015-07-04 1927 144MHZ     SSB  LY3VB         59  015    59  014    131                                  KO15QW
+  2015-07-04 1928 144MHZ     SSB  LY2HM         59  016    59  041    103                               @  KO15CX
+  2015-07-04 2141 144MHZ     SSB  LY1KAP/P      59  017    59  038    247                               @  KO25VL
+  2015-07-04 2147 144MHZ     SSB  LY3UV/P       59  018    59  025    164                               @  KO24EN
+  2015-07-04 2219 144MHZ     SSB  LY1CR         59  019    59  018    48                                @  KO15CL
+X 2015-07-05 0204 144MHZ     SSB  LY4MA         59  020    59  017    0                                 @  KO14XW ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 0220 144MHZ     SSB  LY1XZ         59  021    59  025    0                                 @  KO25TO ERROR(S): QSO_CROSS_CHECK_ERROR_POSSIBLE_STATION_FOUND(Cross Check QSO: 2015-Jul-05  02:19:00  GMT 145 MHz SSB LY1YZ 59(9) 25#KO25TO RA2FX 59(9) 21#KO05XB)
+
+X 2015-07-05 0236 144MHZ     SSB  LY3BBM/P      59  022    59  010    0                                 @  KO15XF ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+  2015-07-05 0303 144MHZ     SSB  EU4AG         59  023    59  038    296                               @  KO23VO
+  2015-07-05 0342 144MHZ     SSB  LY3A          59  024    59  043    148                               @  KO25DB
+X 2015-07-05 0353 144MHZ     SSB  LY3BRA        59  025    59  031    0                                 @  KO14WU ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER_IN_OTHER_LOG(Cross Check QSO: 2015-Jul-05  03:53:00  GMT 145 MHz SSB LY3BRA 59(9) 31#KO14WU RA2FX 59(9) 25#KO05VB)
+X 2015-07-05 0401 144MHZ     SSB  LY3PDX        59  026    59  015    0                                 @  KO14QL ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 0405 144MHZ     SSB  EW4WQ         59  027    59  050    296                               @  KO23VO
+  2015-07-05 0411 144MHZ     SSB  LY2NA         59  028    59  044    53                                @  KO15JC
+  2015-07-05 0521 144MHZ     SSB  LY2BUU        59  029    59  046    129                               @  KO15XH
+  2015-07-05 0637 144MHZ     SSB  LY1U          59  030    59  020    128                                  KO15PW
+  2015-07-05 1351 144MHZ     SSB  LY3TK         59  031    59  009    150                               @  KO16KH
+
+X 2015-07-05 1357 144MHZ     SSB  EU4CK         59  032    59  031    0                                 @  KO23JO ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND

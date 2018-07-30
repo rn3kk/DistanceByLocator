@@ -1,0 +1,31 @@
+Callsign: S54MTB
+QTH Locator: JN75OT
+Category: CHECKLOG
+
+
+     Band     Qso    Cancelled  Dup        Score
+  145 MHz      11            4    0            0
+  435 MHz       2            0    0            0
+  1.3 GHz       0            0    0            0
+  5.7 GHz       0            0    0            0
+   10 GHz       0            0    0            0
+   24 GHz       0            0    0            0
+------------------------------------------------
+               13            4    0            0
+
+C Date       Time Freq  Band Mode Callsign      Sent R.    Rec. R.    PO DUP Mult1    Mult2    Mult3    CC Remarks, Errors
+
+  2015-07-05 1015 432MHZ     SSB  S59DGO        59  001    59  202    0                                 @  JN75FO
+  2015-07-05 1224 432MHZ     SSB  S57NAW        59  002    59  090    0                                 @  JN76PB
+X 2015-07-05 0642 144MHZ     SSB  S59R          59  001    59  494    0                                 @  JN75OM ERROR(S): QSO_CROSS_CHECK_ERROR_WRONG_RECEIVED_NUMBER(Cross Check QSO: 2015-Jul-05  06:41:00  GMT 145 MHz SSB S59R 59(9) 494#JN76OM S54MTB 59(9) 1#JN75OT)
+  2015-07-05 0644 144MHZ     SSB  S59P          59  002    59  467    0                                 @  JN86AO
+  2015-07-05 0647 144MHZ     SSB  S56K          59  003    59  311    0                                 @  JN76KI
+  2015-07-05 0648 144MHZ     SSB  S57Q          59  004    59  408    0                                 @  JN76PB
+  2015-07-05 1012 144MHZ     SSB  S59DEM        59  005    59  648    0                                 @  JN75DS
+  2015-07-05 1016 144MHZ     SSB  S58M          59  006    59  314    0                                 @  JN76JC
+X 2015-07-05 1136 144MHZ     SSB  S51GF         59  007    59  089    0                                 @  JN75AV ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 1141 144MHZ     SSB  S57CN         59  008    59  236    0                                 @  JN75PS
+
+X 2015-07-05 1207 144MHZ     SSB  OK7O          59  009    59  699    0                                 @  JN69OU ERROR(S): QSO_CROSS_CHECK_ERROR_QSO_NOT_FOUND
+X 2015-07-05 1220 144MHZ     SSB  9A1BJK/P      59  010    59  106    0                                 @  JN75CH ERROR(S): QSO_CROSS_CHECK_ERROR_GREAT_TIME_DIFFERENCE
+  2015-07-05 1222 144MHZ     SSB  S51WX         59  011    59  035    0                                 @  JN75OS
